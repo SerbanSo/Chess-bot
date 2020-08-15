@@ -1,0 +1,299 @@
+Chess++
+
+Andrei Clicinschi (captain)
+Serban Sorohan
+Cosmin Pascu
+
+------------------------------------v1.1----------------------------------------
+
+Summary: first attempt to communicate with xboard
+		 the engine could send a single hard-coded move before crashing
+
+------------------------------------v1.2----------------------------------------
+
+Summary: naive implementation of random moves, using matrices and vectors to
+		 store the game state.
+
+--"defines.h"
+The colors: WHITE is defined to be 0
+			BLACK is defined to be 1
+
+The players: engine and opponent, which can be either WHITE or BLACK
+			 engine is by default BLACK
+			 functions mostly use the player variable, which can have one of
+			 these values
+			 the player's opponent is 1 - player
+
+The board: two boards, each one containing a single player's pieces (in this
+		   way, the pieces can have the same numerical values)
+		   board[WHITE][column][row] contains white's pieces
+		   board[BLACK][column][row] contains black's pieces
+		   rows: 8
+		   		 7
+				 6
+				 5
+				 4
+				 3
+				 2
+				 1
+		 columns: A B C D E F G H
+		 (columns first because moves are denoted first by column, then by line)
+
+The pieces: each piece has a corresponding integer
+
+Auxiliary vectors:
+		  for castling: king_moved[player], left_rook_moved[player] and
+		  				right_rook_moved[player] which are 0 if player hasn't
+						moved the piece yet
+
+		  for en passant: en_passant_available[player][column] is 1 only during
+		  		  		  the opponent's next turn following a single advance
+						  over 2 squares of player's pawn located on the column
+
+		  to track the king position: king_position[player], which contains the
+		  							  (x, y) coordinates of player's king
+
+--"main.cpp"
+Contains an infinite loop that controls gameplay in accordance to xboard's
+documentation
+
+The infinite loop takes input from xboard and implements the commands, and sends
+the random move as output
+
+If the engine is set to white, it will make the first move, otherwise it will
+wait for the opponent's move (and checks it's correctness) and will make a
+random move after
+
+To make the random move, a start and end square are selected, and it is checked
+if the move is valid. If it isn't, generate another one, and decrease the
+counter. If it is, update the matrices and vectors then send the move to xboard.
+If the counter (1 million) gets to 0, probably no legal move exists so the
+engine will resign (there are 64 * 64 = 4096 possible moves in total)
+
+--"moves.cpp" and "moves.h"
+For implementation details see the comments in those files
+
+-------------------------------------v1.3---------------------------------------
+
+Summary: implementation of random moves, using bitboards to store the game state
+
+(1) - Implemented moves for knight
+(2) - Implemented moves for king (without castling)
+(3) - Implemented moves for pawn (without en passant)
+(4) - Implemented a way to remove pieces from play
+(5) - Implemented initializations for the bitboard (in the inits.* files)
+(6) - "defines.h"
+(7) - Added "bit_moves.cpp" and "bit_moves.h" for bitboard methods
+(8) - "main.cpp"
+
+(1) - Added a 64 unsigned long long array "knight_moves" that holds on each position the viable moves of the
+knight from that position, ex: knight_moves[D3] = C1 or B2 or B4 or C5 or E5 or F4 or F2 or E1
+    - Added bit_knight_valid_move() method which ckecks if a move made by a knight is valid (also ckecks if it lands on a friendly piece)
+(2) - Added a 64 unsigned long long array "king_moves" that holds on each position the viable moves of the king from that position, ex: king_moves[C5] = B4 or B5 or B6 or C6 or D6 or D5 or D4 or D3 or C4
+    - Added bit_king_valid_move() method which ckecks if a move made by a king is valid (also ckecks if it lands on a friendly piece, doesn't check for castling)
+(3) - Added bit_pawn_valid_move() method which ckecks if a move made by a pawn is valid (can make the attack and two forward move, doesn't ckeck if it lands on a friendly piece or if a piece is in the way yet, no en passant)
+(4) - Added remove_black_piece() and remove_white_piece() which remove the piece from the given position
+(5) - Tons of methods, see "inits.h" for details and "inits.cpp" for implementation
+    - init_knight_moves initialise the knight_moves array
+    - init_king_moves initialise the king_moves array
+(6) - Added "Play_board" structure for the bit board
+    - Defined each play box (A1, A2, ... , H8): A1 is the first bit, A2 is the second bit and so on...
+    - Declared "bit_board" variable
+    - Declared "king_moves" and "knight_moves" arrays
+    - FOR TESTING: print_bit() method, bit_board_file variable
+(7) - See bit_moves.h for a brief description of each method
+(8) - Changed the following: In is_move(input_buffer) branch: 	- make_move() -> bit_make_move()
+								- make_random_move() -> bit_make_random_move()
+    - Added a second main for testing purpose
+
+####!!!! All changes are in the 'v1.3(bitboard)' folder !!!!####
+
+THE BIG UPDATE EVERYBODY WAS WAITING FOR:
+
+BBBBBIIIIITTTTBOAARDSSSSSS!!!!!!!!!!!!!!
+
+
+And now, the patch notes :(:
+
+(1) Moved "bit_moves.cpp" and "bit_moves.h" -> "moves.cpp" and "moves.h"
+(2) Implemented attack tables for bishop, rook and queen using *magic*.
+(3) Restructured the structure needed for bitboard: struct Playboard -> struct Bitboard; see "defines.h" for more details
+(4) Implemented "check" check detection
+(5) Implemented pawn promotion (only to queen)
+
+
+NEED TO DO:
+-castling
+-en-passant
+-promote to other pieces
+
+-------------------------------------v2.1---------------------------------------
+
+Summary: naive implementation of negamax algorithm, using matrices and vectors
+		 to store the game state.
+
+Made this as a backup plan in case v2.2 isn't ready in time.
+
+Some improvements, like storing the pieces in a vector to avoid having to guess
+a random move start square.
+
+Most functions used to validate moves are the same, but now they have to take
+the game state arrays (board, pieces, castling rights, etc) as parameters,
+because a copy of the game state is being made inside the negamax function
+before trying a new potential move. Undoing the move was probably a better
+option but undoing special moves like en passant, castling and pawn promotion
+seemed to be harder to implement than copy-pasting some arrays.
+
+Some functions in the old moves.cpp were designed for random moves, so they
+make a few extra checks that wouldn't be necessary now that we know exactly
+what piece we are trying to move, and where it could be moved.
+
+The evaluation function used (without the king square tables):
+
+https://www.chessprogramming.org/Simplified_Evaluation_Function
+
+It probably could be updated after each move instead of recalculating it in
+every leaf node in the game tree of depth MAX_DEPTH, but as I said before, I
+never really tried to optimize this.
+
+Overall performance isn't terrible:
+MAX_DEPTH = 4 gives a move time of around 1s
+with MAX_DEPTH = 5 the move time is around 30s, too long for a 5min game
+MAX_DEPTH is increased when there are few pieces on the board (in the endgame)
+
+Average results against fairymax v4.8, with search depth = 2:
+probably 2 wins, 4 draws and 4 losses, so around 4/10 points
+
+Most of the draws could have easily been wins is threefold repetitions were
+avoided properly when having material advantage.
+Not quite sure why the score isn't higher despite the search depth being the
+fairymax's one, probably because fairymax uses a better evaluation function that
+allows it to gain a positional advantage in the midgame (unless it gets mated
+in 3-5 moves by our engine, which is where most of the wins come from) that
+can't be overcome by a slightly deeper search.
+
+The code is pretty messy and there are no comments since this was never supposed
+to be a final version, only to test things for v2.2
+
+Some bugs found during the tests are saved in "bugs.txt". I won't investigate
+further since the board representation will be completely changed in the
+final version anyway.
+
+-------------------------------------v2.2---------------------------------------
+
+Summary: negamax implementation using bitboards
+
+Moved "is_move" to be the first in main
+
+Gameboard:
+The gameboard is stored in bitboards. Each type of piece for each player is
+stored in an unsigned long long variable. See struct "Bitboard".
+Used documentation: https://www.chessprogramming.org/Bitboards
+
+Possible moves:
+The possible moves for each piece are store as vector:
+Pawns:
+	-pawn_moves: the forward moves (1 square, or 2 squares in the
+beginning) for each player (White and Black) for a given square
+	-pawn_attacks: the diagonal attack for each player for a given square
+
+Knights:
+	-knight_moves: all possible moves for a given square
+
+King:
+	-king_moves: all possible moves for a given square
+
+Rook: Using magic bitboards
+	-rook_attacks: all possible moves for a given square AND a given board
+
+Bishop: Using magic bitboard
+	-bishop_attacks: all possible moves for a given square AND a given board
+
+Queen: Using magic bitboard
+	-The moves for a queen are obtained by doing a logic OR between the
+possible moves of the rook and bishop
+	-rook_attacks and bishop_attacks: all possible moves for a given square
+AND a given board
+
+For the generation of magic bitboard we used the moves generated by: https://github.com/goutham/magic-bits
+The program generates the magic numbers and stores them in files. We are only using the generated files (stored in "Database" folder), we didn't copy paste any code from the source.
+A good documentation for magic bitboards: http://pradu.us/old/Nov27_2008/Buzz/research/magic/Bitboards.pdf
+
+Move generation:
+The move generation is quite simple for bitboard: For each possible moves
+(described above), let X be the board representing a possible move. Doing
+the operation "LSB = X & -X", you obtain the LSB. You do a logical AND
+between the LSB and the friendly board "LSB & friendly_board" to make sure
+the piece won't move on another friendly piece. If the result is not 0,
+the move is not valid, so you ignore it, otherwise it is a valid move, so you
+store it (check validation in done in negamax). Next, doing "X & X-1" removes
+the LSB, so you can try the next move. You do this while X != 0.
+A better explanation is found here: https://www.chessprogramming.org/Bitboard_Serialization
+
+
+Negamax:
+We implemented negamax with the alpha-beta pruning optimization (the function is called "alphanegamax")
+
+Function execution flow:
+	- If the depth is 0, return the evaluation for current player
+	- Generate all valid moves
+	- Shuffle the vector with the generated moves (to add a bit of
+randomness)
+	- Sort the shuffled vector by the moves possibility to capture
+opponent's pieces (it may seems like the shuffling is redundant, but it isn't.
+The sort is done by checking if a move can capture any piece. So, it is either
+"can capture a piece" or "can't capture a piece")
+	- Store the current game state
+	- For each move in the vector:
+		- Make the move
+		- Do a check validation. If the current player is in check, skip this move
+		- Update the evaluation scores for each player.
+		- Negamax recursive call
+		- Undo the gamestate
+		- Check if the evaluation is better than the maximum one and
+update the maximum evaluation and best move if it is the case
+	- Return the best evaluation
+
+
+Evaluation heuristic:
+Each player has a score (board.score) which is updated for every valid move
+in "alphanegamax". The evaluation consists in the difference between the player
+scores.
+The score is evaluated as follows: (for a move)
+	- piece_value + piece_value_table + x * number of possible moves +
+distance from friendly king; where:
+		- piece_value represents the value of each piece
+		- piece_value_table represents the value of each piece on a
+given square
+		- x is arbitrary choosed; number of possible moves is pretty
+explanatory
+		- distance from friendly king is the Chebyshev's distance of
+a piece in relation with their king
+For piece_value we used the values for middle game of the stockfish bot: https://hxim.github.io/Stockfish-Evaluation-Guide/
+For piece_value_table: TODO
+For number of possible moves, x is chosen by us
+For distance from friendly king, the distance bonus is chosen by us
+Used documentation: https://www.chessprogramming.org/Evaluation
+
+
+We ran 3 tests on our computers, the results can be seen below.
+
+RESULTS: Match make vs Fairy-Max --- time (total time for the 10 matches)
+		  w-l-d (wins - losses - draws)
+
+Andrei 1: 4-1-5 --- 13m50.182s
+Andrei 2: 5-0-5 --- 10m23.637s
+Andrei 3: 4-0-6 --- 12m23.248s
+average time for a single move at depth 6 ~ 2-4s (opening, midgame)
+											<1s (endgame)
+
+Serban 1: 5-0-5 --- 14m59.092s
+Serban 2: 4-1-5 --- 10m42.543s
+Serban 3: 4-0-6 --- 12m30.247s
+
+Cosmin 1: 4-0-6 --- 16m1.815s
+Cosmin 2: 3-2-5 --- 13m32.238s
+Cosmin 3: 5-0-5 --- 11m12.734s
+
+(most of the draws come from threefold repetitions and stalemates, which haven't
+been implemented yet)

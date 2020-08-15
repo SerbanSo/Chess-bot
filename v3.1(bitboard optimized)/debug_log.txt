@@ -1,0 +1,4135 @@
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+recognized 'normal' (-1) as variant normal
+shuffleOpenings = 0
+Requested font set for list -*-helvetica-medium-r-normal--12-*-*-*-*-*-*-*,-misc-fixed-medium-r-normal--12-*-*-*-*-*-*-*,-*-*-*-*-*-*-12-*-*-*-*-*-*-*
+ got list -*-helvetica-medium-r-normal--12-*-*-*-*-*-*-*,-misc-fixed-medium-r-normal--12-*-*-*-*-*-*-*,-*-*-*-*-*-*-12-*-*-*-*-*-*-*, locale en_US.UTF-8
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso8859-1
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso8859-1
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso8859-2
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso8859-3
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso8859-4
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso8859-5
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-koi8-r
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso8859-7
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso8859-9
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso8859-13
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso8859-14
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso8859-15
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-jisx0208.1983-0
+ got charset -daewoo-gothic-medium-r-normal--12-87-100-100-c-0-ksc5601.1987-0
+ got charset -isas-fangsong ti-medium-r-normal--12-87-100-100-c-0-gb2312.1980-0
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-jisx0201.1976-0
+ got charset -misc-fixed-medium-r-normal--12-87-100-100-c-0-iso10646-1
+Requested font set for list -*-helvetica-bold-r-normal--24-*-*-*-*-*-*-*,-misc-fixed-bold-r-normal--24-*-*-*-*-*-*-*,-*-*-*-*-*-*-24-*-*-*-*-*-*-*
+ got list -*-helvetica-bold-r-normal--24-*-*-*-*-*-*-*,-misc-fixed-bold-r-normal--24-*-*-*-*-*-*-*,-*-*-*-*-*-*-24-*-*-*-*-*-*-*, locale en_US.UTF-8
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso8859-1
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso8859-1
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso8859-2
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso8859-3
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso8859-4
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso8859-5
+ got charset -misc-fixed-medium-r-normal--24-173-100-100-c-0-koi8-r
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso8859-7
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso8859-9
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso8859-13
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso8859-14
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso8859-15
+ got charset -jis-fixed-medium-r-normal--24-170-100-100-c-240-jisx0208.1983-0
+ got charset -daewoo-mincho-medium-r-normal--24-170-100-100-c-240-ksc5601.1987-0
+ got charset -isas-song ti-medium-r-normal--24-240-72-72-c-240-gb2312.1980-0
+ got charset -sony-fixed-medium-r-normal--24-170-100-100-c-120-jisx0201.1976-0
+ got charset -misc-fixed-bold-r-normal--24-173-100-100-c-0-iso10646-1
+Requested font set for list -*-helvetica-bold-r-normal--10-*-*-*-*-*-*-*,-misc-fixed-bold-r-normal--10-*-*-*-*-*-*-*,-*-*-*-*-*-*-10-*-*-*-*-*-*-*
+ got list -*-helvetica-bold-r-normal--10-*-*-*-*-*-*-*,-misc-fixed-bold-r-normal--10-*-*-*-*-*-*-*,-*-*-*-*-*-*-10-*-*-*-*-*-*-*, locale en_US.UTF-8
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso8859-1
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso8859-1
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso8859-2
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso8859-3
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso8859-4
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso8859-5
+ got charset -misc-fixed-medium-r-normal--10-100-75-75-c-60-koi8-r
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso8859-7
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso8859-9
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso8859-13
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso8859-14
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso8859-15
+ got charset -jis-fixed-medium-r-normal--10-72-100-100-c-0-jisx0208.1983-0
+ got charset -daewoo-gothic-medium-r-normal--10-72-100-100-c-0-ksc5601.1987-0
+ got charset -isas-fangsong ti-medium-r-normal--10-72-100-100-c-0-gb2312.1980-0
+ got charset -misc-fixed-medium-r-normal--10-72-100-100-c-0-jisx0201.1976-0
+ got charset -misc-fixed-bold-r-normal--10-72-100-100-c-0-iso10646-1
+shuffleOpenings = 0
+Version: xboard 4.8.0 + make ()
+Reset(1, 0) from gameMode 0
+recognized 'normal' (-1) as variant normal
+GameEnds(0, (null), 2)
+shuffleOpenings = 0
+StartChildProcess (dir=".") make run
+407 >first : xboard
+protover 2
+413 <first : ./Chess++
+436 <first : feature sigint=0 san=0
+436 >first : accepted sigint
+436 >first : accepted san
+10412 >first : new
+random
+10413 >first : level 0 5 2
+10413 >first : post
+10413 >first : hard
+Reset(0, 1) from gameMode 0
+recognized 'normal' (-1) as variant normal
+GameEnds(0, (null), 2)
+10414 >first : quit
+shuffleOpenings = 0
+StartChildProcess (dir=".") make run
+10419 >first : xboard
+protover 2
+10419 >first : new
+random
+10420 >first : level 0 5 2
+10420 >first : post
+10420 >first : hard
+10421 >first : force
+StartChildProcess (dir=".") fairymax
+10423 >second: xboard
+protover 2
+10425 <first : ./Chess++
+10457 <first : feature sigint=0 san=0
+10457 >first : accepted sigint
+10457 >first : accepted san
+10502 <second: tellics say     Fairy-Max 4.8V
+10502 <second: tellics say     by H.G. Muller
+10502 <second: tellics say Gothic Chess is protected by U.S. patent #6,481,716 by Ed Trice.
+10502 <second: tellics say Falcon Chess is protected by U.S. patent #5,690,334 by George W. Duke
+10502 <second: feature myname="Fairy-Max 4.8V"
+10502 >second: accepted myname
+10503 <second: feature memory=1
+10503 >second: accepted memory
+10503 <second: feature setboard=0 xedit=1 ping=1 done=0
+10503 >second: accepted setboard
+10503 >second: accepted xedit
+10503 >second: accepted ping
+10503 >second: accepted done
+10503 <second: feature variants="normal,nocastle,shatranj,asean,makruk,cambodian,ai-wok,courier,knightmate,capablanca,gothic,falcon,cylinder,berolina,super,seirawan,spartan,great,light-brigade,king-of-the-hill,bifurcator,team-mate,fairy"
+10503 >second: accepted variants
+10503 <second: feature option="Resign -check 0"
+10503 >second: accepted option
+10503 <second: feature option="Resign Threshold -spin 800 200 1200"
+10503 >second: accepted option
+10503 <second: feature option="Claim draw after -spin 50 0 200"
+10503 >second: accepted option
+10503 <second: feature option="Ini File -file /usr/share/games/fairymax/fmax.ini"
+10503 >second: accepted option
+10503 <second: feature option="Multi-PV Margin -spin 0 0 1000"
+10503 >second: accepted option
+10503 <second: feature option="Variant fairy selects -combo FIDE-Clobberers /// Clobberers-FIDE /// FIDE-Nutters /// Nutters-FIDE /// Clobberers-Nutters /// Nutters-Clobberers /// FIDE-Rookies /// Rookies-FIDE /// Clobberers-Rookies /// Rookies-Clobberers"
+10503 >second: accepted option
+10503 <second: feature option="Makruk rules -combo makruk /// Cambodian /// Ai-wok"
+10503 >second: accepted option
+10503 <second: feature option="Dummy Slider Example -slider 20 0 100"
+10503 >second: accepted option
+10503 <second: feature option="Dummy String Example -string happy birthday!"
+10503 >second: accepted option
+10503 <second: feature option="Dummy Path Example -path ."
+10503 >second: accepted option
+10503 <second: feature option="Info -button"
+10503 >second: accepted option
+10503 <second: feature option="Clear Hash -button"
+10503 >second: accepted option
+10503 <second: feature done=1
+10503 >second: accepted done
+10504 >second: memory 68
+10504 >second: new
+random
+sd 4
+10504 >second: level 0 5 2
+10504 >second: post
+10504 >second: hard
+10504 >second: ping 1
+10504 >second: force
+10536 <second: pong 1
+New game (1): make-Fairy-Max 4.8V (w)
+10544 >first : computer
+10544 >second: computer
+10544 >first : black
+10544 >first : time 30000
+10544 >first : otim 30000
+10544 >first : white
+book hit = (NULL)
+10544 >first : go
+nps: w=-1, b=-1
+10544 <second: Error (unknown command): computer
+11626 <first : move g1f3ü
+11626 >second: time 30000
+11626 >second: otim 30091
+book hit = (NULL)
+11626 >second: g1f3
+11626 >second: black
+11626 >second: go
+11741 <second: # times @ 781869266
+11741 <second: # 16+16 pieces, centr = (1,1) R=40
+11741 <second:  1     15        0          3 c7c5
+11741 <second:  1     19        0          5 c7c6
+11741 <second:  1     28        0          7 d7d6
+11741 <second:  2      1        0         15 d7d6 c2c4
+11741 <second:  2      2        0         30 d7d5 d2d4
+11741 <second:  2      5        0         60 f7f6 c2c4
+11741 <second:  2      9        0         96 b8c6 c2c4
+11741 <second:  3      3        0        326 b8c6 c2c4 d7d5
+11741 <second:  3     18        0        550 b8a6 c2c4 c7c5
+11741 <second:  3     27        0        741 g8f6 c2c4 c7c5
+11741 <second:  4    -18        0       1517 g8f6 d2d4 d7d5 b1c3
+11741 <second:  4     -1        0       3093 a7a5 d2d4 d7d5 b1c3
+11741 <second:  4      4        0       4179 b7b5 b1c3 c7c6 d2d4
+11741 <second:  4      5        0       5133 c7c5 d2d4 d7d6 d4c5
+11741 <second:  4     12        0       6133 d7d6 d2d4 b8c6 c2c4
+11741 <second: # times @ 781869276: real=10 cpu=20
+11741 <second: # promo = 0 (`) GT = 0
+11741 <second: move d7d6
+11741 >first : time 30091
+11741 >first : otim 30188
+book hit = (NULL)
+11741 >first : d7d6
+14165 <first : move b1c3
+Interrupting second
+14166 >second: time 30188
+14166 >second: otim 30049
+book hit = (NULL)
+14166 >second: b1c3
+14285 <second: # times @ 781871808
+14285 <second: # 16+16 pieces, centr = (1,1) R=40
+14285 <second:  1     15        0          3 c7c5
+14285 <second:  1     16        0          5 c7c6
+14285 <second:  1     30        0          7 c8f5
+14285 <second:  2      5        0         23 c8f5 d2d4
+14285 <second:  2     14        0         41 c8e6 d2d4
+14285 <second:  3      8        0        699 c8e6 f3d4 e6c4
+14285 <second:  3     13        0        940 a7a6 d2d4 b8c6
+14285 <second:  3     17        0       1237 f7f5 d2d4 b8c6
+14285 <second:  3     18        0       1438 b8d7 d2d4 c7c5
+14285 <second:  4     -5        0       1826 b8d7 d2d4 c7c5 c1f4
+14285 <second:  4      0        1       3036 b8c6 d2d4 c8f5 c1f4
+14285 <second:  4      7        1       4224 c8f5 e2e4 f5e6 d2d4
+14285 <second: # times @ 781871825: real=17 cpu=10
+14285 <second: # promo = 0 (`) GT = 0
+14285 <second: move c8f5
+14285 >first : time 30049
+14285 >first : otim 30376
+book hit = (NULL)
+14285 >first : c8f5
+16413 <first : move f3d4 
+Interrupting second
+16413 >second: time 30376
+16413 >second: otim 30036
+book hit = (NULL)
+16413 >second: f3d4
+16534 <second: # times @ 781874053
+16534 <second: # 16+16 pieces, centr = (1,1) R=40
+16534 <second:  1   -231        0          3 f5c2
+16534 <second:  1     -4        0          3 f5g4
+16534 <second:  2    -13        0         17 f5g4 f2f4
+16535 <second:  3     -7        0        461 f5g4 f2f3 g4d7
+16535 <second:  4    -24        0        767 f5g4 f2f3 g4d7 a2a4
+16535 <second:  4    -12        0       2931 f5g6 f2f4 b8c6 d4f3
+16535 <second:  4    -10        0       4321 f5d7 f2f4 c7c5 d4f3
+16535 <second: # times @ 781874060: real=7 cpu=10
+16535 <second: # promo = 0 (`) GT = 0
+16535 <second: move f5d7
+16535 >first : time 30036
+16535 >first : otim 30564
+book hit = (NULL)
+16535 >first : f5d7
+18308 <first : move a1b1
+Interrupting second
+18308 >second: time 30564
+18308 >second: otim 30059
+book hit = (NULL)
+18308 >second: a1b1
+18385 <second: # times @ 781875948
+18385 <second: # 16+16 pieces, centr = (1,1) R=40
+18385 <second:  1     15        0          3 c7c5
+18385 <second:  2     16        0         83 c7c5 d4f3
+18385 <second:  3     31        0        467 c7c5 d4f3 b8c6
+18385 <second:  4     16        0        886 c7c5 d4f3 b8c6 d2d4
+18385 <second: # times @ 781875950: real=2 cpu=0
+18385 <second: # promo = 0 (`) GT = 0
+18385 <second: move c7c5
+18385 >first : time 30059
+18385 >first : otim 30756
+book hit = (NULL)
+18385 >first : c7c5
+19532 <first : move d4f3
+Interrupting second
+19532 >second: time 30756
+19532 >second: otim 30144
+book hit = (NULL)
+19532 >second: d4f3
+19647 <second: # times @ 781877172
+19647 <second: # 16+16 pieces, centr = (1,1) R=40
+19647 <second:  1     -3        0          5 a7a5
+19648 <second:  1      1        0          7 d7c6
+19648 <second:  1      5        0          9 d7e6
+19648 <second:  1      6        0         11 d7f5
+19648 <second:  1     16        0         11 b8c6
+19648 <second:  2     16        0         12 b8c6
+19648 <second:  3     13        0        281 b8c6 d2d4 g8f6
+19648 <second:  4     -1        0       2544 b8c6 d2d4 g8f6 c1f4
+19648 <second: # times @ 781877191: real=19 cpu=20
+19648 <second: # promo = 0 (`) GT = 0
+19648 <second: move b8c6
+19649 >first : time 30144
+19649 >first : otim 30945
+book hit = (NULL)
+19649 >first : b8c6
+22390 <first : move c3d5
+Interrupting second
+22390 >second: time 30945
+22390 >second: otim 30070
+book hit = (NULL)
+22390 >second: c3d5
+22495 <second: # times @ 781880030
+22495 <second: # 16+16 pieces, centr = (1,1) R=40
+22495 <second:  1      6        0          3 a7a5
+22495 <second:  1     13        0          3 g8f6
+22495 <second:  2      6        0         69 g8f6 c2c4 f6d5 c4d5
+22495 <second:  3      6        0        719 g8f6 c2c4 f6d5
+22495 <second:  3      7        0        873 e7e6 d5f4 g8f6
+22495 <second:  3     21        0       1204 d8a5 a2a3 e8c8
+22495 <second:  4     10        0       2721 d8a5 b1a1 e8c8 c2c4
+22495 <second: # times @ 781880036: real=6 cpu=0
+22495 <second: # promo = 0 (`) GT = 0
+22495 <second: move d8a5
+22495 >first : time 30070
+22495 >first : otim 31134
+book hit = (NULL)
+22495 >first : d8a5
+27152 <first : move a2a3
+Interrupting second
+27153 >second: time 31134
+27153 >second: otim 29804
+book hit = (NULL)
+27153 >second: a2a3
+27239 <second: # times @ 781884793
+27239 <second: # 16+16 pieces, centr = (1,1) R=40
+27239 <second:  1   -774        0          7 a5a3 b2a3
+27239 <second:  1      0        0         13 a5b5
+27239 <second:  1     16        0         13 e8c8
+27239 <second:  2     16        0         14 e8c8
+27239 <second:  3     20        0        548 e8c8 b2b4 a5b5
+27239 <second:  4     15        0       1568 e8c8 b2b4 a5b5 e2e4
+27239 <second: # times @ 781884801: real=8 cpu=10
+27239 <second: # promo = 0 (`) GT = 0
+27239 <second: move e8c8
+27239 >first : time 29804
+27239 >first : otim 31326
+book hit = (NULL)
+27239 >first : e8c8
+29100 <first : move f3g5
+Interrupting second
+29100 >second: time 31326
+29100 >second: otim 29818
+book hit = (NULL)
+29100 >second: f3g5
+29214 <second: # times @ 781886740
+29214 <second: # 16+16 pieces, centr = (1,1) R=40
+29214 <second:  1   -747        0          3 a5a3
+29214 <second:  1    -44        0          3 a5b5
+29214 <second:  1    -31        0          3 g8f6
+29214 <second:  1      5        0          3 g8h6
+29214 <second:  1      6        0          3 f7f5
+29214 <second:  2     -9        0        133 f7f5 f2f4
+29214 <second:  2      0        0        303 f7f6 g5e4
+29214 <second:  3   -166        0       1415 f7f6 g5f7 d7e6 f7d8 a5d8
+29214 <second:  3   -164        0       2010 f7f5 g5f7 d7e6 f7d8 a5d8
+29215 <second:  3     -5        0       3729 c6e5 f2f4 f7f6
+29215 <second:  3     -4        0       4448 g8h6 f2f4 d7f5
+29215 <second:  4    -10        0       6058 g8h6 f2f4 d7f5 b2b4
+29215 <second:  4     -9        2      16266 c6e5 f2f4 f7f6 g5e4
+29215 <second: # times @ 781886763: real=23 cpu=30
+29215 <second: # promo = 0 (`) GT = 0
+29215 <second: move c6e5
+29215 >first : time 29818
+29215 >first : otim 31514
+book hit = (NULL)
+29215 >first : c6e5
+32059 <first : move d5e3
+Interrupting second
+32059 >second: time 31514
+32059 >second: otim 29734
+book hit = (NULL)
+32059 >second: d5e3
+32163 <second: # times @ 781889699
+32163 <second: # 16+16 pieces, centr = (1,1) R=40
+32163 <second:  1   -774        0          3 a5a3
+32163 <second:  1      0        0          3 a5b5
+32163 <second:  1     13        0          3 g8f6
+32163 <second:  2     -2        0         73 g8f6 f2f4
+32163 <second:  3    -71        0       1649 g8f6 f2f4 e5g4 e3g4 d7g4 g5f7
+32163 <second:  3     -6        0       2295 g8h6 f2f4 f7f6
+32163 <second:  3     -4        1       4208 e7e6 f2f4 f8e7
+32163 <second:  3     -2        1       4512 f7f6 b2b4 a5b5
+32163 <second:  4     -5        1       8712 f7f6 b2b4 a5b5 g5e4
+32163 <second: # times @ 781889744: real=45 cpu=40
+32163 <second: # promo = 0 (`) GT = 0
+32163 <second: move f7f6
+32163 >first : time 29734
+32163 >first : otim 31704
+book hit = (NULL)
+32163 >first : f7f6
+32998 <first : move g5f3
+Interrupting second
+32999 >second: time 31704
+32999 >second: otim 29850
+book hit = (NULL)
+32999 >second: g5f3
+33106 <second: # times @ 781890639
+33106 <second: # 16+16 pieces, centr = (1,1) R=40
+33106 <second:  1    -10        0          3 e5f3
+33106 <second:  1     -4        0          3 e5g4
+33106 <second:  1      0        0          3 d8e8
+33106 <second:  1      5        0          3 g8h6
+33106 <second:  1      6        0          3 g7g5
+33107 <second:  2      0        0         80 g7g5 b2b4
+33107 <second:  3      0        0       1931 g7g5 b2b4 a5b5
+33107 <second:  4     -7        0       3821 g7g5 f3e5 d6e5 f2f3
+33107 <second: # times @ 781890684: real=45 cpu=50
+33107 <second: # promo = 0 (`) GT = 0
+33107 <second: move g7g5
+33107 >first : time 29850
+33107 >first : otim 31893
+book hit = (NULL)
+33107 >first : g7g5
+33697 <first : move h2h4@
+Interrupting second
+33697 >second: time 31893
+33697 >second: otim 29991
+book hit = (NULL)
+33697 >second: h2h4
+33774 <second: # times @ 781891338
+33774 <second: # 16+16 pieces, centr = (1,1) R=40
+33774 <second:  1    -10        0          3 e5f3
+33774 <second:  1     -7        0          3 e5f7
+33774 <second:  1     -4        0          3 f8g7
+33774 <second:  1      2        0          3 f8h6
+33774 <second:  2     -4        0        220 f8h6 b2b4
+33774 <second:  2     -2        0        298 g8h6 h4g5
+33774 <second:  3     -7        0       3524 g8h6 b2b4 a5b6 h4g5 e5f3 g2f3 f6g5
+33774 <second:  3     -5        0       7486 e5f3 g2f3 g8h6
+33774 <second:  3     -4        1       9592 f8h6 b2b4 a5b6
+33774 <second:  4     -9        1      12377 f8h6 b2b4 a5b6 c2c4
+33774 <second:  4     -7        1      15103 g8h6 b2b4 a5b6 h4g5
+33774 <second: # times @ 781891385: real=47 cpu=40
+33774 <second: # promo = 0 (`) GT = 0
+33774 <second: move g8h6
+33774 >first : time 29991
+33774 >first : otim 32085
+book hit = (NULL)
+33774 >first : g8h6
+34051 <first : move h4g5
+Interrupting second
+34051 >second: time 32085
+34051 >second: otim 30163
+book hit = (NULL)
+34051 >second: h4g5
+34136 <second: # times @ 781891691
+34137 <second: # 16+15 pieces, centr = (1,1) R=40
+34137 <second:  1     -2        0          3 e5f3
+34137 <second:  2     -2        0          6 e5f3 g2f3
+34137 <second:  3     -3        0        642 e5f3 g2f3 f6g5
+34137 <second:  4    -17        0       1443 e5f3 g2f3 f6g5 b2b4
+34137 <second: # times @ 781891699: real=8 cpu=10
+34137 <second: # promo = 0 (`) GT = 0
+34137 <second: move e5f3
+34137 >first : time 30163
+34138 >first : otim 32277
+book hit = (NULL)
+34138 >first : e5f3
+34320 <first : move e2f3
+Interrupting second
+34320 >second: time 32277
+34320 >second: otim 30345
+book hit = (NULL)
+34320 >second: e2f3
+34409 <second: # times @ 781891960
+34409 <second: # 15+14 pieces, centr = (1,1) R=36
+34409 <second:  1     -4        0          3 f6g5
+34409 <second:  2    -10        0         53 f6g5 f1d3
+34409 <second:  3     -5        0       1179 f6g5 f1d3 d7e6
+34409 <second:  4    -30        0       2892 f6g5 f1d3 d7e6 e1g1
+34409 <second: # times @ 781891967: real=7 cpu=10
+34409 <second: # promo = 0 (`) GT = 0
+34409 <second: move f6g5
+34410 >first : time 30345
+34410 >first : otim 32468
+book hit = (NULL)
+34410 >first : f6g5
+36123 <first : move b2b4@
+Interrupting second
+36123 >second: time 32468
+36123 >second: otim 30374
+book hit = (NULL)
+36123 >second: b2b4
+36204 <second: # times @ 781893763
+36204 <second: # 14+14 pieces, centr = (1,1) R=36
+36204 <second:  1    -21        0          3 c5b4
+36204 <second:  1    -13        0          3 a5a4
+36204 <second:  1      0        0          3 a5b6
+36204 <second:  2    -10        0        119 a5b6 f1d3
+36204 <second:  3    -62        0       1746 a5b6 e3d5 b6c6 d5e7 f8e7 h1h6
+36204 <second:  3    -13        0       3021 a5a4 b4c5 d6c5
+36204 <second:  4    -16        0       6230 a5a4 b4c5 d6c5 f1d3
+36204 <second:  4    -14        1       8231 c5b4 a3b4 a5a2 c1b2
+36204 <second: # times @ 781893775: real=12 cpu=10
+36204 <second: # promo = 0 (`) GT = 0
+36204 <second: move c5b4
+36204 >first : time 30374
+36204 >first : otim 32660
+book hit = (NULL)
+36204 >first : c5b4
+38353 <first : move c1b2
+Interrupting second
+38353 >second: time 32660
+38353 >second: otim 30359
+book hit = (NULL)
+38353 >second: c1b2
+38440 <second: # times @ 781895994
+38440 <second: # 13+14 pieces, centr = (1,1) R=36
+38440 <second:  1   -243        0          3 b4a3
+38440 <second:  1   -224        0          3 f8g7
+38440 <second:  1     73        0          3 h8g8
+38440 <second:  2     65        0         87 h8g8 f1c4
+38440 <second:  3     65        0       1201 h8g8 f1c4 g8g6 a3b4 a5b4
+38440 <second:  4     58        0       3266 h8g8 a3b4 a5b4 b2e5
+38440 <second: # times @ 781896002: real=8 cpu=10
+38440 <second: # promo = 0 (`) GT = 0
+38440 <second: move h8g8
+38440 >first : time 30359
+38440 >first : otim 32851
+book hit = (NULL)
+38440 >first : h8g8
+39667 <first : move a3b4
+Interrupting second
+39668 >second: time 32851
+39668 >second: otim 30436
+book hit = (NULL)
+39668 >second: a3b4
+39754 <second: # times @ 781897308
+39754 <second: # 13+13 pieces, centr = (1,1) R=36
+39754 <second:  1     58        0          3 a5b4
+39754 <second:  2     58        0          4 a5b4
+39755 <second:  3    -38        0       1696 a5b4 b2g7 b4b1 d1b1 f8g7
+39755 <second:  3     -9        0       2521 a5a4 f1c4 g8g6
+39755 <second:  4    -22        0       4614 a5a4 f1c4 g8g6 b2d4
+39755 <second: # times @ 781897318: real=10 cpu=10
+39755 <second: # promo = 0 (`) GT = 0
+39755 <second: move a5a4
+39755 >first : time 30436
+39755 >first : otim 33042
+book hit = (NULL)
+39755 >first : a5a4
+42140 <first : move f1c4
+Interrupting second
+42140 >second: time 33042
+42140 >second: otim 30397
+book hit = (NULL)
+42140 >second: f1c4
+42253 <second: # times @ 781899781
+42253 <second: # 13+13 pieces, centr = (1,1) R=36
+42253 <second:  1   -141        0         19 a4b4 c4g8 h6g8 h1h7
+42253 <second:  1    -23        0         23 g8g6
+42253 <second:  2    -23        0         24 g8g6
+42253 <second:  3     -8        0        770 g8g6 b2d4 h6f5 e3f5 d7f5 h1h7 f5c2
+42253 <second:  4    -14        0       3414 g8g6 c4d3 g6e6 b2d4
+42253 <second: # times @ 781899790: real=9 cpu=10
+42253 <second: # promo = 0 (`) GT = 0
+42253 <second: move g8g6
+42253 >first : time 30397
+42254 >first : otim 33231
+book hit = (NULL)
+42254 >first : g8g6
+46634 <first : move c2c3
+Interrupting second
+46635 >second: time 33231
+46635 >second: otim 30159
+book hit = (NULL)
+46635 >second: c2c3
+46716 <second: # times @ 781904276
+46716 <second: # 13+13 pieces, centr = (1,1) R=36
+46716 <second:  1      0        0          3 a4d1
+46716 <second:  2      0        0         87 a4d1 b1d1
+46716 <second:  3      3        0        580 a4d1 b1d1 d7e6 c4e6 g6e6
+46716 <second:  4     -4        0       1841 a4d1 b1d1 b7b5 c4d5
+46716 <second: # times @ 781904284: real=8 cpu=10
+46716 <second: # promo = 0 (`) GT = 0
+46716 <second: move a4d1
+46716 >first : time 30159
+46716 >first : otim 33423
+book hit = (NULL)
+46716 >first : a4d1
+47253 <first : move e1d1
+Interrupting second
+47253 >second: time 33423
+47253 >second: otim 30306
+book hit = (NULL)
+47253 >second: e1d1
+47337 <second: # times @ 781904893
+47337 <second: # 12+12 pieces, centr = (1,1) R=24
+47338 <second:  1      1        0          9 e7e5
+47338 <second:  1      3        0         13 f8g7
+47338 <second:  2      0        0         41 f8g7 c4d5
+47338 <second:  2      8        0        291 d7a4 e3c2 a4c6
+47338 <second:  3     -1        0       1178 d7a4 e3c2 a4c6 c2d4
+47338 <second:  4     -2        0       7300 d7a4 e3c2 g6f6 c4d3 f6f7
+47338 <second: # times @ 781904906: real=13 cpu=10
+47338 <second: # promo = 0 (`) GT = 0
+47338 <second: move d7a4
+47338 >first : time 30306
+47338 >first : otim 33614
+book hit = (NULL)
+47338 >first : d7a4
+48134 <first : move d1c1
+Interrupting second
+48134 >second: time 33614
+48134 >second: otim 30426
+book hit = (NULL)
+48134 >second: d1c1
+48212 <second: # times @ 781905775
+48212 <second: # 12+12 pieces, centr = (1,1) R=24
+48212 <second:  1    -38        0          3 a7a5
+48212 <second:  1     21        0          3 a7a6
+48212 <second:  2    -11        0         21 a7a6 d2d4
+48212 <second:  2     -2        0         99 b7b5 c4d5
+48212 <second:  2      0        0        373 a4c6 d2d4
+48212 <second:  3    -52        0       1186 a4c6 c4d3 g6f6 d3h7
+48213 <second:  3     -1        0       8150 g6f6 c4d3 f6f7
+48213 <second:  4    -10        1       8909 g6f6 e3d5 f6g6 d2d4
+48213 <second: # times @ 781905790: real=15 cpu=10
+48213 <second: # promo = 0 (`) GT = 0
+48213 <second: move g6f6
+48213 >first : time 30426
+48213 >first : otim 33806
+book hit = (NULL)
+48213 >first : g6f6
+51122 <first : move e3d5
+Interrupting second
+51122 >second: time 33806
+51122 >second: otim 30335
+book hit = (NULL)
+51122 >second: e3d5
+51239 <second: # times @ 781908762
+51239 <second: # 12+12 pieces, centr = (1,1) R=24
+51239 <second:  1   -372        0          7 f6f3 g2f3
+51239 <second:  1    -11        0          7 f6g6
+51239 <second:  2    -11        0          8 f6g6
+51239 <second:  3    -62        0        923 f6g6 c4d3 g6e6 d3h7
+51239 <second:  3      0        0       3050 f6f7 d2d4 h6f5
+51239 <second:  4     -8        0       4156 f6f7 b1a1 b7b5 d2d4
+51240 <second: # times @ 781908770: real=8 cpu=10
+51240 <second: # promo = 0 (`) GT = 0
+51240 <second: move f6f7
+51240 >first : time 30335
+51240 >first : otim 33994
+book hit = (NULL)
+51240 >first : f6f7
+53065 <first : move b4b5
+Interrupting second
+53065 >second: time 33994
+53065 >second: otim 30353
+book hit = (NULL)
+53065 >second: b4b5
+53150 <second: # times @ 781910706
+53150 <second: # 12+12 pieces, centr = (1,1) R=24
+53151 <second:  1   -210        0          3 a4b5
+53151 <second:  1    -11        0          3 c8d7
+53151 <second:  1      0        0          3 d8e8
+53151 <second:  1      3        0          3 f8g7
+53151 <second:  1     10        0          3 h6f5
+53151 <second:  2      0        0         53 h6f5 d2d4
+53151 <second:  3   -148        0       2219 h6f5 d5b6 a7b6 c4f7 a4b5 h1h7
+53151 <second:  3    -40        0       4519 g5g4 b1a1 g4f3 a1a4 f3g2
+53151 <second:  3     -1        1       9030 e7e6 d5e3 d8e8
+53151 <second:  4     -3        1       9813 e7e6 d5e3 d6d5 c4d3
+53151 <second: # times @ 781910721: real=15 cpu=10
+53151 <second: # promo = 0 (`) GT = 0
+53151 <second: move e7e6
+53152 >first : time 30353
+53152 >first : otim 34186
+book hit = (NULL)
+53152 >first : e7e6
+53641 <first : move d5b6
+Interrupting second
+53641 >second: time 34186
+53641 >second: otim 30504
+book hit = (NULL)
+53641 >second: d5b6
+53745 <second: # times @ 781911281
+53745 <second: # 12+12 pieces, centr = (1,1) R=24
+53745 <second:  1    199        0          3 a7b6
+53745 <second:  2    199        0          5 a7b6 c4e6
+53745 <second:  3     47        0        292 a7b6 c4e6 d8d7 e6d7
+53745 <second:  4     47        0       1758 a7b6 c4e6 d8d7 e6d7 f7d7
+53745 <second: # times @ 781911283: real=2 cpu=0
+53745 <second: # promo = 0 (`) GT = 0
+53745 <second: move a7b6
+53745 >first : time 30504
+53745 >first : otim 34375
+book hit = (NULL)
+53745 >first : a7b6
+54268 <first : move c4e6
+Interrupting second
+54268 >second: time 34375
+54268 >second: otim 30651
+book hit = (NULL)
+54268 >second: c4e6
+54370 <second: # times @ 781911908
+54370 <second: # 11+11 pieces, centr = (1,1) R=22
+54370 <second:  1    -38        0          8 c8c7 e6f7
+54370 <second:  1     46        0         13 d8d7
+54370 <second:  2     46        0         14 d8d7
+54370 <second:  3     43        0        185 d8d7 e6d7 f7d7 c3c4
+54370 <second:  4      0        0       8225 d8d7 b1a1 a4b5 a1a8 c8c7 e6f7
+54370 <second:  4     32        1      17752 f7d7 b2a3 c8c7 e6d7 d8d7
+54370 <second: # times @ 781911927: real=19 cpu=10
+54370 <second: # promo = 0 (`) GT = 0
+54370 <second: move f7d7
+54370 >first : time 30651
+54370 >first : otim 34565
+book hit = (NULL)
+54370 >first : f7d7
+54750 <first : move c3c4
+Interrupting second
+54751 >second: time 34565
+54751 >second: otim 30813
+book hit = (NULL)
+54751 >second: c3c4
+54835 <second: # times @ 781912391
+54835 <second: # 11+11 pieces, centr = (1,1) R=22
+54835 <second:  1    -21        0          3 a4b5
+54835 <second:  1     21        0          3 a4b3
+54835 <second:  1     50        0          3 d6d5
+54835 <second:  2     50        0          5 d6d5 e6d7
+54835 <second:  3     46        0        234 d6d5 d2d3 a4b3 e6d7 d8d7
+54836 <second:  4     37        0        774 d6d5 e6d7 d8d7 b2f6
+54836 <second: # times @ 781912393: real=2 cpu=0
+54836 <second: # promo = 0 (`) GT = 0
+54836 <second: move d6d5
+54836 >first : time 30813
+54836 >first : otim 34757
+book hit = (NULL)
+54836 >first : d6d5
+55500 <first : move b1a1
+Interrupting second
+55500 >second: time 34757
+55500 >second: otim 30947
+book hit = (NULL)
+55500 >second: b1a1
+55583 <second: # times @ 781913141
+55583 <second: # 11+11 pieces, centr = (1,1) R=22
+55583 <second:  1   -187        0          3 d5c4
+55583 <second:  1     47        0          3 a4b3
+55583 <second:  2     47        0          5 a4b3 e6d7
+55584 <second:  3    -48        0       1621 a4b3 b2f6 d8e8 e6d7 c8d7 f6g5
+55584 <second:  4    -48        0       4181 a4b3 b2f6 d8e8 e6d7
+55584 <second: # times @ 781913146: real=5 cpu=0
+55584 <second: # promo = 0 (`) GT = 0
+55584 <second: move a4b3
+55584 >first : time 30947
+55584 >first : otim 34948
+book hit = (NULL)
+55584 >first : a4b3
+56708 <first : move b2e5
+Interrupting second
+56708 >second: time 34948
+56708 >second: otim 31034
+book hit = (NULL)
+56708 >second: b2e5
+56824 <second: # times @ 781914349
+56824 <second: # 11+11 pieces, centr = (1,1) R=22
+56824 <second:  1    109        0          3 d5c4
+56824 <second:  2    109        0          7 d5c4 e6d7
+56824 <second:  3  -7999        0       1620 d5c4 a1a8
+56824 <second:  3   -198        0       6885 b3a2 e6d7 d8d7
+56824 <second:  4   -198        2      20636 b3a2 e6d7 d8d7 a1a2
+56824 <second: # times @ 781914372: real=23 cpu=30
+56824 <second: # promo = 0 (`) GT = 0
+56824 <second: move b3a2
+56825 >first : time 31034
+56825 >first : otim 35137
+book hit = (NULL)
+56825 >first : b3a2
+57273 <first : move a1a2
+Interrupting second
+57273 >second: time 35137
+57273 >second: otim 31190
+book hit = (NULL)
+57273 >second: a1a2
+57364 <second: # times @ 781914913
+57364 <second: # 11+10 pieces, centr = (1,1) R=20
+57364 <second:  1   -198        0          3 d5c4
+57364 <second:  2   -198        0          5 d5c4 e6d7
+57364 <second:  3  -7999        0       1476 d5c4 a2a8
+57364 <second:  3   -532        0       7049 f8d6 e5d6 h6f7 e6d7 d8d7
+57364 <second:  4   -532        1      15001 f8d6 e5d6 h6f7 e6d7
+57364 <second: # times @ 781914930: real=17 cpu=10
+57364 <second: # promo = 0 (`) GT = 0
+57364 <second: move f8d6
+57365 >first : time 31190
+57365 >first : otim 35327
+book hit = (NULL)
+57365 >first : f8d6
+57469 <first : move e5d6
+Interrupting second
+57469 >second: time 35327
+57469 >second: otim 31379
+book hit = (NULL)
+57469 >second: e5d6
+57564 <second: # times @ 781915109
+57564 <second: # 11+9 pieces, centr = (1,1) R=18
+57564 <second:  1   -644        0          5 h6f5 e6f5
+57564 <second:  1   -542        0          7 h6g8 e6d7
+57564 <second:  1   -533        0          7 h6f7
+57564 <second:  2   -533        0          8 h6f7
+57564 <second:  3  -7999        0        458 h6f7 a2a8
+57564 <second:  4  -7999        0       3911 h6f7 a2a8
+57564 <second: # times @ 781915114: real=5 cpu=10
+57564 <second: # promo = 0 (`) GT = 0
+57564 <second: move h6f7
+57565 >first : time 31379
+57565 >first : otim 35518
+book hit = (NULL)
+57565 >first : h6f7
+59530 <first : move d6g3
+Interrupting second
+59530 >second: time 35518
+59530 >second: otim 31383
+book hit = (NULL)
+59530 >second: d6g3
+59634 <second: # times @ 781917171
+59634 <second: # 11+9 pieces, centr = (1,1) R=18
+59634 <second:  1   -556        0          3 d5c4
+59634 <second:  1   -553        0          3 h7h5
+59634 <second:  1   -549        0          3 h7h6
+59634 <second:  2   -549        0          7 h7h6 e6d7
+59634 <second:  3  -7999        0        647 h7h6 a2a8
+59634 <second:  3   -730        0       5738 f7d6 g3d6 d5c4 e6d7
+59634 <second:  4   -730        0       6990 f7d6 g3d6 d5c4 e6d7
+59634 <second: # times @ 781917178: real=7 cpu=0
+59634 <second: # promo = 0 (`) GT = 0
+59634 <second: move f7d6
+59634 >first : time 31383
+59635 >first : otim 35708
+book hit = (NULL)
+59635 >first : f7d6
+60050 <first : move g3d6
+Interrupting second
+60050 >second: time 35708
+60050 >second: otim 31541
+book hit = (NULL)
+60050 >second: g3d6
+60162 <second: # times @ 781917691
+60162 <second: # 11+8 pieces, centr = (1,1) R=16
+60162 <second:  1   -796        0          5 h7h5 e6d7
+60162 <second:  1   -731        0          5 d5c4
+60162 <second:  2   -731        0          6 d5c4
+60162 <second:  3  -7999        0        650 d5c4 a2a8
+60162 <second:  4  -7999        0       3913 d5c4 a2a8
+60162 <second: # times @ 781917694: real=3 cpu=10
+60162 <second: # promo = 0 (`) GT = 0
+60162 <second: move d5c4
+60162 >first : time 31541
+60162 >first : otim 35896
+book hit = (NULL)
+60163 >first : d5c4
+60245 <first : move h1h7
+Interrupting second
+60245 >second: time 35896
+60245 >second: otim 31733
+book hit = (NULL)
+60245 >second: h1h7
+60362 <second: # times @ 781917885
+60362 <second: # 10+7 pieces, centr = (1,1) R=16
+60362 <second:  1   -823        0          3 g5g4
+60362 <second:  1   -761        0          3 c4c3
+60362 <second:  2   -761        0          7 c4c3 e6d7
+60363 <second:  3  -7999        0        570 c4c3 a2a8
+60363 <second:  4  -7999        0       2091 c4c3 a2a8
+60363 <second: # times @ 781917888: real=3 cpu=0
+60363 <second: # promo = 0 (`) GT = 0
+60363 <second: move c4c3
+60363 >first : time 31733
+60363 >first : otim 36085
+book hit = (NULL)
+60363 >first : c4c3
+60443 <first : move e6d7
+Interrupting second
+60443 >second: time 36085
+60443 >second: otim 31925
+book hit = (NULL)
+60443 >second: e6d7
+60533 <second: # times @ 781918083
+60533 <second: # 10+6 pieces, centr = (1,1) R=13
+60533 <second:  1   -761        0          3 d8d7
+60533 <second:  2   -761        0         11 d8d7 h7d7
+60533 <second:  3  -7999        0        398 d8d7 a2a8
+60533 <second:  4  -7999        0        440 d8d7 a2a8
+60533 <second: # times @ 781918084: real=1 cpu=0
+60533 <second: # promo = 0 (`) GT = 0
+60533 <second: move d8d7
+60533 >first : time 31925
+60533 >first : otim 36276
+book hit = (NULL)
+60533 >first : d8d7
+60853 <first : move a2a8
+Interrupting second
+60853 >second: a2a8
+GameEnds(26, Xboard adjudication: Checkmate, 4)
+GE(26, Xboard adjudication: Checkmate, 4) bare king k=9 color=0
+60854 >first : result 1-0 {Xboard adjudication: Checkmate}
+60854 >second: result 1-0 {Xboard adjudication: Checkmate}
+60854 >first : quit
+60854 >second: force
+60854 >second: ping 2
+Reset(0, 0) from gameMode 8
+recognized 'normal' (-1) as variant normal
+GameEnds(0, (null), 2)
+shuffleOpenings = 0
+StartChildProcess (dir=".") make run
+60973 >first : xboard
+protover 2
+60973 <second: 1-0 {White mates}
+60973 <second: Error (unknown command): result
+60973 <second: pong 2
+60980 <first : ./Chess++
+61022 <first : feature sigint=0 san=0
+61022 >first : accepted sigint
+61022 >first : accepted san
+70982 >first : new
+random
+70982 >first : level 0 5 2
+70982 >first : post
+70982 >first : hard
+Feeding moves 0 through 0 to first chess program
+70982 >first : force
+70982 >second: memory 68
+70982 >second: new
+random
+sd 4
+70982 >second: level 0 5 2
+70982 >second: post
+70982 >second: hard
+70982 >second: ping 3
+70982 >second: force
+71002 <second: pong 3
+New game (2): make-Fairy-Max 4.8V (b)
+71003 >first : computer
+71003 >second: computer
+71003 >second: black
+71003 >second: time 30000
+71003 >second: otim 30000
+71003 >second: white
+book hit = (NULL)
+71003 >second: go
+nps: w=-1, b=-1
+71003 <second: Error (unknown command): computer
+71003 <second: # times @ 781928643
+71003 <second: # 16+16 pieces, centr = (1,1) R=40
+71003 <second:  1     15        0          7 a2a4
+71003 <second:  1     28        0          9 c2c4
+71003 <second:  2     -4        0         17 c2c4 c7c5
+71003 <second:  2     -3        0         39 d2d4 d7d5
+71003 <second:  2      2        0         48 d2d3 c7c5
+71003 <second:  2     14        0         71 f2f4 c7c5
+71003 <second:  3      2        0        346 f2f4 c7c5 c2c4
+71004 <second:  3      3        0        540 h2h4 c7c5 c2c4
+71004 <second:  3     27        0        726 g1f3 c7c5 c2c4
+71005 <second:  4      9        0       1439 g1f3 d7d5 d2d4 b8c6
+71006 <second:  4     10        0       1998 d2d4 d7d5 b1c3 b8c6
+71006 <second: # times @ 781928646: real=3 cpu=10
+71006 <second: # promo = 0 (`) GT = 0
+71006 <second: move d2d4
+71007 >first : time 30000
+71007 >first : otim 30199
+book hit = (NULL)
+71007 >first : d2d4
+71007 >first : black
+71007 >first : go
+72426 <first : move b8c6þ
+Interrupting second
+72426 >second: time 30199
+72426 >second: otim 30058
+book hit = (NULL)
+72426 >second: b8c6
+72541 <second: # times @ 781930066
+72541 <second: # 16+16 pieces, centr = (1,1) R=40
+72541 <second:  1     14        0          3 c2c4
+72541 <second:  1     19        0          9 g2g4
+72541 <second:  1     23        0         23 g1f3
+72541 <second:  2     -6        0         45 g1f3 d7d5
+72541 <second:  2     -4        0        161 d4d5 c6e5
+72541 <second:  2      3        0        209 a2a3 d7d5
+72541 <second:  2      4        0        270 c2c4 d7d5
+72541 <second:  2     10        0        301 c2c3 d7d5
+72541 <second:  3      9        0        992 c2c3 d7d5 c1f4
+72541 <second:  3     23        0       1625 b1c3 d7d5 c1f4
+72541 <second:  4     -1        0       2561 b1c3 d7d5 c1f4 c8f5
+72541 <second:  4      4        0       3972 c1e3 d7d5 b1d2 c8f5
+72541 <second: # times @ 781930075: real=9 cpu=0
+72541 <second: # promo = 0 (`) GT = 0
+72541 <second: move c1e3
+72542 >first : time 30058
+72542 >first : otim 30388
+book hit = (NULL)
+72542 >first : c1e3
+75022 <first : move g8f6
+Interrupting second
+75022 >second: time 30388
+75022 >second: otim 30010
+book hit = (NULL)
+75022 >second: g8f6
+75136 <second: # times @ 781932662
+75136 <second: # 16+16 pieces, centr = (1,1) R=40
+75136 <second:  1     15        0          3 c2c4
+75136 <second:  1     17        0          9 f2f3
+75136 <second:  2    -21        0         35 f2f3 d7d5
+75136 <second:  2    -20        0         64 f2f4 d7d5
+75136 <second:  2     -2        0        104 g2g3 d7d5
+75136 <second:  2     -1        0        133 h2h4 d7d5
+75136 <second:  2      3        0        162 h2h3 d7d5
+75136 <second:  2      5        0        193 b1d2 d7d5
+75137 <second:  3     10        0       1428 b1d2 f6d5 c2c4 d5e3 f2e3
+75137 <second:  3     24        0       2151 b1c3 d7d5 g1f3
+75137 <second:  4     -9        0       3455 b1c3 d7d5 g1f3 c8f5
+75137 <second:  4     10        0       3619 b1d2 f6d5 c2c4 d5e3
+75137 <second: # times @ 781932670: real=8 cpu=10
+75137 <second: # promo = 0 (`) GT = 0
+75137 <second: move b1d2
+75137 >first : time 30010
+75137 >first : otim 30576
+book hit = (NULL)
+75137 >first : b1d2
+76527 <first : move f6d5
+Interrupting second
+76527 >second: time 30576
+76527 >second: otim 30071
+book hit = (NULL)
+76527 >second: f6d5
+76629 <second: # times @ 781934167
+76630 <second: # 16+16 pieces, centr = (1,1) R=40
+76630 <second:  1      9        0          3 c2c4
+76630 <second:  2      9        0          4 c2c4
+76630 <second:  3      8        0        238 c2c4 d5e3 f2e3
+76630 <second:  4    -31        0        970 c2c4 d5e3 f2e3 d7d5
+76630 <second: # times @ 781934181: real=14 cpu=10
+76630 <second: # promo = 0 (`) GT = 0
+76630 <second: move c2c4
+76630 >first : time 30071
+76630 >first : otim 30766
+book hit = (NULL)
+76630 >first : c2c4
+76849 <first : move d5e3
+Interrupting second
+76849 >second: time 30766
+76849 >second: otim 30249
+book hit = (NULL)
+76849 >second: d5e3
+76956 <second: # times @ 781934489
+76956 <second: # 15+16 pieces, centr = (1,1) R=38
+76957 <second:  1    -31        0          3 f2e3
+76957 <second:  2    -31        0          4 f2e3
+76957 <second:  3    -34        0        451 f2e3 d7d5 g1f3
+76957 <second:  4    -48        0       1705 f2e3 d7d5 g1f3 c8f5
+76957 <second: # times @ 781934493: real=4 cpu=10
+76957 <second: # promo = 0 (`) GT = 0
+76957 <second: move f2e3
+76957 >first : time 30249
+76957 >first : otim 30955
+book hit = (NULL)
+76957 >first : f2e3
+78334 <first : move a8b8
+Interrupting second
+78334 >second: time 30955
+78334 >second: otim 30311
+book hit = (NULL)
+78334 >second: a8b8
+78413 <second: # times @ 781935974
+78413 <second: # 15+15 pieces, centr = (1,1) R=36
+78413 <second:  1    -45        0          3 c4c5
+78413 <second:  1    -39        0          3 a2a4
+78413 <second:  1    -33        0          3 d2f3
+78413 <second:  1    -30        0          3 d2e4
+78413 <second:  1    -24        0          3 g1f3
+78413 <second:  2    -40        0         31 g1f3 d7d5
+78413 <second:  3    -35        0        909 g1f3 d7d5 g2g3
+78413 <second:  4    -40        0       2361 g1f3 d7d5 e3e4 e7e6 c4d5 e6d5
+78414 <second: # times @ 781935986: real=12 cpu=10
+78414 <second: # promo = 0 (`) GT = 0
+78414 <second: move g1f3
+78414 >first : time 30311
+78414 >first : otim 31147
+book hit = (NULL)
+78414 >first : g1f3
+79783 <first : move e7e6
+Interrupting second
+79783 >second: time 31147
+79783 >second: otim 30374
+book hit = (NULL)
+79783 >second: e7e6
+79875 <second: # times @ 781937424
+79875 <second: # 15+15 pieces, centr = (1,1) R=36
+79875 <second:  1    -30        0          9 g2g4
+79875 <second:  2    -46        0         41 g2g4 d7d5
+79875 <second:  2    -45        0        603 d4d5 c6e7
+79875 <second:  3    -44        0       1160 d4d5 e6d5 c4d5
+79875 <second:  3    -35        0       3450 d1c2 c6b4 c2c1
+79875 <second:  4    -44        0       4922 d1c2 f8e7 e1c1 e8g8
+79875 <second: # times @ 781937450: real=26 cpu=30
+79875 <second: # promo = 0 (`) GT = 0
+79875 <second: move d1c2
+79875 >first : time 30374
+79875 >first : otim 31338
+book hit = (NULL)
+79875 >first : d1c2
+83625 <first : move f8b4
+Interrupting second
+83625 >second: time 31338
+83625 >second: otim 30199
+book hit = (NULL)
+83625 >second: f8b4
+83746 <second: # times @ 781941266
+83746 <second: # 15+15 pieces, centr = (1,1) R=36
+83746 <second:  1   -814        0          3 c2h7
+83746 <second:  1    -41        0          3 c2c1
+83746 <second:  1    -37        0          3 c2b1
+83746 <second:  1    -34        0          3 g2g4
+83746 <second:  1    -32        0          3 g2g3
+83746 <second:  1    -11        0          3 e1c1
+83746 <second:  2    -37        0         45 e1c1 e8g8
+83746 <second:  3    -30        0       1378 e1c1 e8g8 d2e4
+83747 <second:  3    -22        0       1876 a2a3 b4d6 e1c1
+83747 <second:  4    -44        0       3252 a2a3 b4e7 e1c1 e8g8
+83747 <second: # times @ 781941315: real=49 cpu=50
+83747 <second: # promo = 0 (`) GT = 0
+83747 <second: move a2a3
+83747 >first : time 30199
+83747 >first : otim 31526
+book hit = (NULL)
+83747 >first : a2a3
+85917 <first : move b4d6
+Interrupting second
+85917 >second: time 31526
+85917 >second: otim 30182
+book hit = (NULL)
+85917 >second: b4d6
+86027 <second: # times @ 781943557
+86027 <second: # 15+15 pieces, centr = (1,1) R=36
+86027 <second:  1   -814        0          7 c2h7 h8h7
+86027 <second:  1    -37        0         21 c2c1
+86027 <second:  2    -63        0         69 c2c1 e8g8
+86027 <second:  2    -40        0        637 d2e4
+86027 <second:  3    -30        0       1064 d2e4 e8g8 e1c1
+86027 <second:  3    -17        0       1299 c4c5 d6e7 e1c1
+86027 <second:  4    -43        0       2213 c4c5 d6e7 e1c1 e8g8
+86027 <second:  4    -29        1      13321 d2e4 e8g8 e1c1 d6e7
+86027 <second:  4    -28        2      14310 e1c1 e8g8 d2e4 d6e7
+86027 <second: # times @ 781943577: real=20 cpu=20
+86027 <second: # promo = 0 (`) GT = 0
+86027 <second: move e1c1
+86027 >first : time 30182
+86027 >first : otim 31715
+book hit = (NULL)
+86027 >first : e1c1
+89047 <first : move d6e7
+Interrupting second
+89048 >second: time 31715
+89048 >second: otim 30080
+book hit = (NULL)
+89048 >second: d6e7
+89135 <second: # times @ 781946689
+89135 <second: # 15+15 pieces, centr = (1,1) R=36
+89135 <second:  1   -814        0          3 c2h7
+89135 <second:  1    -37        0          3 c2b1
+89135 <second:  1    -30        0          3 d2e4
+89135 <second:  2    -56        0         43 d2e4 e8g8
+89135 <second:  2    -44        0        742 d4d5 e6d5 c4d5
+89135 <second:  3    -44        0       1527 d4d5 e6d5 c4d5
+89135 <second:  4    -35        0       2608 d4d5 e6d5 c4d5 c6a5
+89135 <second: # times @ 781946693: real=4 cpu=0
+89135 <second: # promo = 0 (`) GT = 0
+89135 <second: move d4d5
+89135 >first : time 30080
+89135 >first : otim 31906
+book hit = (NULL)
+89135 >first : d4d5
+89758 <first : move c6a5
+Interrupting second
+89758 >second: time 31906
+89758 >second: otim 30218
+book hit = (NULL)
+89758 >second: c6a5
+89865 <second: # times @ 781947399
+89865 <second: # 15+15 pieces, centr = (1,1) R=36
+89865 <second:  1    -59        0          3 d5e6
+89865 <second:  1    -42        0          3 a3a4
+89865 <second:  1    -39        0          3 b2b4
+89866 <second:  1    -37        0          3 c2b1
+89866 <second:  1    -30        0          3 d2e4
+89866 <second:  2    -56        0         65 d2e4 e8g8
+89866 <second:  2    -48        0        293 d2b3 c7c5
+89866 <second:  2     75        0        894 b2b4 e6d5 b4a5 e7a3
+89866 <second:  3     75        0       1311 b2b4 e6d5 b4a5
+89866 <second:  4    110        0       3217 b2b4 a5c4 d2c4 e8g8
+89866 <second: # times @ 781947405: real=6 cpu=10
+89866 <second: # promo = 0 (`) GT = 0
+89866 <second: move b2b4
+89866 >first : time 30218
+89866 >first : otim 32095
+book hit = (NULL)
+89866 >first : b2b4
+90579 <first : move e8g8
+Interrupting second
+90579 >second: time 32095
+90579 >second: otim 30346
+book hit = (NULL)
+90579 >second: e8g8
+90661 <second: # times @ 781948219
+90661 <second: # 15+15 pieces, centr = (1,1) R=36
+90661 <second:  1    119        0          3 b4a5
+90661 <second:  2    120        0          5 b4a5 e7a3
+90661 <second:  2    123        0        842 c2a4 c7c6 b4a5 c6d5 c4d5 e6d5
+90661 <second:  3    123        0       1194 c2a4 c7c6 b4a5
+90661 <second:  4    133        0       5281 c2a4 a5c4 d2c4 a7a6
+90661 <second: # times @ 781948236: real=17 cpu=20
+90661 <second: # promo = 0 (`) GT = 0
+90661 <second: move c2a4
+90661 >first : time 30346
+90661 >first : otim 32287
+book hit = (NULL)
+90661 >first : c2a4
+91268 <first : move c7c6
+Interrupting second
+91269 >second: time 32287
+91269 >second: otim 30486
+book hit = (NULL)
+91269 >second: c7c6
+91351 <second: # times @ 781948909
+91351 <second: # 15+15 pieces, centr = (1,1) R=36
+91351 <second:  1    124        0          3 b4a5
+91352 <second:  2    124        0          4 b4a5
+91352 <second:  2    177        0          4 d5e6
+91352 <second:  3    177        0         89 d5e6 d7e6 b4a5
+91352 <second:  4    173        0       3571 d5e6 d7e6 b4a5 c8d7
+91352 <second: # times @ 781948917: real=8 cpu=10
+91352 <second: # promo = 0 (`) GT = 0
+91352 <second: move d5e6
+91352 >first : time 30486
+91352 >first : otim 32479
+book hit = (NULL)
+91352 >first : d5e6
+91594 <first : move d7e6
+Interrupting second
+91594 >second: time 32479
+91594 >second: otim 30661
+book hit = (NULL)
+91594 >second: d7e6
+91678 <second: # times @ 781949234
+91678 <second: # 14+14 pieces, centr = (1,1) R=34
+91678 <second:  1    174        0          3 b4a5
+91678 <second:  2    174        0          4 b4a5
+91678 <second:  3    195        0        795 b4a5 d8d6 d2b1
+91678 <second:  4    193        0       1538 b4a5 e7c5 e3e4 c8d7
+91678 <second: # times @ 781949246: real=12 cpu=10
+91678 <second: # promo = 0 (`) GT = 0
+91678 <second: move b4a5
+91679 >first : time 30661
+91679 >first : otim 32670
+book hit = (NULL)
+91679 >first : b4a5
+93043 <first : move d8d6
+Interrupting second
+93043 >second: time 32670
+93043 >second: otim 30725
+book hit = (NULL)
+93043 >second: d8d6
+93124 <second: # times @ 781950683
+93124 <second: # 14+13 pieces, centr = (1,1) R=32
+93124 <second:  1   -570        0          5 a4c6 b7c6
+93124 <second:  1    139        0          7 a4b4 d6b4
+93124 <second:  1    194        0          7 d2b1
+93124 <second:  2    194        0          8 d2b1
+93124 <second:  3    209        0        485 d2b1 d6c5 f3d4
+93124 <second:  4    202        0       2135 d2b1 d6c5 f3d4 c8d7
+93124 <second: # times @ 781950688: real=5 cpu=0
+93124 <second: # promo = 0 (`) GT = 0
+93124 <second: move d2b1
+93125 >first : time 30725
+93125 >first : otim 32862
+book hit = (NULL)
+93125 >first : d2b1
+93771 <first : move d6c5
+Interrupting second
+93772 >second: time 32862
+93772 >second: otim 30860
+book hit = (NULL)
+93772 >second: d6c5
+93856 <second: # times @ 781951412
+93856 <second: # 14+13 pieces, centr = (1,1) R=32
+93857 <second:  1   -570        0          5 a4c6 b7c6
+93857 <second:  1    139        0          7 a4b4 c5b4
+93857 <second:  1    217        0          9 e3e4
+93857 <second:  2    204        0         11 e3e4 c5h5
+93857 <second:  3    169        0       1263 e3e4 e7d8 b1c3 d8a5
+93857 <second:  3    184        0       3787 f3d4 e7g5 d1d3 g5e3 d3e3 c5d4
+93857 <second:  4    184        0       8769 f3d4 e7g5 d1d3 g5e3
+93857 <second: # times @ 781951424: real=12 cpu=10
+93857 <second: # promo = 0 (`) GT = 0
+93857 <second: move f3d4
+93857 >first : time 30860
+93857 >first : otim 33053
+book hit = (NULL)
+93857 >first : f3d4
+95916 <first : move e6e5
+Interrupting second
+95916 >second: time 33053
+95916 >second: otim 30854
+book hit = (NULL)
+95916 >second: e6e5
+96003 <second: # times @ 781953557
+96003 <second: # 14+13 pieces, centr = (1,1) R=32
+96003 <second:  1     30        0          3 d4c6
+96003 <second:  1    138        0          3 d4b3
+96003 <second:  1    213        0          3 d4c2
+96003 <second:  2    198        0        107 d4c2 c8f5
+96003 <second:  3    165        0       2272 d4c2 e7d8 b1c3 d8a5
+96003 <second:  4    165        0       2754 d4c2 e7d8 b1c3 d8a5
+96003 <second: # times @ 781953563: real=6 cpu=10
+96003 <second: # promo = 0 (`) GT = 0
+96003 <second: move d4c2
+96004 >first : time 30854
+96004 >first : otim 33245
+book hit = (NULL)
+96004 >first : d4c2
+98811 <first : move c8f5
+Interrupting second
+98811 >second: time 33245
+98811 >second: otim 30774
+book hit = (NULL)
+98811 >second: c8f5
+98933 <second: # times @ 781956451
+98933 <second: # 14+13 pieces, centr = (1,1) R=32
+98933 <second:  1   -581        0          3 a4c6
+98933 <second:  1    161        0          3 a4b4
+98933 <second:  1    176        0          3 g2g3
+98933 <second:  1    184        0          3 b1d2
+98933 <second:  1    185        0          3 b1c3
+98933 <second:  1    199        0          3 a5a6
+98934 <second:  2    199        0          7 a5a6 b7a6
+98934 <second:  3    199        0       1843 a5a6 b7a6 a4a6
+98934 <second:  4    209        0       3879 a5a6 b7a6 a4a6 f5c2 c1c2
+98934 <second: # times @ 781956465: real=14 cpu=20
+98934 <second: # promo = 0 (`) GT = 0
+98934 <second: move a5a6
+98934 >first : time 30774
+98934 >first : otim 33432
+book hit = (NULL)
+98934 >first : a5a6
+100147 <first : move b7b5
+Interrupting second
+100147 >second: time 33432
+100147 >second: otim 30852
+book hit = (NULL)
+100147 >second: b7b5
+100227 <second: # times @ 781957788
+100227 <second: # 14+13 pieces, centr = (1,1) R=32
+100227 <second:  1    274        0          3 c4b5
+100227 <second:  2    274        0          5 c4b5 b8b5
+100227 <second:  3    257        0       1545 c4b5 c6b5 a4b3 f5c2 b3c2 c5e3
+100227 <second:  4    257        0       2051 c4b5 c6b5 a4b3 f5c2
+100227 <second: # times @ 781957793: real=5 cpu=0
+100227 <second: # promo = 0 (`) GT = 0
+100227 <second: move c4b5
+100227 >first : time 30852
+100227 >first : otim 33624
+book hit = (NULL)
+100227 >first : c4b5
+101320 <first : move c5b5
+Interrupting second
+101321 >second: time 33624
+101321 >second: otim 30943
+book hit = (NULL)
+101321 >second: c5b5
+101409 <second: # times @ 781958961
+101409 <second: # 13+12 pieces, centr = (1,1) R=32
+101409 <second:  1    286        0          3 a4b5
+101409 <second:  2    286        0          5 a4b5 b8b5
+101409 <second:  3    301        0        827 a4b5 b8b5 b1c3
+101409 <second:  4    295        0       1925 a4b5 c6b5 g2g3 h7h5
+101409 <second: # times @ 781958964: real=3 cpu=10
+101409 <second: # promo = 0 (`) GT = 0
+101409 <second: move a4b5
+101410 >first : time 30943
+101410 >first : otim 33816
+book hit = (NULL)
+101410 >first : a4b5
+101683 <first : move b8b5
+Interrupting second
+101683 >second: time 33816
+101683 >second: otim 31115
+book hit = (NULL)
+101684 >second: b8b5
+101790 <second: # times @ 781959324
+101790 <second: # 12+11 pieces, centr = (1,1) R=20
+101791 <second:  1    284        0          5 a3a4
+101791 <second:  1    295        0          9 g2g3
+101791 <second:  1    301        0         11 b1c3
+101791 <second:  2    301        0         12 b1c3
+101791 <second:  3    267        0       1258 b1c3 b5b3 e3e4 e7a3 c2a3 b3c3
+101791 <second:  4    267        0       7574 b1c3 b5b3 e3e4 e7a3
+101791 <second: # times @ 781959334: real=10 cpu=10
+101791 <second: # promo = 0 (`) GT = 0
+101791 <second: move b1c3
+101791 >first : time 31115
+101792 >first : otim 34005
+book hit = (NULL)
+101792 >first : b1c3
+102382 <first : move b5b6
+Interrupting second
+102382 >second: time 34005
+102382 >second: otim 31256
+book hit = (NULL)
+102382 >second: b5b6
+102459 <second: # times @ 781960023
+102459 <second: # 12+11 pieces, centr = (1,1) R=20
+102459 <second:  1    284        0          3 e3e4
+102459 <second:  2    282        0        104 e3e4 e7g5
+102459 <second:  3    193        0        965 e3e4 f5c8 c2b4 c8a6 b4a6 b6a6
+102459 <second:  3    194        0       1699 c2b4 e7b4 a3b4
+102459 <second:  4    194        0       2200 c2b4 e7b4 a3b4 b6a6
+102459 <second: # times @ 781960029: real=6 cpu=0
+102459 <second: # promo = 0 (`) GT = 0
+102459 <second: move c2b4
+102459 >first : time 31256
+102459 >first : otim 34197
+book hit = (NULL)
+102459 >first : c2b4
+103388 <first : move e7b4
+Interrupting second
+103388 >second: time 34197
+103388 >second: otim 31363
+book hit = (NULL)
+103388 >second: e7b4
+103503 <second: # times @ 781961028
+103503 <second: # 11+11 pieces, centr = (1,1) R=18
+103503 <second:  1    194        0          3 a3b4
+103503 <second:  2    194        0          4 a3b4
+103503 <second:  3    201        0        316 a3b4 b6a6 g2g3
+103503 <second:  4    191        0        718 a3b4 b6a6 e3e4 a6a1
+103503 <second: # times @ 781961030: real=2 cpu=10
+103503 <second: # promo = 0 (`) GT = 0
+103503 <second: move a3b4
+103504 >first : time 31363
+103504 >first : otim 34386
+book hit = (NULL)
+103504 >first : a3b4
+105765 <first : move b6a6
+Interrupting second
+105766 >second: time 34386
+105766 >second: otim 31337
+book hit = (NULL)
+105766 >second: b6a6
+105854 <second: # times @ 781963406
+105854 <second: # 10+10 pieces, centr = (1,1) R=15
+105854 <second:  1    189        0          3 e3e4
+105854 <second:  2    189        0          4 e3e4
+105854 <second:  3    149        0        268 e3e4 a6a1 c1c2 a1d1
+105854 <second:  3    179        0        749 g2g3 a6a1 c1d2 a1d1
+105854 <second:  4    171        0       2948 g2g3 a6a1 c1b2 a1d1 c3d1
+105854 <second:  4    177        0       4888 d1d2 a6a1 c1b2 a1e1 g2g3
+105854 <second:  4    181        0       6394 d1d6 f7f6 g2g3 h7h5
+105854 <second: # times @ 781963413: real=7 cpu=0
+105854 <second: # promo = 0 (`) GT = 0
+105854 <second: move d1d6
+105854 >first : time 31337
+105854 >first : otim 34577
+book hit = (NULL)
+105854 >first : d1d6
+114135 <first : move a6a1
+Interrupting second
+114135 >second: time 34577
+114135 >second: otim 30709
+book hit = (NULL)
+114135 >second: a6a1
+114249 <second: # times @ 781971775
+114249 <second: # 10+10 pieces, centr = (1,1) R=15
+114249 <second:  1    -89        0         17 c3b1 a1b1
+114249 <second:  1    184        0         17 c1d2
+114249 <second:  2    184        0         18 c1d2
+114249 <second:  3    174        0       3129 c1d2 f8c8 e3e4 f5e6
+114249 <second:  4    180        3      35960 c1d2 f8b8 g2g3 h7h5 e3e4
+114249 <second: # times @ 781971805: real=30 cpu=30
+114249 <second: # promo = 0 (`) GT = 0
+114249 <second: move c1d2
+114249 >first : time 30709
+114249 >first : otim 34765
+book hit = (NULL)
+114249 >first : c1d2
+122372 <first : move f5e6
+Interrupting second
+122372 >second: time 34765
+122372 >second: otim 30097
+book hit = (NULL)
+122372 >second: f5e6
+122456 <second: # times @ 781980012
+122456 <second: # 10+10 pieces, centr = (1,1) R=15
+122456 <second:  1    259        0          3 d6c6
+122456 <second:  2    246        0         59 d6c6 h7h5
+122456 <second:  3    224        0       1147 d6c6 f8d8 d2c2 h7h5
+122456 <second:  4    233        0       2626 d6c6 f8d8 d2c2 a7a5 c6a6
+122456 <second: # times @ 781980027: real=15 cpu=20
+122456 <second: # promo = 0 (`) GT = 0
+122456 <second: move d6c6
+122456 >first : time 30097
+122456 >first : otim 34957
+book hit = (NULL)
+122456 >first : d6c6
+126636 <first : move f8d8
+Interrupting second
+126636 >second: time 34957
+126636 >second: otim 29879
+book hit = (NULL)
+126636 >second: f8d8
+126721 <second: # times @ 781984276
+126721 <second: # 10+9 pieces, centr = (1,1) R=15
+126721 <second:  1   -185        0          8 c6d6 d8d6
+126722 <second:  1     -4        0         11 c3d5 d8d5
+126722 <second:  1    232        0         11 d2c2
+126722 <second:  2    232        0         12 d2c2
+126722 <second:  3    226        0       5160 d2c2 d8b8 c6c5 f7f6
+126722 <second:  4    231        1      14071 d2c2 h7h5 c6c5 f7f6 g2g3
+126722 <second: # times @ 781984293: real=17 cpu=10
+126722 <second: # promo = 0 (`) GT = 0
+126722 <second: move d2c2
+126723 >first : time 29879
+126723 >first : otim 35148
+book hit = (NULL)
+126723 >first : d2c2
+133886 <first : move e6g4
+Interrupting second
+133886 >second: time 35148
+133886 >second: otim 29362
+book hit = (NULL)
+133886 >second: e6g4
+133991 <second: # times @ 781991527
+133991 <second: # 10+9 pieces, centr = (1,1) R=15
+133991 <second:  1    270        0          3 g2g3
+133991 <second:  2    257        0         40 g2g3 f7f5
+133991 <second:  2    258        0        331 h2h3 g4f5
+133991 <second:  3    258        0       2108 h2h3 g4f5 e3e4 f5e6
+133991 <second:  3    259        0       3206 h2h4 a7a5 c6c4
+133991 <second:  3    261        0       4222 g2g3 f7f5 h2h4
+133991 <second:  4    253        0       6400 g2g3 g4h3 c3b1 h3f5
+133991 <second:  4    254        1      13107 h2h3 g4d7 c6c5 f7f6
+133991 <second:  4    255        2      18645 c6c5 f7f6 g2g3 h7h5
+133991 <second: # times @ 781991570: real=43 cpu=50
+133991 <second: # promo = 0 (`) GT = 0
+133991 <second: move c6c5
+133991 >first : time 29362
+133991 >first : otim 35338
+book hit = (NULL)
+133991 >first : c6c5
+141818 <first : move g4f5
+Interrupting second
+141818 >second: time 35338
+141818 >second: otim 28780
+book hit = (NULL)
+141818 >second: g4f5
+141903 <second: # times @ 781999459
+141903 <second: # 10+9 pieces, centr = (1,1) R=15
+141903 <second:  1    -19        0          3 c3e4
+141903 <second:  1    333        0          3 e3e4
+141903 <second:  2    333        0         90 e3e4 f5e6 c5e5
+141903 <second:  3    322        0       1642 e3e4 f5e6 c5e5 h7h6
+141903 <second:  4    326        1      13135 e3e4 f5g6 c5e5 f7f6 e5c5
+141903 <second: # times @ 781999470: real=11 cpu=10
+141903 <second: # promo = 0 (`) GT = 0
+141903 <second: move e3e4
+141903 >first : time 28780
+141904 >first : otim 35529
+book hit = (NULL)
+141904 >first : e3e4
+145888 <first : move f5g4
+Interrupting second
+145888 >second: time 35529
+145888 >second: otim 28581
+book hit = (NULL)
+145888 >second: f5g4
+145969 <second: # times @ 782003528
+145969 <second: # 10+9 pieces, centr = (1,1) R=15
+145969 <second:  1    323        0          3 c5e5
+145969 <second:  2    323        0          4 c5e5
+145969 <second:  2    332        0         41 h2h3 g4e6 c5e5
+145969 <second:  3    332        0         55 h2h3 g4e6 c5e5
+145969 <second:  4    321        0       1640 h2h3 g4e6 c5e5 h7h6
+145969 <second: # times @ 782003534: real=6 cpu=0
+145969 <second: # promo = 0 (`) GT = 0
+145969 <second: move h2h3
+145970 >first : time 28581
+145970 >first : otim 35721
+book hit = (NULL)
+145970 >first : h2h3
+155009 <first : move g4e6
+Interrupting second
+155010 >second: time 35721
+155010 >second: otim 27877
+book hit = (NULL)
+155010 >second: g4e6
+155118 <second: # times @ 782012651
+155118 <second: # 10+9 pieces, centr = (1,1) R=15
+155118 <second:  1    322        0          3 c5e5
+155118 <second:  2    322        0          4 c5e5
+155118 <second:  3    332        0       1516 c5e5 d8b8 b4b5
+155118 <second:  4    325        0       3119 c5e5 d8d4 e5a5 a1a5
+155118 <second: # times @ 782012660: real=9 cpu=20
+155118 <second: # promo = 0 (`) GT = 0
+155118 <second: move c5e5
+155119 >first : time 27877
+155119 >first : otim 35910
+book hit = (NULL)
+155119 >first : c5e5
+164666 <first : move d8c8
+Interrupting second
+164666 >second: time 35910
+164666 >second: otim 27123
+book hit = (NULL)
+164666 >second: d8c8
+164751 <second: # times @ 782022306
+164751 <second: # 10+8 pieces, centr = (1,1) R=15
+164751 <second:  1    173        0          3 e5e6
+164751 <second:  1    181        0          3 e5f5
+164751 <second:  1    333        0          3 e5g5
+164751 <second:  1    344        0          3 e2e3
+164751 <second:  1    346        0          3 g2g4
+164751 <second:  2    335        0        135 g2g4 h7h6
+164751 <second:  3    334        0       2207 g2g4 a1a2 c2d3 c8d8
+164751 <second:  4    308        0       4708 g2g4 a1a2 c2d3 e6c4 d3d4 f7f6
+164751 <second:  4    323        1      16240 e5c5 c8c5 b4c5 f7f5
+164751 <second: # times @ 782022324: real=18 cpu=10
+164751 <second: # promo = 0 (`) GT = 0
+164751 <second: move e5c5
+164752 >first : time 27123
+164752 >first : otim 36102
+book hit = (NULL)
+164752 >first : e5c5
+166990 <first : move c8c5
+Interrupting second
+166990 >second: time 36102
+166990 >second: otim 27099
+book hit = (NULL)
+166990 >second: c8c5
+167098 <second: # times @ 782024630
+167098 <second: # 9+8 pieces, centr = (1,1) R=12
+167098 <second:  1    323        0          3 b4c5
+167098 <second:  2    323        0          4 b4c5
+167098 <second:  3    348        0        532 b4c5 a1a6 g2g4
+167098 <second:  4    342        0       1289 b4c5 e6d7 g2g4 f7f6
+167099 <second: # times @ 782024631: real=1 cpu=10
+167099 <second: # promo = 0 (`) GT = 0
+167099 <second: move b4c5
+167099 >first : time 27099
+167099 >first : otim 36291
+book hit = (NULL)
+167099 >first : b4c5
+171758 <first : move a7a5
+Interrupting second
+171758 >second: time 36291
+171758 >second: otim 26833
+book hit = (NULL)
+171758 >second: a7a5
+171839 <second: # times @ 782029398
+171839 <second: # 9+7 pieces, centr = (1,1) R=9
+171839 <second:  1    394        0          3 c5c6
+171839 <second:  2    380        0         37 c5c6 f7f5
+171839 <second:  3    438        0        752 c5c6 f7f5 c6c7
+171839 <second:  4    429        0       1543 c5c6 f7f5 c6c7 g8f7
+171839 <second: # times @ 782029400: real=2 cpu=0
+171839 <second: # promo = 0 (`) GT = 0
+171839 <second: move c5c6
+171839 >first : time 26833
+171839 >first : otim 36483
+book hit = (NULL)
+171839 >first : c5c6
+175434 <first : move a5a4
+Interrupting second
+175434 >second: time 36483
+175434 >second: otim 26673
+book hit = (NULL)
+175434 >second: a5a4
+175513 <second: # times @ 782033074
+175513 <second: # 9+7 pieces, centr = (1,1) R=9
+175513 <second:  1    201        0          3 c3a4
+175513 <second:  1    382        0          3 c3b1
+175513 <second:  1    390        0          3 c3d1
+175513 <second:  1    394        0          3 c3b5
+175513 <second:  1    402        0          3 c2d3
+175513 <second:  1    407        0          3 e2e3
+175513 <second:  1    409        0          3 g2g4
+175513 <second:  2    350        0        101 g2g4 a4a3
+175513 <second:  2    393        0        229 c6c7
+175513 <second:  2    455        0        249 c2b2 a1e1 c3a4
+175513 <second:  3    455        0        346 c2b2 a1e1 c3a4
+175513 <second:  4    451        0       1506 c2b2 a1e1 c6c7 e6c4
+175513 <second: # times @ 782033076: real=2 cpu=0
+175513 <second: # promo = 0 (`) GT = 0
+175513 <second: move c2b2
+175513 >first : time 26673
+175513 >first : otim 36675
+book hit = (NULL)
+175513 >first : c2b2
+176573 <first : move a1e1
+Interrupting second
+176573 >second: time 36675
+176573 >second: otim 26767
+book hit = (NULL)
+176573 >second: a1e1
+176689 <second: # times @ 782034213
+176689 <second: # 9+7 pieces, centr = (1,1) R=9
+176689 <second:  1    442        0          3 c3a4
+176689 <second:  1    453        0          3 c6c7
+176689 <second:  2    453        0          4 c6c7
+176689 <second:  3    474        0        478 c6c7 e6d7 g2g4
+176689 <second:  4    462        0       1065 c6c7 e6d7 g2g4 f7f6
+176689 <second: # times @ 782034215: real=2 cpu=0
+176689 <second: # promo = 0 (`) GT = 0
+176689 <second: move c6c7
+176690 >first : time 26767
+176690 >first : otim 36863
+book hit = (NULL)
+176690 >first : c6c7
+178836 <first : move a4a3
+Interrupting second
+178836 >second: time 36863
+178836 >second: otim 26753
+book hit = (NULL)
+178836 >second: a4a3
+178920 <second: # times @ 782036476
+178920 <second: # 9+7 pieces, centr = (1,1) R=9
+178920 <second:  1    534        0          3 b2a3
+178920 <second:  2    518        0         29 b2a3 f7f5
+178921 <second:  3    527        0        706 b2a3 f7f5 a3b4
+178921 <second:  4    518        0       1224 b2a3 f7f5 a3b4 g8f7
+178921 <second: # times @ 782036477: real=1 cpu=0
+178921 <second: # promo = 0 (`) GT = 0
+178921 <second: move b2a3
+178921 >first : time 26753
+178921 >first : otim 37055
+book hit = (NULL)
+178921 >first : b2a3
+182211 <first : move e6c8
+Interrupting second
+182212 >second: time 37055
+182212 >second: otim 26624
+book hit = (NULL)
+182212 >second: e6c8
+182319 <second: # times @ 782039852
+182319 <second: # 9+6 pieces, centr = (1,1) R=8
+182319 <second:  1    549        0          3 g2g4
+182319 <second:  2    535        0         29 g2g4 c8e6
+182319 <second:  3    538        0        869 g2g4 h7h5 g4g5 c8h3 h1h3 e1f1 h3h5
+182319 <second:  4    534        0       2359 g2g4 h7h5 g4h5 c8h3
+182319 <second: # times @ 782039859: real=7 cpu=10
+182319 <second: # promo = 0 (`) GT = 0
+182319 <second: move g2g4
+182319 >first : time 26624
+182319 >first : otim 37244
+book hit = (NULL)
+182319 >first : g2g4
+185918 <first : move e1c1
+Interrupting second
+185918 >second: time 37244
+185918 >second: otim 26464
+book hit = (NULL)
+185918 >second: e1c1
+186008 <second: # times @ 782043559
+186008 <second: # 9+6 pieces, centr = (1,1) R=8
+186008 <second:  1    277        0          3 h3h4
+186008 <second:  1    279        0          3 e2e3
+186008 <second:  1    298        0          3 e4e5
+186008 <second:  1    542        0          3 a3b3
+186008 <second:  1    544        0          3 a3b4
+186008 <second:  2    530        0         29 a3b4 c8e6
+186008 <second:  2    538        0        124 a3b2 c1e1
+186008 <second:  3    545        0        309 a3b2 c1e1 e4e5
+186008 <second:  4    534        0        808 a3b2 c1e1 b2a3 h7h5
+186008 <second: # times @ 782043562: real=3 cpu=0
+186008 <second: # promo = 0 (`) GT = 0
+186008 <second: move a3b2
+186008 >first : time 26464
+186008 >first : otim 37435
+book hit = (NULL)
+186009 >first : a3b2
+186634 <first : move c1e1
+Interrupting second
+186634 >second: time 37435
+186634 >second: otim 26601
+book hit = (NULL)
+186634 >second: c1e1
+186725 <second: # times @ 782044274
+186725 <second: # 9+6 pieces, centr = (1,1) R=8
+186725 <second:  1    464        0         15 e2e3 e1e3
+186725 <second:  1    527        0         33 f1g2 e1h1 g2h1
+186725 <second:  1    535        0         35 h1g1
+186725 <second:  2    521        0         45 h1g1 c8e6
+186725 <second:  2    532        0         45 e4e5
+186725 <second:  3    524        0       1141 e4e5 h7h5 g4g5 c8h3 h1h3 e1f1 h3h5
+186725 <second:  3    529        0       1956 c3d5 h7h5 g4g5 c8h3 h1h3 e1f1 h3h5
+186725 <second:  4    527        0       5630 c3d5 c8e6 d5f4 e6c4
+186725 <second:  4    529        0       6834 b2c2 h7h5 c2d2 e1a1
+186725 <second: # times @ 782044281: real=7 cpu=10
+186725 <second: # promo = 0 (`) GT = 0
+186725 <second: move b2c2
+186726 >first : time 26601
+186726 >first : otim 37626
+book hit = (NULL)
+186726 >first : b2c2
+190652 <first : move e1a1
+Interrupting second
+190652 >second: time 37626
+190652 >second: otim 26408
+book hit = (NULL)
+190652 >second: e1a1
+190763 <second: # times @ 782048292
+190763 <second: # 9+6 pieces, centr = (1,1) R=8
+190763 <second:  1    543        0          3 e4e5
+190763 <second:  2    529        0         33 e4e5 c8e6
+190763 <second:  3    477        0       1471 e4e5 a1a5 c2d3 a5e5
+190763 <second:  3    529        0       3317 c3d5 h7h5 g4g5 c8h3 h1h3 a1f1 h3h5
+190763 <second:  3    531        0       4028 c2d3 h7h5 g4g5 c8h3 h1h3 a1f1 h3h5
+190763 <second:  4    527        0       4899 c2d3 h7h5 g4h5 c8h3
+190763 <second: # times @ 782048299: real=7 cpu=10
+190763 <second: # promo = 0 (`) GT = 0
+190763 <second: move c2d3
+190764 >first : time 26408
+190764 >first : otim 37815
+book hit = (NULL)
+190764 >first : c2d3
+196717 <first : move f7f5
+Interrupting second
+196717 >second: time 37815
+196717 >second: otim 26013
+book hit = (NULL)
+196717 >second: f7f5
+196800 <second: # times @ 782054357
+196800 <second: # 9+6 pieces, centr = (1,1) R=8
+196800 <second:  1    606        0          3 g4f5
+196800 <second:  2    611        0         27 g4f5 c8d7
+196800 <second:  3    616        0       1540 g4f5 c8d7 c3d5
+196800 <second:  4    608        0       1910 g4f5 c8d7 c3d5 g8f7
+196800 <second: # times @ 782054363: real=6 cpu=0
+196800 <second: # promo = 0 (`) GT = 0
+196800 <second: move g4f5
+196800 >first : time 26013
+196800 >first : otim 38006
+book hit = (NULL)
+196800 >first : g4f5
+199873 <first : move c8b7 
+Interrupting second
+199873 >second: time 38006
+199873 >second: otim 25906
+book hit = (NULL)
+199873 >second: c8b7
+199951 <second: # times @ 782057513
+199951 <second: # 9+5 pieces, centr = (1,1) R=8
+199951 <second:  1    610        0         17 h3h4
+199951 <second:  1    612        0         31 e2e3
+199951 <second:  1    614        0         31 c3d5
+199951 <second:  2    605        0         43 c3d5 g8f7
+199951 <second:  3    608        0        787 c3d5 g8f7 e2e3
+199951 <second:  4    600        0       1377 c3d5 g8f7 e2e3 b7c6
+199951 <second: # times @ 782057520: real=7 cpu=10
+199951 <second: # promo = 0 (`) GT = 0
+199951 <second: move c3d5
+199951 >first : time 25906
+199951 >first : otim 38198
+book hit = (NULL)
+199951 >first : c3d5
+206094 <first : move g8f7
+Interrupting second
+206094 >second: time 38198
+206094 >second: otim 25492
+book hit = (NULL)
+206094 >second: g8f7
+206176 <second: # times @ 782063734
+206176 <second: # 9+5 pieces, centr = (1,1) R=8
+206176 <second:  1    599        0          3 e2e3
+206176 <second:  2    599        0          4 e2e3
+206176 <second:  3    317        0        233 e2e3 b7a6 d3d4 a6f1
+206177 <second:  3    601        0        584 f1g2 a1h1 g2h1
+206177 <second:  3    603        0       1555 h1g1 g7g6 d3d4 g6f5 e4f5
+206177 <second:  3    605        0       3736 d3e3 g7g6 e3f4 g6f5 f4f5
+206177 <second:  3    606        0       4714 d3d4 g7g6 e2e3 g6f5 e4f5
+206177 <second:  4    603        0       5763 d3d4 g7g6 e2e3 b7c6
+206177 <second: # times @ 782063740: real=6 cpu=10
+206177 <second: # promo = 0 (`) GT = 0
+206177 <second: move d3d4
+206177 >first : time 25492
+206177 >first : otim 38390
+book hit = (NULL)
+206177 >first : d3d4
+210569 <first : move a1d1
+Interrupting second
+210569 >second: time 38390
+210569 >second: otim 25252
+book hit = (NULL)
+210569 >second: a1d1
+210681 <second: # times @ 782068209
+210681 <second: # 9+5 pieces, centr = (1,1) R=8
+210681 <second:  1    551        0          3 d4c3
+210681 <second:  1    599        0          3 d4c4
+210681 <second:  1    610        0          3 d4e5
+210681 <second:  2    601        0         13 d4e5 b7c6
+210681 <second:  3    608        0        933 d4e5 h7h5 e2e3
+210681 <second:  4    603        0       1775 d4e5 d1c1 f1g2 c1h1
+210681 <second: # times @ 782068212: real=3 cpu=0
+210681 <second: # promo = 0 (`) GT = 0
+210681 <second: move d4e5
+210682 >first : time 25252
+210682 >first : otim 38579
+book hit = (NULL)
+210682 >first : d4e5
+212686 <first : move d1a1
+Interrupting second
+212686 >second: time 38579
+212686 >second: otim 25252
+book hit = (NULL)
+212686 >second: d1a1
+212789 <second: # times @ 782070327
+212789 <second: # 9+5 pieces, centr = (1,1) R=8
+212789 <second:  1    612        0          3 e2e3
+212789 <second:  2    603        0         15 e2e3 b7c6
+212789 <second:  3    608        0        924 e2e3 b7a6 f1g2 a1h1 g2h1
+212789 <second:  4    605        0       2790 e2e3 a1c1 f1g2 c1h1
+212789 <second: # times @ 782070331: real=4 cpu=0
+212789 <second: # promo = 0 (`) GT = 0
+212789 <second: move e2e3
+212790 >first : time 25252
+212790 >first : otim 38769
+book hit = (NULL)
+212790 >first : e2e3
+218767 <first : move g7g6
+Interrupting second
+218767 >second: time 38769
+218767 >second: otim 24854
+book hit = (NULL)
+218767 >second: g7g6
+218847 <second: # times @ 782076407
+218847 <second: # 9+5 pieces, centr = (1,1) R=8
+218847 <second:  1    593        0          3 f5g6
+218847 <second:  1    670        0          3 f5f6
+218847 <second:  2    661        0         19 f5f6 b7c6
+218847 <second:  3    663        0       1316 f5f6 a1c1 f1g2 c1h1 g2h1
+218847 <second:  4    663        0       1717 f5f6 a1c1 f1g2 c1h1
+218847 <second: # times @ 782076409: real=2 cpu=10
+218847 <second: # promo = 0 (`) GT = 0
+218847 <second: move f5f6
+218847 >first : time 24854
+218847 >first : otim 38961
+book hit = (NULL)
+218847 >first : f5f6
+222202 <first : move a1a5
+Interrupting second
+222202 >second: time 38961
+222202 >second: otim 24719
+book hit = (NULL)
+222202 >second: a1a5
+222312 <second: # times @ 782079843
+222312 <second: # 9+5 pieces, centr = (1,1) R=8
+222312 <second:  1    462        0          3 c7c8
+222312 <second:  1    551        0          3 e5d4
+222312 <second:  1    674        0          3 h3h4
+222312 <second:  1    676        0          3 f1g2
+222312 <second:  1    680        0          3 f1e2
+222313 <second:  1    683        0          3 f1d3
+222313 <second:  2    674        0         20 f1d3 b7c6
+222313 <second:  3    679        0        643 f1d3 h7h5 h3h4
+222313 <second:  4    672        0       1655 f1d3 b7a6 d3f1 a6f1
+222313 <second: # times @ 782079848: real=5 cpu=0
+222313 <second: # promo = 0 (`) GT = 0
+222313 <second: move f1d3
+222313 >first : time 24719
+222313 >first : otim 39149
+book hit = (NULL)
+222313 >first : f1d3
+224914 <first : move b7c8
+Interrupting second
+224914 >second: time 39149
+224914 >second: otim 24659
+book hit = (NULL)
+224914 >second: b7c8
+224994 <second: # times @ 782082554
+224995 <second: # 9+5 pieces, centr = (1,1) R=8
+224995 <second:  1    674        0          3 h3h4
+224995 <second:  2    660        0         33 h3h4 c8e6
+224995 <second:  3    660        0        740 h3h4 c8e6 h1g1
+224995 <second:  3    664        0       1570 h1c1 a5a3 d3f1
+224995 <second:  4    650        0       1926 h1c1 a5a3 d3f1 c8e6
+224995 <second:  4    656        0       5601 h1d1 h7h5 h3h4 c8e6
+224995 <second:  4    659        0       8353 d3e2 c8e6 e2g4 a5a6 g4e6 a6e6
+224995 <second: # times @ 782082562: real=8 cpu=10
+224995 <second: # promo = 0 (`) GT = 0
+224995 <second: move d3e2
+224995 >first : time 24659
+224995 >first : otim 39341
+book hit = (NULL)
+224995 >first : d3e2
+229121 <first : move a5c5
+Interrupting second
+229121 >second: time 39341
+229121 >second: otim 24446
+book hit = (NULL)
+229121 >second: a5c5
+229204 <second: # times @ 782086761
+229204 <second: # 9+5 pieces, centr = (1,1) R=8
+229204 <second:  1    674        0          3 h3h4
+229204 <second:  1    676        0          3 e2f3
+229204 <second:  2    662        0         31 e2f3 c8e6
+229204 <second:  2    669        0        131 e2g4 c8g4
+229205 <second:  2    672        0        392 e5d4 c5c2
+229205 <second:  3    674        0        681 e5d4 c5c2 e2f3
+229205 <second:  4    662        0       1779 e5d4 c5a5 e2f3 c8e6
+229205 <second:  4    667        0       3071 e5d6 c5a5 e2g4 c8g4
+229205 <second:  4    676        0       4360 e2g4 c8g4 h3g4 f7g8
+229205 <second: # times @ 782086765: real=4 cpu=0
+229205 <second: # promo = 0 (`) GT = 0
+229205 <second: move e2g4
+229205 >first : time 24446
+229205 >first : otim 39533
+book hit = (NULL)
+229205 >first : e2g4
+229654 <first : move c8g4
+Interrupting second
+229654 >second: time 39533
+229654 >second: otim 24601
+book hit = (NULL)
+229654 >second: c8g4
+229779 <second: # times @ 782087295
+229779 <second: # 8+5 pieces, centr = (1,1) R=6
+229779 <second:  1    678        0          3 h3g4
+229779 <second:  2    678        0          4 h3g4
+229779 <second:  3    697        0         84 h3g4 f7g8 g4g5
+229779 <second:  4    697        0        347 h3g4 f7g8 g4g5 c5c4
+229779 <second: # times @ 782087295: real=0 cpu=10
+229779 <second: # promo = 0 (`) GT = 0
+229779 <second: move h3g4
+229779 >first : time 24601
+229779 >first : otim 39720
+book hit = (NULL)
+229779 >first : h3g4
+230770 <first : move h7h5
+Interrupting second
+230770 >second: time 39720
+230770 >second: otim 24702
+book hit = (NULL)
+230770 >second: h7h5
+230864 <second: # times @ 782088410
+230864 <second: # 8+4 pieces, centr = (1,1) R=4
+230864 <second:  1    745        0          3 g4h5
+230864 <second:  2    749        0         61 g4h5 g6g5
+230864 <second:  3    753        0       1029 g4h5 g6h5 h1h5
+230864 <second:  4    752        0       1417 g4h5 g6h5 h1h5 f7g6
+230864 <second: # times @ 782088415: real=5 cpu=0
+230864 <second: # promo = 0 (`) GT = 0
+230864 <second: move g4h5
+230864 >first : time 24702
+230864 >first : otim 39911
+book hit = (NULL)
+230864 >first : g4h5
+232916 <first : move g6g5€
+Interrupting second
+232916 >second: time 39911
+232916 >second: otim 24697
+book hit = (NULL)
+232916 >second: g6g5
+232996 <second: # times @ 782090556
+232996 <second: # 8+3 pieces, centr = (1,1) R=4
+232996 <second:  1    809        0          3 h5h6
+232996 <second:  2    808        0         15 h5h6 f7g6
+232996 <second:  2    820        0        130 h1g1 c5c4 g1g5
+232996 <second:  3    820        0        320 h1g1 c5c4 g1g5
+232996 <second:  3    876        0        623 h5h6 f7g6 h6h7
+232996 <second:  4    815        0       1225 h5h6 g5g4 h6h7 g4g3
+232996 <second:  4    820        0       1719 h1g1 c5c4 g1g5 c4c2
+232996 <second: # times @ 782090560: real=4 cpu=0
+232996 <second: # promo = 0 (`) GT = 0
+232996 <second: move h1g1
+232996 >first : time 24697
+232996 >first : otim 40103
+book hit = (NULL)
+232997 >first : h1g1
+236307 <first : move c5c2
+Interrupting second
+236307 >second: time 40103
+236307 >second: otim 24566
+book hit = (NULL)
+236307 >second: c5c2
+236415 <second: # times @ 782093947
+236415 <second: # 8+3 pieces, centr = (1,1) R=4
+236415 <second:  1    821        0          3 g1g5
+236415 <second:  2    821        0          7 g1g5 c2d2
+236415 <second:  3    882        0        508 g1g5 c2c1 h5h6
+236415 <second:  4    882        0       1791 g1g5 c2c1 h5h6 c1d1
+236415 <second: # times @ 782093950: real=3 cpu=0
+236415 <second: # promo = 0 (`) GT = 0
+236415 <second: move g1g5
+236416 >first : time 24566
+236416 >first : otim 40292
+book hit = (NULL)
+236416 >first : g1g5
+239293 <first : move c2c1@
+Interrupting second
+239293 >second: time 40292
+239293 >second: otim 24478
+book hit = (NULL)
+239293 >second: c2c1
+239375 <second: # times @ 782096933
+239375 <second: # 8+2 pieces, centr = (1,1) R=4
+239376 <second:  1    883        0          3 h5h6
+239376 <second:  2    883        0          4 h5h6
+239376 <second:  3    951        0        148 h5h6 c1c2 h6h7
+239376 <second:  4    951        0       1003 h5h6 c1c2 h6h7 c2d2
+239376 <second: # times @ 782096936: real=3 cpu=10
+239376 <second: # promo = 0 (`) GT = 0
+239376 <second: move h5h6
+239376 >first : time 24478
+239376 >first : otim 40484
+book hit = (NULL)
+239376 >first : h5h6
+248464 <first : move c1c6
+Interrupting second
+248464 >second: time 40484
+248464 >second: otim 23769
+book hit = (NULL)
+248464 >second: c1c6
+248586 <second: # times @ 782106105
+248586 <second: # 8+2 pieces, centr = (1,1) R=4
+248586 <second:  1    954        0          3 h6h7
+248586 <second:  2    954        0         12 h6h7 c6e6
+248586 <second:  3    954        0        322 h6h7 c6e6 e5f5
+248586 <second:  3    958        0        597 g5g7 f7e8 f6f7
+248586 <second:  4    958        0       1000 g5g7 f7e8 h6h7 c6c5
+248586 <second: # times @ 782106107: real=2 cpu=0
+248586 <second: # promo = 0 (`) GT = 0
+248586 <second: move g5g7
+248586 >first : time 23769
+248586 >first : otim 40672
+book hit = (NULL)
+248586 >first : g5g7
+249247 <first : HEHEHE
+249247 <first : move f7e8
+Interrupting second
+249247 >second: time 40672
+249247 >second: otim 23903
+book hit = (NULL)
+249247 >second: f7e8
+249330 <second: # times @ 782106887
+249330 <second: # 8+2 pieces, centr = (1,1) R=4
+249330 <second:  1    958        0          3 h6h7
+249330 <second:  2    958        0          4 h6h7
+249330 <second:  3   1391        0        150 h6h7 c6c7 h7h8
+249330 <second:  4   1395        0        623 h6h7 c6e6 e5e6 e8f8
+249330 <second: # times @ 782106889: real=2 cpu=0
+249330 <second: # promo = 0 (`) GT = 0
+249330 <second: move h6h7
+249330 >first : time 23903
+249330 >first : otim 40863
+book hit = (NULL)
+249330 >first : h6h7
+250162 <first : HEHEHE
+250162 <first : move c6c1
+Interrupting second
+250162 >second: time 40863
+250162 >second: otim 24020
+book hit = (NULL)
+250162 >second: c6c1
+250277 <second: # times @ 782107803
+250277 <second: # 8+2 pieces, centr = (1,1) R=4
+250277 <second:  1   1589        0          3 h7h8
+250277 <second:  2   7999        0         21 h7h8
+250277 <second:  3   7999        0         85 h7h8
+250277 <second:  4   7999        0        110 h7h8
+250277 <second: # times @ 782107803: real=0 cpu=0
+250277 <second: # promo = 7 (g) GT = 0
+250277 <second: move h7h8q
+250278 >first : h7h8q
+GameEnds(26, Xboard adjudication: Checkmate, 4)
+GE(26, Xboard adjudication: Checkmate, 4) bare king k=8 color=0
+250278 >first : result 1-0 {Xboard adjudication: Checkmate}
+Interrupting second
+250278 >second: result 1-0 {Xboard adjudication: Checkmate}
+250280 >first : quit
+250280 >second: force
+250280 >second: ping 4
+250363 <second: 1-0 {White mates}
+Reset(0, 0) from gameMode 8
+recognized 'normal' (-1) as variant normal
+GameEnds(0, (null), 2)
+shuffleOpenings = 0
+StartChildProcess (dir=".") make run
+250366 >first : xboard
+protover 2
+250366 <second: Error (unknown command): result
+250366 <second: pong 4
+250368 <first : ./Chess++
+250391 <first : feature sigint=0 san=0
+250391 >first : accepted sigint
+250391 >first : accepted san
+260372 >first : new
+random
+260373 >first : level 0 5 2
+260373 >first : post
+260373 >first : hard
+Feeding moves 0 through 0 to first chess program
+260373 >first : force
+260373 >second: memory 68
+260373 >second: new
+random
+sd 4
+260373 >second: level 0 5 2
+260373 >second: post
+260373 >second: hard
+260373 >second: ping 5
+260373 >second: force
+260392 <second: pong 5
+New game (3): make-Fairy-Max 4.8V (w)
+260393 >first : computer
+260393 >second: computer
+260393 >first : black
+260393 >first : time 30000
+260393 >first : otim 30000
+260393 >first : white
+book hit = (NULL)
+260393 >first : go
+nps: w=-1, b=-1
+260393 <second: Error (unknown command): computer
+261179 <first : move g1f3þ
+261179 >second: time 30000
+261179 >second: otim 30121
+book hit = (NULL)
+261179 >second: g1f3
+261179 >second: black
+261179 >second: go
+261300 <second: # times @ 782118819
+261300 <second: # 16+16 pieces, centr = (1,1) R=40
+261300 <second:  1     15        0          3 c7c5
+261300 <second:  1     24        0          5 c7c6
+261300 <second:  1     25        0          7 g8f6
+261300 <second:  2    -16        0         15 g8f6 c2c4
+261300 <second:  2    -15        0         24 g8h6 c2c4
+261300 <second:  2      0        0         31 a7a5 c2c4
+261300 <second:  2      3        0         55 b7b5 d2d4
+261300 <second:  2      4        0         64 b7b6 c2c4
+261300 <second:  2      5        0         71 c7c5 c2c4
+261300 <second:  2     13        0         93 d7d5 d2d4
+261300 <second:  3      3        0        344 d7d5 d2d4 b8c6
+261300 <second:  3      6        0        535 d7d6 c2c4 c7c5
+261300 <second:  3     24        0        713 f7f6 c2c4 c7c5
+261300 <second:  3     28        0        935 c7c6 c2c4 d7d5
+261300 <second:  4     11        0       1649 c7c6 d2d4 d7d5 b1c3
+261300 <second: # times @ 782118822: real=3 cpu=10
+261300 <second: # promo = 0 (`) GT = 0
+261301 <second: move c7c6
+261301 >first : time 30121
+261301 >first : otim 30187
+book hit = (NULL)
+261301 >first : c7c6
+263597 <first : move b1c3
+Interrupting second
+263598 >second: time 30187
+263598 >second: otim 30091
+book hit = (NULL)
+263598 >second: b1c3
+263713 <second: # times @ 782121238
+263713 <second: # 16+16 pieces, centr = (1,1) R=40
+263713 <second:  1     15        0          3 d7d5
+263713 <second:  1     18        0          5 f7f5
+263713 <second:  1     26        0          7 f7f6
+263713 <second:  2     -9        0         15 f7f6 d2d4
+263713 <second:  2      1        0         22 f7f5 d2d4
+263713 <second:  2      5        0         45 h7h5 d2d4
+263713 <second:  2      6        0        153 d7d6 d2d4
+263713 <second:  3      5        0        397 d7d6 d2d4 c8f5
+263713 <second:  3     18        0        743 f7f5 d2d4 g8f6
+263713 <second:  4     12        0       1396 f7f5 d2d4 g8f6 c1f4
+263713 <second: # times @ 782121240: real=2 cpu=0
+263713 <second: # promo = 0 (`) GT = 0
+263714 <second: move f7f5
+263714 >first : time 30091
+263714 >first : otim 30376
+book hit = (NULL)
+263714 >first : f7f5
+265670 <first : move h1g1 
+Interrupting second
+265670 >second: time 30376
+265670 >second: otim 30096
+book hit = (NULL)
+265670 >second: h1g1
+265756 <second: # times @ 782123310
+265756 <second: # 16+16 pieces, centr = (1,1) R=40
+265756 <second:  1     -4        0          3 a7a5
+265756 <second:  1      6        0          3 b7b5
+265756 <second:  1     10        0          5 b7b6
+265756 <second:  1     20        0         11 d7d5
+265756 <second:  2    -15        0         43 d7d5 d2d4
+265756 <second:  2      1        0         52 d7d6 d2d4
+265756 <second:  3      2        0        480 d7d6 d2d4 b8d7
+265756 <second:  3      9        0        785 g7g6 d2d4 g8f6
+265756 <second:  3     10        0       1068 d8c7 d2d4 g8f6
+265756 <second:  4    -26        0       2159 d8c7 d2d4 g8f6 c1e3
+265756 <second:  4     -2        0       3780 d8b6 e2e4 g8h6 d2d4
+265756 <second:  4      6        0       4744 g8f6 d2d4 d8b6
+265756 <second: # times @ 782123318: real=8 cpu=10
+265756 <second: # promo = 0 (`) GT = 0
+265756 <second: move g8f6
+265757 >first : time 30096
+265757 >first : otim 30567
+book hit = (NULL)
+265757 >first : g8f6
+267096 <first : move a2a3
+Interrupting second
+267096 >second: time 30567
+267096 >second: otim 30162
+book hit = (NULL)
+267096 >second: a2a3
+267180 <second: # times @ 782124736
+267180 <second: # 16+16 pieces, centr = (1,1) R=40
+267180 <second:  1      6        0          3 b7b5
+267181 <second:  2     -9        0         37 b7b5 d2d4
+267181 <second:  3     -5        0       1123 b7b5 d2d4 g7g6
+267181 <second:  3      5        0       1484 d7d5 d2d4 b8d7
+267181 <second:  4     -9        0       2494 d7d5 d2d4 b8d7 c1f4
+267181 <second: # times @ 782124745: real=9 cpu=10
+267181 <second: # promo = 0 (`) GT = 0
+267181 <second: move d7d5
+267181 >first : time 30162
+267181 >first : otim 30759
+book hit = (NULL)
+267181 >first : d7d5
+270165 <first : move d2d4
+Interrupting second
+270165 >second: time 30759
+270165 >second: otim 30063
+book hit = (NULL)
+270165 >second: d2d4
+270246 <second: # times @ 782127806
+270246 <second: # 16+16 pieces, centr = (1,1) R=40
+270246 <second:  1     -3        0          9 a7a5
+270246 <second:  2    -18        0         69 a7a5 c1f4
+270246 <second:  2    -11        0        379 g7g6 c1f4
+270246 <second:  2    -10        0        595 b8d7
+270246 <second:  3      3        0        999 b8d7 c1f4 g7g6
+270246 <second:  3     11        0       1489 c8e6 f3g5 e6d7
+270246 <second:  4     -4        0       1971 c8e6 f3g5 e6d7 c1f4
+270246 <second:  4     -3        1      10859 g7g6 c1f4 b8d7 h2h4
+270246 <second:  4     -1        2      14227 b8d7 c1f4 d8b6 a1b1
+270246 <second: # times @ 782127826: real=20 cpu=20
+270246 <second: # promo = 0 (`) GT = 0
+270246 <second: move b8d7
+270246 >first : time 30063
+270246 >first : otim 30950
+book hit = (NULL)
+270246 >first : b8d7
+272353 <first : move c1f4
+Interrupting second
+272353 >second: time 30950
+272353 >second: otim 30053
+book hit = (NULL)
+272353 >second: c1f4
+272463 <second: # times @ 782129993
+272463 <second: # 16+16 pieces, centr = (1,1) R=40
+272463 <second:  1     -3        0          5 a7a5
+272463 <second:  1     -1        0          5 d8b6
+272463 <second:  2     -1        0          6 d8b6
+272463 <second:  3      3        0        957 d8b6 a1b1 g7g6
+272463 <second:  4     -1        0       2199 d8b6 a1b1 g7g6 h2h4
+272463 <second: # times @ 782130004: real=11 cpu=10
+272463 <second: # promo = 0 (`) GT = 0
+272463 <second: move d8b6
+272463 >first : time 30053
+272463 >first : otim 31139
+book hit = (NULL)
+272463 >first : d8b6
+274974 <first : move d1c1
+Interrupting second
+274974 >second: time 31139
+274974 >second: otim 30002
+book hit = (NULL)
+274974 >second: d1c1
+275061 <second: # times @ 782132615
+275061 <second: # 16+16 pieces, centr = (1,1) R=40
+275061 <second:  1   -777        0          3 b6b2
+275061 <second:  1   -601        0          3 b6b5
+275061 <second:  1      0        0          3 b6a5
+275061 <second:  1      4        0          3 g7g6
+275061 <second:  2     -2        0        277 g7g6 h2h4
+275061 <second:  3      1        0       1870 g7g6 h2h4 f8g7
+275061 <second:  4     -2        0       3176 g7g6 h2h4 f8g7 e2e3
+275061 <second: # times @ 782132638: real=23 cpu=20
+275061 <second: # promo = 0 (`) GT = 0
+275061 <second: move g7g6
+275062 >first : time 30002
+275062 >first : otim 31331
+book hit = (NULL)
+275062 >first : g7g6
+278413 <first : move a1a2
+Interrupting second
+278413 >second: time 31331
+278413 >second: otim 29866
+book hit = (NULL)
+278413 >second: a1a2
+278500 <second: # times @ 782136054
+278500 <second: # 16+16 pieces, centr = (1,1) R=40
+278501 <second:  1   -777        0          3 b6b2
+278501 <second:  1   -601        0          3 b6b5
+278501 <second:  1      0        0          3 b6a5
+278501 <second:  1      3        0          3 f8g7
+278501 <second:  2     -3        0        267 f8g7 h2h4
+278501 <second:  3      3        0       2248 f8g7 c1e3 b6a5
+278501 <second:  4      3        0       3880 f8g7 c1e3 f6g4 e3d2
+278501 <second: # times @ 782136064: real=10 cpu=10
+278501 <second: # promo = 0 (`) GT = 0
+278501 <second: move f8g7
+278501 >first : time 29866
+278501 >first : otim 31522
+book hit = (NULL)
+278501 >first : f8g7
+284180 <first : move c1d1
+Interrupting second
+284180 >second: time 31522
+284180 >second: otim 29498
+book hit = (NULL)
+284180 >second: c1d1
+284264 <second: # times @ 782141820
+284264 <second: # 16+16 pieces, centr = (1,1) R=40
+284264 <second:  1   -774        0          3 b6b2
+284264 <second:  1   -598        0          3 b6b5
+284264 <second:  1      2        0          3 b6a5
+284264 <second:  1     26        0          3 e8g8
+284264 <second:  2     20        0        157 e8g8 h2h4
+284264 <second:  3     20        0       1142 e8g8 h2h4 b6a5
+284264 <second:  4     18        0       2604 e8g8 h2h4 f6e4 g2g4
+284264 <second: # times @ 782141834: real=14 cpu=20
+284264 <second: # promo = 0 (`) GT = 0
+284264 <second: move e8g8
+284265 >first : time 29498
+284265 >first : otim 31713
+book hit = (NULL)
+284265 >first : e8g8
+288331 <first : move d1d3
+Interrupting second
+288331 >second: time 31713
+288331 >second: otim 29292
+book hit = (NULL)
+288331 >second: d1d3
+288414 <second: # times @ 782145972
+288414 <second: # 16+16 pieces, centr = (1,1) R=40
+288414 <second:  1   -777        0          3 b6b2
+288414 <second:  1   -675        0          3 b6b5
+288414 <second:  1      0        0          3 b6a5
+288414 <second:  2     -6        0         84 b6a5 h2h4
+288414 <second:  2     -3        0        393 f6e4 g2g4
+288414 <second:  3     -2        0       3362 f6e4 g2g4 d7f6 c3e4 f6e4
+288414 <second:  3      1        0       3916 f6h5 f4e3 g7f6
+288414 <second:  4     -3        0       6517 f6h5 f4g5 g7f6 g2g4
+288415 <second:  4     -2        1      13477 f6e4 g2g4 d7f6 c3e4
+288415 <second: # times @ 782146003: real=31 cpu=30
+288415 <second: # promo = 0 (`) GT = 0
+288415 <second: move f6e4
+288415 >first : time 29292
+288415 >first : otim 31905
+book hit = (NULL)
+288415 >first : f6e4
+292092 <first : move g2g3
+Interrupting second
+292092 >second: time 31905
+292092 >second: otim 29124
+book hit = (NULL)
+292092 >second: g2g3
+292173 <second: # times @ 782149734
+292173 <second: # 16+16 pieces, centr = (1,1) R=40
+292173 <second:  1     -7        0          3 e4c3
+292173 <second:  1     -4        0          3 e4f6
+292173 <second:  1     -3        0          3 e4d6
+292173 <second:  1      1        0          3 d7f6
+292173 <second:  1      2        0          3 g7f6
+292173 <second:  2      1        0         63 g7f6 h2h4
+292173 <second:  3      1        0       3809 g7f6 h2h4 b6a5
+292173 <second:  4     -1        0       5187 g7f6 h2h4 b6a5 f1g2
+292213 <second:  4      8       11      81654 d7f6 f3e5 c8e6 h2h4
+292221 <second: # times @ 782149861: real=127 cpu=130
+292221 <second: # promo = 0 (`) GT = 0
+292221 <second: move d7f6
+292222 >first : time 29124
+292222 >first : otim 32092
+book hit = (NULL)
+292222 >first : d7f6
+299592 <first : move c3d1
+Interrupting second
+299592 >second: time 32092
+299592 >second: otim 28587
+book hit = (NULL)
+299592 >second: c3d1
+299705 <second: # times @ 782157232
+299705 <second: # 16+16 pieces, centr = (1,1) R=40
+299705 <second:  1   -198        0         25 e4f2 d1f2
+299705 <second:  1     -3        0         81 e4d6
+299705 <second:  1      9        0         85 c8d7
+299705 <second:  1     14        0         85 c8e6
+299705 <second:  2     14        0         86 c8e6
+299705 <second:  3      3        0        670 c8e6 d1e3 a8c8
+299705 <second:  3      6        0       4045 f6h5 f4e5 c8e6
+299705 <second:  4      2        1       9920 f6h5 f4e5 c8e6 d1e3 g7e5 f3e5
+299705 <second:  4      3        3      19140 c8e6 d1e3 f6h5 f4e5
+299705 <second: # times @ 782157280: real=48 cpu=50
+299705 <second: # promo = 0 (`) GT = 0
+299705 <second: move c8e6
+299706 >first : time 28587
+299706 >first : otim 32281
+book hit = (NULL)
+299706 >first : c8e6
+305220 <first : move f3g5
+Interrupting second
+305220 >second: time 32281
+305220 >second: otim 28236
+book hit = (NULL)
+305220 >second: f3g5
+305330 <second: # times @ 782162861
+305330 <second: # 16+16 pieces, centr = (1,1) R=40
+305330 <second:  1     -1        0          3 e4g5
+305330 <second:  1      0        0          3 b6a5
+305330 <second:  2   -194        0        385 b6a5 b2b4 e4f2 d1f2
+305330 <second:  2    -46        0        538 c6c5 g5e6
+305330 <second:  2    -39        0        571 e6f7 g5f7
+305330 <second:  2    -16        0        681 e6d7 d1e3
+305330 <second:  2     -1        0        834 e4g5 f4g5
+305330 <second:  3     -1        0       1741 e4g5 f4g5 b6a5
+305330 <second:  4     -7        0       4821 e4g5 f4g5 b6a5 d1c3 a5b6
+305331 <second: # times @ 782162887: real=26 cpu=20
+305331 <second: # promo = 0 (`) GT = 0
+305331 <second: move e4g5
+305331 >first : time 28236
+305331 >first : otim 32470
+book hit = (NULL)
+305331 >first : e4g5
+306841 <first : move f4g5@
+Interrupting second
+306841 >second: time 32470
+306841 >second: otim 28285
+book hit = (NULL)
+306841 >second: f4g5
+306918 <second: # times @ 782164481
+306918 <second: # 15+15 pieces, centr = (1,1) R=36
+306918 <second:  1   -777        0          5 b6b2 a2b2
+306918 <second:  1    -13        0          7 b6b5 d3b5
+306918 <second:  1     -8        0          7 b6a5
+306918 <second:  2     -8        0          8 b6a5
+306918 <second:  3    -13        0       1451 b6a5 d1c3 a5b6 f2f4
+306918 <second:  3    -11        0       2373 b6a6 d3a6 b7a6
+306918 <second:  3     -8        0       3001 b6c7 d1e3 f6e4
+306918 <second:  3     -4        0       7325 h7h6 g5f4 f6e4
+306918 <second:  4     -8        1      10229 h7h6 g5f4 f6e4 c2c3
+306918 <second:  4      1        2      23446 f6e4 g5e3 g7f6 f2f4
+306918 <second: # times @ 782164509: real=28 cpu=30
+306918 <second: # promo = 0 (`) GT = 0
+306918 <second: move f6e4
+306918 >first : time 28285
+306918 >first : otim 32662
+book hit = (NULL)
+306918 >first : f6e4
+308196 <first : move g5e3
+Interrupting second
+308197 >second: time 32662
+308197 >second: otim 28357
+book hit = (NULL)
+308197 >second: g5e3
+308295 <second: # times @ 782165837
+308295 <second: # 15+15 pieces, centr = (1,1) R=36
+308295 <second:  1   -198        0         59 e4f2 d1f2
+308295 <second:  1     -3        0        175 e4f6
+308295 <second:  1      0        0        177 a8b8
+308295 <second:  1      1        0        177 g7f6
+308295 <second:  2      1        0        178 g7f6
+308295 <second:  3      0        0       1380 g7f6 f2f4 a8b8
+308295 <second:  4     -7        1      10825 g7f6 f2f3 e4d6 d1c3
+308295 <second: # times @ 782165905: real=68 cpu=70
+308295 <second: # promo = 0 (`) GT = 0
+308295 <second: move g7f6
+308295 >first : time 28357
+308295 >first : otim 32852
+book hit = (NULL)
+308295 >first : g7f6
+312828 <first : move b2b4
+Interrupting second
+312828 >second: time 32852
+312828 >second: otim 28104
+book hit = (NULL)
+312828 >second: b2b4
+312904 <second: # times @ 782170469
+312904 <second: # 15+15 pieces, centr = (1,1) R=36
+312904 <second:  1   -198        0          3 e4f2
+312904 <second:  1     -4        0          3 e4g5
+312904 <second:  1     -3        0          3 e4d6
+312904 <second:  1      0        0          3 a8b8
+312904 <second:  2     -7        0        235 a8b8 f2f4
+312904 <second:  3     -8        0       7427 a8b8 d1c3 h7h5
+312904 <second:  4    -14        1      12662 a8b8 f2f3 e4d6 d1c3
+312904 <second:  4    -13        3      33351 a7a5 f2f3 e4d6 c2c3 a5b4 c3b4
+312904 <second:  4     -9        7      67284 e4d6 c2c3 d6c4 e3f4
+312904 <second: # times @ 782170540: real=71 cpu=70
+312904 <second: # promo = 0 (`) GT = 0
+312904 <second: move e4d6
+312904 >first : time 28104
+312904 >first : otim 33044
+book hit = (NULL)
+312904 >first : e4d6
+317014 <first : move c2c3
+Interrupting second
+317014 >second: time 33044
+317014 >second: otim 27893
+book hit = (NULL)
+317014 >second: c2c3
+317091 <second: # times @ 782174655
+317091 <second: # 15+15 pieces, centr = (1,1) R=36
+317091 <second:  1   -226        0         15 f6d4 c3d4
+317091 <second:  1     -7        0         33 f6g7
+317091 <second:  2    -14        0         87 f6g7 f2f4
+317091 <second:  2     -9        0        270 a7a5 h2h4
+317091 <second:  3     -7        0       1180 a7a5 f2f3 a8b8
+317091 <second:  3     -6        0       1531 b6b5 d3b5 d6b5
+317091 <second:  3     -5        0       1959 b6c7 f2f3 a8b8
+317091 <second:  3     -1        0       2373 d6c4 e3f4 c4d6
+317091 <second:  4     -2        0       7602 d6c4 e3h6 f8f7 d1e3
+317091 <second: # times @ 782174672: real=17 cpu=20
+317091 <second: # promo = 0 (`) GT = 0
+317091 <second: move d6c4
+317091 >first : time 27893
+317091 >first : otim 33237
+book hit = (NULL)
+317091 >first : d6c4
+321290 <first : move e3h6
+Interrupting second
+321290 >second: time 33237
+321290 >second: otim 27673
+book hit = (NULL)
+321290 >second: e3h6
+321395 <second: # times @ 782178930
+321395 <second: # 15+15 pieces, centr = (1,1) R=36
+321395 <second:  1   -345        0         49 c4a3 h6f8 a8f8 a2a3
+321395 <second:  1   -270        0         65 c4b2 a2b2
+321395 <second:  1   -266        0        165 c4d2 h6d2
+321395 <second:  1   -257        0        297 c4e5 d4e5
+321395 <second:  1   -145        0        313 c4d6 h6f8 a8f8
+321395 <second:  1     -3        0        331 f8f7
+321395 <second:  2     -3        0        332 f8f7
+321395 <second:  3    -10        0        858 f8f7 d1e3 c4d6
+321395 <second:  4    -12        0       4811 f8f7 d1e3 a7a5 e3c4 d5c4
+321395 <second: # times @ 782178956: real=26 cpu=20
+321395 <second: # promo = 0 (`) GT = 0
+321395 <second: move f8f7
+321396 >first : time 27673
+321396 >first : otim 33426
+book hit = (NULL)
+321396 >first : f8f7
+326230 <first : move d1e3
+Interrupting second
+326230 >second: time 33426
+326230 >second: otim 27389
+book hit = (NULL)
+326231 >second: d1e3
+326340 <second: # times @ 782183871
+326340 <second: # 15+15 pieces, centr = (1,1) R=36
+326340 <second:  1    -18        0          3 c4e3
+326340 <second:  1    -13        0          3 a7a5
+326340 <second:  2    -13        0          4 a7a5
+326340 <second:  3    -13        0       2660 a7a5 e3c4 d5c4
+326340 <second:  3    -11        0       4174 b6b5 e3c4 d5c4
+326340 <second:  3    -10        1      10181 f6g7 h6f4 g7f6
+326340 <second:  3     -7        1      12456 c4e3 h6e3 a8b8
+326340 <second:  3     -6        1      13203 c4d6 h6f4 d6e4
+326340 <second:  4    -10        1      15752 c4d6 h6f4 a7a5 d3d2
+326340 <second:  4     -2        3      33506 a7a5 e3c4 d5c4 d3e3
+326340 <second: # times @ 782183922: real=51 cpu=50
+326340 <second: # promo = 0 (`) GT = 0
+326340 <second: move a7a5
+326341 >first : time 27389
+326341 >first : otim 33615
+book hit = (NULL)
+326341 >first : a7a5
+328635 <first : move e3c4
+Interrupting second
+328635 >second: time 33615
+328635 >second: otim 27360
+book hit = (NULL)
+328635 >second: e3c4
+328745 <second: # times @ 782186275
+328745 <second: # 15+14 pieces, centr = (1,1) R=34
+328745 <second:  1     -2        0          3 d5c4
+328745 <second:  2     -2        0          4 d5c4
+328745 <second:  3     -1        0        645 d5c4 d3e3 e6d5
+328745 <second:  4     -8        0       3855 d5c4 d3d2 b6a7 h6e3 a5b4 c3b4
+328745 <second: # times @ 782186285: real=10 cpu=10
+328745 <second: # promo = 0 (`) GT = 0
+328745 <second: move d5c4
+328746 >first : time 27360
+328746 >first : otim 33804
+book hit = (NULL)
+328746 >first : d5c4
+331115 <first : move d3e3
+Interrupting second
+331115 >second: time 33804
+331115 >second: otim 27323
+book hit = (NULL)
+331115 >second: d3e3
+331199 <second: # times @ 782188755
+331199 <second: # 14+14 pieces, centr = (1,1) R=32
+331199 <second:  1    -89        0          5 a5b4 e3e6
+331199 <second:  1    -86        0         41 c6c5 b4c5
+331199 <second:  1      0        0         41 e6d5
+331199 <second:  2      0        0         42 e6d5
+331199 <second:  3      1        0        542 e6d5 e3d2 d5e4
+331199 <second:  4      1        0       4172 e6d5 e3d2 e7e5 d4e5 f6e5
+331199 <second: # times @ 782188772: real=17 cpu=10
+331199 <second: # promo = 0 (`) GT = 0
+331199 <second: move e6d5
+331199 >first : time 27323
+331199 >first : otim 33996
+book hit = (NULL)
+331199 >first : e6d5
+333585 <first : move f1g2
+Interrupting second
+333585 >second: time 33996
+333585 >second: otim 27284
+book hit = (NULL)
+333585 >second: f1g2
+333676 <second: # times @ 782191227
+333676 <second: # 14+14 pieces, centr = (1,1) R=32
+333676 <second:  1     62        0          3 d5g2
+333676 <second:  2     62        0          5 d5g2 g1g2
+333676 <second:  3     62        0       2452 d5g2 g1g2 a5b4
+333676 <second:  3     63        0       3609 a5b4 g2d5 c6d5
+333676 <second:  4     63        0       4261 a5b4 g2d5 c6d5 a2b2 a8a3 b2b4 b6b4 c3b4 a3e3 h6e3
+333676 <second:  4     65        0       5114 d5g2 g1g2 a5b4 a2b2 a8a3 b2b4 b6b4 c3b4 a3e3 h6e3
+333676 <second: # times @ 782191236: real=9 cpu=10
+333676 <second: # promo = 0 (`) GT = 0
+333676 <second: move d5g2
+333676 >first : time 27284
+333676 >first : otim 34187
+book hit = (NULL)
+333676 >first : d5g2
+335001 <first : move g1g2
+Interrupting second
+335001 >second: time 34187
+335001 >second: otim 27352
+book hit = (NULL)
+335001 >second: g1g2
+335090 <second: # times @ 782192641
+335090 <second: # 13+13 pieces, centr = (1,1) R=28
+335090 <second:  1     66        0          3 a5b4
+335090 <second:  2     66        0          4 a5b4
+335090 <second:  3     75        0        617 a5b4 c3b4 b6d4
+335090 <second:  4     76        0       1785 a5b4 c3b4 f6d4 e3f3
+335090 <second: # times @ 782192646: real=5 cpu=0
+335090 <second: # promo = 0 (`) GT = 0
+335090 <second: move a5b4
+335090 >first : time 27352
+335090 >first : otim 34378
+book hit = (NULL)
+335090 >first : a5b4
+336541 <first : move a2a1
+Interrupting second
+336542 >second: time 34378
+336542 >second: otim 27406
+book hit = (NULL)
+336542 >second: a2a1
+336623 <second: # times @ 782194182
+336623 <second: # 12+13 pieces, centr = (1,1) R=28
+336623 <second:  1    197        0          3 b4a3
+336623 <second:  2    187        0         55 b4a3 h6f4
+336623 <second:  3    197        0       2725 b4a3 e3d2 a8a7
+336624 <second:  4    189        0       4235 b4a3 e3d2 e7e5 h6e3
+336624 <second:  4    266        0       5334 b4c3 e3c3 f6d4 c3c1 d4a1 c1a1
+336624 <second: # times @ 782194191: real=9 cpu=10
+336624 <second: # promo = 0 (`) GT = 0
+336624 <second: move b4c3
+336624 >first : time 27406
+336624 >first : otim 34570
+book hit = (NULL)
+336624 >first : b4c3
+337886 <first : move d4d5
+Interrupting second
+337887 >second: time 34570
+337887 >second: otim 27480
+book hit = (NULL)
+337887 >second: d4d5
+337966 <second: # times @ 782195527
+337966 <second: # 11+13 pieces, centr = (1,1) R=27
+337966 <second:  1    282        0          3 b6e3
+337966 <second:  2    282        0          5 b6e3 f2e3
+337966 <second:  2    285        0        493 b6b2 e3c1 b2c1 a1c1 c6d5
+337966 <second:  3    285        0        924 b6b2 e3c1 b2c1
+337966 <second:  4    285        0       3413 b6b2 e3c1 b2c1 a1c1
+337966 <second: # times @ 782195536: real=9 cpu=10
+337966 <second: # promo = 0 (`) GT = 0
+337966 <second: move b6b2
+337966 >first : time 27480
+337966 >first : otim 34762
+book hit = (NULL)
+337966 >first : b6b2
+340142 <first : move e3c1
+Interrupting second
+340143 >second: time 34762
+340143 >second: otim 27463
+book hit = (NULL)
+340143 >second: e3c1
+340260 <second: # times @ 782197783
+340260 <second: # 11+13 pieces, centr = (1,1) R=27
+340260 <second:  1    286        0          3 b2c1
+340260 <second:  2    286        0          4 b2c1
+340260 <second:  3    286        0         14 b2c1 a1c1 c6d5
+340260 <second:  3    290        0       1085 c6d5 a1b1 b2c1
+340260 <second:  4    290        0       2421 c6d5 a1b1 b2c1 h6c1
+340260 <second: # times @ 782197793: real=10 cpu=10
+340260 <second: # promo = 0 (`) GT = 0
+340260 <second: move c6d5
+340261 >first : time 27463
+340261 >first : otim 34950
+book hit = (NULL)
+340261 >first : c6d5
+341524 <first : move a1b1
+Interrupting second
+341525 >second: time 34950
+341525 >second: otim 27536
+book hit = (NULL)
+341525 >second: a1b1
+341605 <second: # times @ 782199165
+341605 <second: # 10+13 pieces, centr = (1,1) R=27
+341605 <second:  1    291        0          3 b2c1
+341605 <second:  2    291        0          4 b2c1
+341605 <second:  3    292        0         77 b2c1 h6c1 e7e5
+341605 <second:  4    283        0        709 b2c1 h6c1 e7e5 f2f4
+341605 <second:  4    286        0       5235 b2a3 c1a3 a8a3 b1b7
+341605 <second: # times @ 782199177: real=12 cpu=10
+341605 <second: # promo = 0 (`) GT = 0
+341605 <second: move b2a3
+341605 >first : time 27536
+341605 >first : otim 35142
+book hit = (NULL)
+341605 >first : b2a3
+342424 <first : move c1a3
+Interrupting second
+342424 >second: time 35142
+342424 >second: otim 27654
+book hit = (NULL)
+342424 >second: c1a3
+342532 <second: # times @ 782200064
+342532 <second: # 9+12 pieces, centr = (1,1) R=21
+342532 <second:  1    286        0          3 a8a3
+342533 <second:  2    286        0          4 a8a3
+342533 <second:  3    342        0        493 a8a3 b1b7 c3c2
+342533 <second:  4    349        0       2379 a8a3 f2f4 e7e5 h2h4
+342533 <second: # times @ 782200067: real=3 cpu=0
+342533 <second: # promo = 0 (`) GT = 0
+342533 <second: move a8a3
+342533 >first : time 27654
+342533 >first : otim 35331
+book hit = (NULL)
+342533 >first : a8a3
+349282 <first : move b1c1
+Interrupting second
+349282 >second: time 35331
+349282 >second: otim 27180
+book hit = (NULL)
+349282 >second: b1c1
+349372 <second: # times @ 782206922
+349372 <second: # 8+12 pieces, centr = (1,1) R=15
+349372 <second:  1    354        0          3 d5d4
+349372 <second:  2    354        0          4 d5d4
+349372 <second:  3    368        0        494 d5d4 g3g4 e7e6
+349372 <second:  4    363        0       1125 d5d4 g3g4 f5g4 g2g4
+349372 <second: # times @ 782206926: real=4 cpu=10
+349372 <second: # promo = 0 (`) GT = 0
+349372 <second: move d5d4
+349373 >first : time 27180
+349373 >first : otim 35522
+book hit = (NULL)
+349373 >first : d5d4
+353149 <first : move h6f4
+Interrupting second
+353150 >second: time 35522
+353150 >second: otim 27002
+book hit = (NULL)
+353150 >second: h6f4
+353265 <second: # times @ 782210790
+353265 <second: # 8+12 pieces, centr = (1,1) R=15
+353265 <second:  1    420        0          3 d4d3
+353265 <second:  2    407        0         37 d4d3 h2h4
+353265 <second:  3    426        0        920 d4d3 e2d3 c4d3
+353265 <second:  3    433        0       1044 e7e5 f4h6 d4d3
+353266 <second:  4    420        0       1402 e7e5 f4h6 d4d3 f2f4
+353266 <second: # times @ 782210792: real=2 cpu=0
+353266 <second: # promo = 0 (`) GT = 0
+353266 <second: move e7e5
+353266 >first : time 27002
+353266 >first : otim 35710
+book hit = (NULL)
+353266 >first : e7e5
+355239 <first : move f4h6
+Interrupting second
+355240 >second: time 35710
+355240 >second: otim 27005
+book hit = (NULL)
+355240 >second: f4h6
+355354 <second: # times @ 782212880
+355354 <second: # 8+12 pieces, centr = (1,1) R=15
+355354 <second:  1    420        0          3 d4d3
+355354 <second:  2    420        0          4 d4d3
+355354 <second:  3    439        0        709 d4d3 e2d3 c4d3
+355354 <second:  4    414        0       1667 d4d3 e2d3 c4d3 f2f4
+355354 <second: # times @ 782212881: real=1 cpu=0
+355354 <second: # promo = 0 (`) GT = 0
+355354 <second: move d4d3
+355354 >first : time 27005
+355354 >first : otim 35898
+book hit = (NULL)
+355354 >first : d4d3
+356842 <first : move c1b1
+Interrupting second
+356843 >second: time 35898
+356843 >second: otim 27056
+book hit = (NULL)
+356843 >second: c1b1
+356926 <second: # times @ 782214483
+356926 <second: # 8+12 pieces, centr = (1,1) R=15
+356926 <second:  1    365        0          3 d3e2
+356926 <second:  1    442        0          3 d3d2
+356926 <second:  1    482        0          3 c3c2
+356926 <second:  2    482        0         74 c3c2 b1c1
+356926 <second:  3    482        0        849 c3c2 b1b4 f7c7
+356926 <second:  4    474        0       3133 c3c2 b1c1 b7b5 f2f4
+356927 <second:  4    502        0       4857 d3d2 e1d1 a3b3 b1a1 f7d7
+356927 <second: # times @ 782214488: real=5 cpu=10
+356927 <second: # promo = 0 (`) GT = 0
+356927 <second: move d3d2
+356927 >first : time 27056
+356927 >first : otim 36090
+book hit = (NULL)
+356927 >first : d3d2
+358559 <first : move h6d2
+Interrupting second
+358559 >second: time 36090
+358559 >second: otim 27092
+book hit = (NULL)
+358559 >second: h6d2
+358675 <second: # times @ 782216199
+358675 <second: # 8+11 pieces, centr = (1,1) R=14
+358675 <second:  1    506        0          3 c3d2
+358675 <second:  2    506        0          4 c3d2
+358675 <second:  3    538        0        567 c3d2 e1d2 f7d7 d2c2 c4c3
+358675 <second:  4    530        0       5207 c3d2 e1d2 c4c3 d2c2 h7h5 f2f4
+358675 <second: # times @ 782216207: real=8 cpu=10
+358675 <second: # promo = 0 (`) GT = 0
+358675 <second: move c3d2
+358675 >first : time 27092
+358675 >first : otim 36278
+book hit = (NULL)
+358675 >first : c3d2
+360820 <first : move e1d1
+Interrupting second
+360821 >second: time 36278
+360821 >second: otim 27078
+book hit = (NULL)
+360821 >second: e1d1
+360907 <second: # times @ 782218461
+360907 <second: # 7+11 pieces, centr = (1,1) R=12
+360907 <second:  1    281        0          3 a3g3
+360907 <second:  1    521        0          3 a3b3
+360907 <second:  1    666        0          3 a3a2
+360907 <second:  1    726        0          3 c4c3
+360907 <second:  2    693        0         36 c4c3 f2f4
+360907 <second:  3    697        0        626 c4c3 f2f4 h7h5
+360907 <second:  4    693        0       1498 c4c3 f2f4 h7h5 h2h4
+360907 <second: # times @ 782218463: real=2 cpu=0
+360907 <second: # promo = 0 (`) GT = 0
+360907 <second: move c4c3
+360908 >first : time 27078
+360908 >first : otim 36470
+book hit = (NULL)
+360908 >first : c4c3
+366462 <first : move d1c2
+Interrupting second
+366462 >second: time 36470
+366462 >second: otim 26723
+book hit = (NULL)
+366462 >second: d1c2
+366548 <second: # times @ 782224102
+366548 <second: # 7+11 pieces, centr = (1,1) R=12
+366548 <second:  1    714        0          3 h7h5
+366548 <second:  2    701        0         30 h7h5 f2f4
+366548 <second:  3    701        0        836 h7h5 f2f4 f7g7
+366548 <second:  3    704        0       1214 g6g5 f2f3 e5e4 f3e4 f5e4
+366548 <second:  4    702        0       2157 g6g5 h2h3 e5e4 f2f4
+366548 <second:  4    714        0       7036 e5e4 h2h4 a3a2 c2b3 a2b2
+366549 <second: # times @ 782224111: real=9 cpu=10
+366549 <second: # promo = 0 (`) GT = 0
+366549 <second: move e5e4
+366549 >first : time 26723
+366549 >first : otim 36661
+book hit = (NULL)
+366549 >first : e5e4
+375741 <first : move g2g1
+Interrupting second
+375741 >second: time 36661
+375741 >second: otim 26003
+book hit = (NULL)
+375741 >second: g2g1
+375826 <second: # times @ 782233381
+375827 <second: # 7+11 pieces, centr = (1,1) R=12
+375827 <second:  1    714        0          5 h7h5
+375827 <second:  2    701        0         14 h7h5 f2f4
+375827 <second:  2    708        0         14 f6d4
+375827 <second:  2    730        0         74 a3a2 c2b3 a2b2
+375827 <second:  3    760        0        457 a3a2 c2b3 a2b2 b3a3 b7b5
+375827 <second:  4    774        0       1781 a3a2 c2b3 a2b2 b3a3 f6e7 a3a4 b7b5
+375827 <second: # times @ 782233383: real=2 cpu=0
+375827 <second: # promo = 0 (`) GT = 0
+375827 <second: move a3a2
+375828 >first : time 26003
+375828 >first : otim 36852
+book hit = (NULL)
+375828 >first : a3a2
+377043 <first : move c2b3
+Interrupting second
+377043 >second: time 36852
+377043 >second: otim 26082
+book hit = (NULL)
+377043 >second: c2b3
+377131 <second: # times @ 782234683
+377131 <second: # 7+11 pieces, centr = (1,1) R=12
+377131 <second:  1    570        0         15 d2d1 b1d1 a2e2
+377132 <second:  1    580        0         71 c3c2 b3a2 c2b1 g1b1
+377132 <second:  1    775        0         71 a2b2
+377132 <second:  2    775        0         72 a2b2
+377132 <second:  3    775        0         97 a2b2
+377132 <second:  4    749        0       3356 a2b2 b1b2 c3b2 f2f4
+377132 <second: # times @ 782234686: real=3 cpu=0
+377132 <second: # promo = 0 (`) GT = 0
+377132 <second: move a2b2
+377132 >first : time 26082
+377132 >first : otim 37043
+book hit = (NULL)
+377132 >first : a2b2
+377396 <first : move b1b2
+Interrupting second
+377396 >second: time 37043
+377396 >second: otim 26255
+book hit = (NULL)
+377396 >second: b1b2
+377480 <second: # times @ 782235036
+377480 <second: # 7+10 pieces, centr = (1,1) R=9
+377480 <second:  1    750        0          3 c3b2
+377480 <second:  2    750        0          4 c3b2
+377480 <second:  3    709        0        381 c3b2 g1b1 g8g7 b1b2 f6b2 b3b2
+377480 <second:  4    709        0        623 c3b2 g1b1 g8g7 b1b2
+377480 <second: # times @ 782235038: real=2 cpu=0
+377480 <second: # promo = 0 (`) GT = 0
+377480 <second: move c3b2
+377480 >first : time 26255
+377480 >first : otim 37235
+book hit = (NULL)
+377480 >first : c3b2
+409716 <first : move g1d1
+Interrupting second
+409716 >second: time 37235
+409716 >second: otim 23232
+book hit = (NULL)
+409716 >second: g1d1
+409829 <second: # times @ 782267356
+409829 <second: # 6+10 pieces, centr = (1,1) R=6
+409829 <second:  1    578        0          3 h7h5
+409829 <second:  1    684        0          3 e4e3
+409829 <second:  1    774        0          3 f7d7
+409830 <second:  2    759        0         21 f7d7 f2f4
+409830 <second:  3    684        0        700 f7d7 b3c2 e4e3 f2e3
+409830 <second:  3    722        0       1949 f7c7 d1b1 g8f7 b1b2 f6b2 b3b2
+409830 <second:  4    722        0       5855 f7c7 d1b1 g8f7 b1b2
+409830 <second: # times @ 782267364: real=8 cpu=10
+409830 <second: # promo = 0 (`) GT = 0
+409830 <second: move f7c7
+409830 >first : time 23232
+409830 >first : otim 37424
+book hit = (NULL)
+409830 >first : f7c7
+459424 <first : move e2e3
+Interrupting second
+459424 >second: time 37424
+459424 >second: otim 18472
+book hit = (NULL)
+459424 >second: e2e3
+459511 <second: # times @ 782317065
+459511 <second: # 6+10 pieces, centr = (1,1) R=6
+459511 <second:  1    578        0          3 h7h5
+459511 <second:  1    771        0          3 f6c3
+459511 <second:  1    774        0          3 c7d7
+459511 <second:  2    759        0         40 c7d7 h2h4
+459511 <second:  3    581        0        723 c7d7 b3c2 g8f7 d1d2
+459511 <second:  3    759        0       2531 c7c6 f2f4 c6d6
+459511 <second:  3   1210        0       3226 c7c1 d1d2 b2b1
+459511 <second:  4   1214        0       5238 c7c1 d1d2 b2b1 b3a4
+459511 <second: # times @ 782317070: real=5 cpu=10
+459511 <second: # promo = 0 (`) GT = 0
+459511 <second: move c7c1
+459511 >first : time 18472
+459511 >first : otim 37615
+book hit = (NULL)
+459511 >first : c7c1
+463093 <first : move d1d2
+Interrupting second
+463093 >second: time 37615
+463093 >second: otim 18314
+book hit = (NULL)
+463093 >second: d1d2
+463179 <second: # times @ 782320733
+463179 <second: # 6+9 pieces, centr = (1,1) R=5
+463179 <second:  1   1215        0          3 b2b1
+463179 <second:  2   1215        0          4 b2b1
+463180 <second:  3   1224        0         24 b2b1 b3a4 g8f7
+463180 <second:  4   1217        0       1170 b2b1 b3a3 c1d1 d2d1 b1d1
+463180 <second: # times @ 782320734: real=1 cpu=0
+463180 <second: # promo = 7 (g) GT = 0
+463180 <second: move b2b1q
+463180 >first : time 18314
+463180 >first : otim 37806
+book hit = (NULL)
+463180 >first : b2b1q
+463428 <first : move b3a3
+Interrupting second
+463428 >second: time 37806
+463428 >second: otim 18489
+book hit = (NULL)
+463428 >second: b3a3
+463512 <second: # times @ 782321068
+463512 <second: # 6+9 pieces, centr = (1,1) R=0
+463512 <second:  1   1233        0          5 b7b5
+463512 <second:  2   1217        0          9 b7b5 h2h4
+463512 <second:  2   1218        0          9 c1d1
+463512 <second:  3   1218        0        126 c1d1 d2d1 b1d1
+463512 <second:  3   1219        0        367 c1e1 h2h4 g8f7
+463512 <second:  3   1226        0        923 c1c2 d2c2 b1c2
+463512 <second:  3   1232        0        932 c1c3 a3a4 g8f7
+463512 <second:  4   1230        0       2444 c1c3 a3a4 b7b5 a4a5
+463512 <second:  4   1299        1      12784 c1h1 d2d5 h1h2 d5d2
+463512 <second:  4   1643        1      17035 c1c4 d2d8 f6d8 h2h4
+463512 <second:  4   1650        2      28340 b7b5 d2d8 f6d8 h2h4
+463512 <second:  4   1667        3      32829 f6e7 d2d6 e7d6 a3a4
+463512 <second: # times @ 782321101: real=33 cpu=30
+463512 <second: # promo = 0 (`) GT = 0
+463512 <second: move f6e7
+463512 >first : time 18489
+463513 >first : otim 37998
+book hit = (NULL)
+463513 >first : f6e7
+463595 <first : HEHEHE
+463595 <first : move d2d6
+Interrupting second
+463595 >second: time 37998
+463595 >second: otim 18681
+book hit = (NULL)
+463595 >second: d2d6
+463710 <second: # times @ 782321235
+463710 <second: # 6+9 pieces, centr = (1,1) R=0
+463710 <second:  1   1668        0          3 e7d6
+463710 <second:  2   1668        0          4 e7d6
+463710 <second:  3   1677        0         22 e7d6 a3a4 b7b5
+463710 <second:  4   7998        0        654 e7d6 a3a4 b1b4
+463710 <second: # times @ 782321237: real=2 cpu=10
+463710 <second: # promo = 0 (`) GT = 0
+463710 <second: move e7d6
+463711 >first : time 18681
+463711 >first : otim 38186
+book hit = (NULL)
+463711 >first : e7d6
+463804 <first : HEHEHE
+463804 <first : move a3a4
+Interrupting second
+463805 >second: time 38186
+463805 >second: otim 18872
+book hit = (NULL)
+463805 >second: a3a4
+463896 <second: # times @ 782321445
+463896 <second: # 5+9 pieces, centr = (1,1) R=-3
+463896 <second:  1   1427        0          5 d6g3 h2g3
+463896 <second:  1   1669        0          7 d6c5
+463896 <second:  1   1728        0          7 b1b2
+463897 <second:  2   1728        0          8 b1b2
+463897 <second:  2   7999        0          8 b1b4
+463897 <second:  3   7999        0         12 b1b4
+463897 <second:  4   7999        0         55 b1b4
+463897 <second: # times @ 782321445: real=0 cpu=0
+463897 <second: # promo = 0 (`) GT = 0
+463897 <second: move b1b4
+463897 >first : b1b4
+GameEnds(27, Xboard adjudication: Checkmate, 4)
+GE(27, Xboard adjudication: Checkmate, 4) bare king k=9 color=44
+463897 >first : result 0-1 {Xboard adjudication: Checkmate}
+Interrupting second
+463897 >second: result 0-1 {Xboard adjudication: Checkmate}
+463900 >first : quit
+463902 >second: force
+463902 >second: ping 6
+464016 <second: 0-1 {Black mates}
+Reset(0, 0) from gameMode 8
+recognized 'normal' (-1) as variant normal
+GameEnds(0, (null), 2)
+shuffleOpenings = 0
+StartChildProcess (dir=".") make run
+464022 >first : xboard
+protover 2
+464023 <second: Error (unknown command): result
+464023 <second: pong 6
+464028 <first : ./Chess++
+464057 <first : feature sigint=0 san=0
+464057 >first : accepted sigint
+464057 >first : accepted san
+474026 >first : new
+random
+474026 >first : level 0 5 2
+474026 >first : post
+474026 >first : hard
+Feeding moves 0 through 0 to first chess program
+474026 >first : force
+474026 >second: memory 68
+474026 >second: new
+random
+sd 4
+474026 >second: level 0 5 2
+474026 >second: post
+474026 >second: hard
+474026 >second: ping 7
+474026 >second: force
+474062 <second: pong 7
+New game (4): make-Fairy-Max 4.8V (b)
+474067 >first : computer
+474067 >second: computer
+474067 >second: black
+474067 >second: time 30000
+474067 >second: otim 30000
+474067 >second: white
+book hit = (NULL)
+474067 >second: go
+nps: w=-1, b=-1
+474067 <second: Error (unknown command): computer
+474067 <second: # times @ 782331707
+474067 <second: # 16+16 pieces, centr = (1,1) R=40
+474067 <second:  1      6        0          7 a2a4
+474067 <second:  1      8        0          9 a2a3
+474067 <second:  1     17        0         11 b2b4
+474068 <second:  1     22        0         13 c2c4
+474068 <second:  1     28        0         15 f2f3
+474068 <second:  2     -1        0         23 f2f3 c7c5
+474068 <second:  2      3        0         65 b1c3 c7c5
+474068 <second:  2      6        0         90 g1f3 c7c5
+474068 <second:  2     13        0        124 c2c3 c7c5
+474068 <second:  3     18        0        426 c2c3 c7c5 d2d4
+474069 <second:  3     19        0        733 g2g4 d7d5 f2f3
+474069 <second:  4    -26        0       1004 g2g4 d7d5 f2f3 c7c5
+474070 <second:  4    -14        0       1868 g2g3 d7d5 d2d4 b8c6
+474073 <second:  4      5        0       4066 b1c3 d7d5 d2d4 b8c6
+474076 <second: # times @ 782331716: real=9 cpu=10
+474076 <second: # promo = 0 (`) GT = 0
+474076 <second: move b1c3
+474076 >first : time 30000
+474076 >first : otim 30199
+book hit = (NULL)
+474076 >first : b1c3
+474076 >first : black
+474076 >first : go
+475631 <first : move e7e6ü
+Interrupting second
+475631 >second: time 30199
+475631 >second: otim 30044
+book hit = (NULL)
+475631 >second: e7e6
+475713 <second: # times @ 782333271
+475713 <second: # 16+16 pieces, centr = (1,1) R=40
+475713 <second:  1     15        0          3 d2d4
+475713 <second:  1     22        0          5 f2f3
+475713 <second:  2      1        0         17 f2f3 d7d5
+475713 <second:  2      8        0        153 d2d4 d7d5
+475713 <second:  3     28        0        670 d2d4 d7d5 c1f4
+475713 <second:  4      5        0       1172 d2d4 d7d5 c1f4 b8c6
+475713 <second:  4      6        0       1753 d2d3 d7d5 c1f4 b8c6
+475713 <second: # times @ 782333274: real=3 cpu=0
+475713 <second: # promo = 0 (`) GT = 0
+475713 <second: move d2d3
+475714 >first : time 30044
+475714 >first : otim 30390
+book hit = (NULL)
+475714 >first : d2d3
+479563 <first : move d8e7
+Interrupting second
+479563 >second: time 30390
+479563 >second: otim 29859
+book hit = (NULL)
+479563 >second: d8e7
+479654 <second: # times @ 782337203
+479654 <second: # 16+16 pieces, centr = (1,1) R=40
+479654 <second:  1     -7        0          3 d3d4
+479654 <second:  1      5        0          3 a2a4
+479654 <second:  1      8        0          5 e2e4
+479654 <second:  1     10        0          7 a1b1
+479654 <second:  1     14        0          7 c1e3
+479654 <second:  2     -8        0         23 c1e3 d7d5
+479654 <second:  2      6        0         34 c1d2 d7d5
+479654 <second:  3     -2        0        684 c1d2 d7d5 g1f3
+479654 <second:  3     16        0       1115 c1e3 d7d5 g1f3
+479654 <second:  3     27        0       1468 g1f3 d7d5 c1f4
+479654 <second:  4      8        0       2027 g1f3 d7d5 c1f4 b8c6
+479654 <second: # times @ 782337209: real=6 cpu=10
+479654 <second: # promo = 0 (`) GT = 0
+479654 <second: move g1f3
+479655 >first : time 29859
+479655 >first : otim 30581
+book hit = (NULL)
+479655 >first : g1f3
+481741 <first : move b8c6
+Interrupting second
+481742 >second: time 30581
+481742 >second: otim 29850
+book hit = (NULL)
+481742 >second: b8c6
+481850 <second: # times @ 782339382
+481850 <second: # 16+16 pieces, centr = (1,1) R=40
+481850 <second:  1     17        0          3 a2a4
+481850 <second:  2     -9        0         15 a2a4 d7d5
+481851 <second:  2     -6        0        158 c1d2 d7d5
+481851 <second:  2     -1        0        165 c1e3 d7d5
+481851 <second:  2      0        0        188 c1f4 d7d5
+481851 <second:  3      6        0        710 c1f4 d7d5 a2a4
+481851 <second:  4     -2        0       2180 c1f4 d7d5 c3b5 e7b4
+481851 <second: # times @ 782339397: real=15 cpu=10
+481851 <second: # promo = 0 (`) GT = 0
+481851 <second: move c1f4
+481851 >first : time 29850
+481851 >first : otim 30770
+book hit = (NULL)
+481851 >first : c1f4
+484091 <first : move g8f6
+Interrupting second
+484091 >second: time 30770
+484092 >second: otim 29826
+book hit = (NULL)
+484092 >second: g8f6
+484201 <second: # times @ 782341732
+484201 <second: # 16+16 pieces, centr = (1,1) R=40
+484201 <second:  1     52        0          3 f4c7
+484201 <second:  2     50        0         33 f4c7 d7d5
+484201 <second:  3     50        0       1545 f4c7 d7d6 c3b5
+484201 <second:  4     50        0       1975 f4c7 d7d6 c3b5 e7d7
+484201 <second: # times @ 782341743: real=11 cpu=20
+484201 <second: # promo = 0 (`) GT = 0
+484201 <second: move f4c7
+484202 >first : time 29826
+484202 >first : otim 30959
+book hit = (NULL)
+484202 >first : f4c7
+489369 <first : move f6d5
+Interrupting second
+489370 >second: time 30959
+489370 >second: otim 29510
+book hit = (NULL)
+489370 >second: f6d5
+489474 <second: # times @ 782347010
+489474 <second: # 16+15 pieces, centr = (1,1) R=40
+489474 <second:  1     85        0          3 c3d5
+489474 <second:  2     86        0          5 c3d5 e6d5
+489474 <second:  3    102        0        888 c3d5 e6d5 c2c4
+489474 <second:  4     89        0       1533 c3d5 e6d5 c2c4 d7d6
+489474 <second: # times @ 782347014: real=4 cpu=0
+489474 <second: # promo = 0 (`) GT = 0
+489474 <second: move c3d5
+489474 >first : time 29510
+489474 >first : otim 31149
+book hit = (NULL)
+489474 >first : c3d5
+490169 <first : move e6d5
+Interrupting second
+490169 >second: time 31149
+490169 >second: otim 29640
+book hit = (NULL)
+490169 >second: e6d5
+490251 <second: # times @ 782347809
+490251 <second: # 15+14 pieces, centr = (1,1) R=36
+490251 <second:  1     89        0          3 c2c4
+490251 <second:  2     89        0          4 c2c4
+490251 <second:  3     21        0        497 c2c4 d7d6 c4d5 e7c7 d5c6 b7c6
+490251 <second:  3     60        0       5663 d1c1 d7d6 c1e3
+490251 <second:  4     46        1      11026 d1c1 d7d6 c1e3 c8f5
+490251 <second: # times @ 782347833: real=24 cpu=20
+490251 <second: # promo = 0 (`) GT = 0
+490251 <second: move d1c1
+490251 >first : time 29640
+490251 >first : otim 31341
+book hit = (NULL)
+490251 >first : d1c1
+494437 <first : move d7d6
+Interrupting second
+494437 >second: time 31341
+494437 >second: otim 29421
+book hit = (NULL)
+494437 >second: d7d6
+494521 <second: # times @ 782352078
+494521 <second: # 15+14 pieces, centr = (1,1) R=36
+494521 <second:  1   -141        0          7 c7d6 e7d6
+494521 <second:  1     45        0         19 c1e3
+494521 <second:  2     45        0         20 c1e3
+494521 <second:  3   -129        0        947 c1e3 c8e6 f3g5 e7c7 g5e6 f7e6 e3e6
+494521 <second:  3   -125        0       1362 c7d6 e7d6 c2c4
+494521 <second:  4   -130        0       2340 c7d6 e7d6 c1e3 c8e6 e1c1
+494521 <second:  4   -128        0       6485 c1e3 c8e6 c7d6 e7d6
+494521 <second: # times @ 782352085: real=7 cpu=10
+494521 <second: # promo = 0 (`) GT = 0
+494522 <second: move c1e3
+494522 >first : time 29421
+494522 >first : otim 31532
+book hit = (NULL)
+494522 >first : c1e3
+494876 <first : move e8d7
+Interrupting second
+494877 >second: time 31532
+494877 >second: otim 29586
+book hit = (NULL)
+494877 >second: e8d7
+494960 <second: # times @ 782352518
+494960 <second: # 15+14 pieces, centr = (1,1) R=36
+494960 <second:  1     67        0          3 e3e7
+494960 <second:  2     67        0          6 e3e7 f8e7
+494960 <second:  3   -120        0        405 e3e7 f8e7 c2c4 d7c7 c4d5
+494960 <second:  3   -114        0       1801 c2c4 d7c7 c4d5
+494960 <second:  4   -113        0       3043 c2c4 d7c7 c4d5 c6e5 f3e5 d6e5
+494960 <second: # times @ 782352528: real=10 cpu=10
+494960 <second: # promo = 0 (`) GT = 0
+494960 <second: move c2c4
+494960 >first : time 29586
+494960 >first : otim 31724
+book hit = (NULL)
+494960 >first : c2c4
+495406 <first : move d7c7
+Interrupting second
+495406 >second: time 31724
+495406 >second: otim 29741
+book hit = (NULL)
+495406 >second: d7c7
+495490 <second: # times @ 782353046
+495490 <second: # 14+14 pieces, centr = (1,1) R=34
+495490 <second:  1   -113        0         11 c4d5
+495490 <second:  2   -113        0         12 c4d5
+495490 <second:  3   -150        0        349 c4d5 c6b4 e3c1
+495490 <second:  4   -146        0       2869 c4d5 e7e3 f2e3 c6e7
+495490 <second: # times @ 782353054: real=8 cpu=10
+495490 <second: # promo = 0 (`) GT = 0
+495490 <second: move c4d5
+495490 >first : time 29741
+495490 >first : otim 31915
+book hit = (NULL)
+495490 >first : c4d5
+496066 <first : move e7e3
+Interrupting second
+496066 >second: time 31915
+496066 >second: otim 29884
+book hit = (NULL)
+496066 >second: e7e3
+496182 <second: # times @ 782353706
+496182 <second: # 13+13 pieces, centr = (1,1) R=28
+496182 <second:  1   -145        0          3 f2e3
+496182 <second:  2   -145        0          4 f2e3
+496182 <second:  3   -140        0        198 f2e3 c6e7 a1c1
+496182 <second:  4   -133        0       2317 f2e3 c6b4 a1c1 c7d7 f3g5 b4d5 g5f7
+496182 <second: # times @ 782353709: real=3 cpu=0
+496182 <second: # promo = 0 (`) GT = 0
+496182 <second: move f2e3
+496182 >first : time 29884
+496182 >first : otim 32104
+book hit = (NULL)
+496182 >first : f2e3
+497320 <first : move c6e7
+Interrupting second
+497320 >second: time 32104
+497320 >second: otim 29970
+book hit = (NULL)
+497320 >second: c6e7
+497431 <second: # times @ 782354960
+497431 <second: # 13+12 pieces, centr = (1,1) R=22
+497431 <second:  1   -223        0          5 d3d4 e7d5
+497431 <second:  1   -150        0          7 e3e4
+497431 <second:  1   -127        0         31 a1c1
+497431 <second:  2   -127        0         32 a1c1
+497431 <second:  3   -143        0        293 a1c1 c7d7 f3g5 f7f5
+497431 <second:  4   -135        0       6181 a1c1 c7d7 e3e4 f7f5 g2g3
+497431 <second: # times @ 782354969: real=9 cpu=10
+497431 <second: # promo = 0 (`) GT = 0
+497431 <second: move a1c1
+497432 >first : time 29970
+497432 >first : otim 32293
+book hit = (NULL)
+497432 >first : a1c1
+498238 <first : move c7b6
+Interrupting second
+498239 >second: time 32293
+498239 >second: otim 30089
+book hit = (NULL)
+498239 >second: c7b6
+498323 <second: # times @ 782355879
+498323 <second: # 13+12 pieces, centr = (1,1) R=22
+498323 <second:  1   -275        0          3 c1c8
+498323 <second:  1   -206        0          3 c1d1
+498323 <second:  1   -130        0          3 e3e4
+498323 <second:  2   -150        0         45 e3e4 e7g6
+498323 <second:  2   -141        0         50 f3g5
+498323 <second:  3   -141        0         63 f3g5
+498323 <second:  4   -157        0       3365 f3g5 e7d5 g5f7 h8g8
+498323 <second: # times @ 782355889: real=10 cpu=10
+498323 <second: # promo = 0 (`) GT = 0
+498323 <second: move f3g5
+498323 >first : time 30089
+498324 >first : otim 32484
+book hit = (NULL)
+498324 >first : f3g5
+498960 <first : move c8d7@
+Interrupting second
+498960 >second: time 32484
+498960 >second: otim 30226
+book hit = (NULL)
+498960 >second: c8d7
+499045 <second: # times @ 782356600
+499045 <second: # 13+12 pieces, centr = (1,1) R=22
+499045 <second:  1    -87        0          3 g5f7
+499046 <second:  2    -87        0          4 g5f7
+499046 <second:  3    -77        0        292 g5f7 h8g8 f7d6 e7d5
+499046 <second:  4    -77        0        632 g5f7 h8g8 f7d6 e7d5
+499046 <second: # times @ 782356603: real=3 cpu=10
+499046 <second: # promo = 0 (`) GT = 0
+499046 <second: move g5f7
+499046 >first : time 30226
+499046 >first : otim 32676
+book hit = (NULL)
+499046 >first : g5f7
+499381 <first : move h8g8
+Interrupting second
+499382 >second: time 32676
+499382 >second: otim 30392
+book hit = (NULL)
+499382 >second: h8g8
+499466 <second: # times @ 782357022
+499466 <second: # 13+11 pieces, centr = (1,1) R=22
+499466 <second:  1    -78        0          3 f7d6
+499466 <second:  2    -78        0          4 f7d6
+499466 <second:  3    -75        0        334 f7d6 e7d5 d6c4
+499466 <second:  3    -68        0        689 e3e4 e7g6 g2g3
+499466 <second:  4    -75        0       1328 e3e4 e7g6 g2g3 f8e7
+499466 <second:  4    -55        0       6115 f7d6 e7d5 d6c4 b6c5 g2g3
+499466 <second: # times @ 782357027: real=5 cpu=0
+499466 <second: # promo = 0 (`) GT = 0
+499466 <second: move f7d6
+499466 >first : time 30392
+499466 >first : otim 32867
+book hit = (NULL)
+499466 >first : f7d6
+499875 <first : move e7d5
+Interrupting second
+499875 >second: time 32867
+499875 >second: otim 30551
+book hit = (NULL)
+499875 >second: e7d5
+499989 <second: # times @ 782357515
+499989 <second: # 12+10 pieces, centr = (1,1) R=22
+499989 <second:  1   -247        0          5 d6b7 b6b7
+499989 <second:  1    -55        0          7 d6c4
+499989 <second:  2    -55        0          8 d6c4
+499989 <second:  3    -58        0       1395 d6c4 b6b5 g2g3 f8c5
+499989 <second:  4    -65        0       5920 d6c4 b6b5 e3e4 f8b4 c4d2 d5f4
+499989 <second: # times @ 782357522: real=7 cpu=10
+499989 <second: # promo = 0 (`) GT = 0
+499989 <second: move d6c4
+499990 >first : time 30551
+499990 >first : otim 33056
+book hit = (NULL)
+499990 >first : d6c4
+500323 <first : move b6a6
+Interrupting second
+500323 >second: time 33056
+500323 >second: otim 30718
+book hit = (NULL)
+500323 >second: b6a6
+500404 <second: # times @ 782357964
+500404 <second: # 12+10 pieces, centr = (1,1) R=22
+500404 <second:  1   -140        0          7 g2g4 d7g4
+500404 <second:  1    -39        0          7 g2g3
+500404 <second:  2    -74        0         37 g2g3 f8c5
+500404 <second:  3    -89        0        912 g2g3 f8b4 e1f2 d7f5
+500404 <second:  3    -82        0       4096 e3e4 f8b4 c4d2 d5f4
+500404 <second:  4    -86        0       5475 e3e4 f8b4 c4d2 d5e3 a2a3 b4d2 e1d2 e3f1 c1f1
+500404 <second:  4    -83        0       6911 a2a3 f8c5 d3d4 c5e7
+500404 <second: # times @ 782357971: real=7 cpu=10
+500404 <second: # promo = 0 (`) GT = 0
+500404 <second: move a2a3
+500404 >first : time 30718
+500404 >first : otim 33248
+book hit = (NULL)
+500404 >first : a2a3
+501738 <first : move f8e7
+Interrupting second
+501738 >second: time 33248
+501738 >second: otim 30784
+book hit = (NULL)
+501738 >second: f8e7
+501824 <second: # times @ 782359378
+501824 <second: # 12+10 pieces, centr = (1,1) R=22
+501824 <second:  1   -140        0          7 g2g4 d7g4
+501824 <second:  1    -65        0          7 g2g3
+501824 <second:  2    -71        0         41 g2g3 d7f5
+501824 <second:  3    -81        0       1337 g2g3 e7g5 e1f2
+501824 <second:  3    -75        0       2963 h2h4 e7c5 d3d4
+501824 <second:  3    -74        0       4551 c1d1 d7c6 b2b4
+501824 <second:  4    -77        0       7637 c1d1 e7g5 c4e5 d7f5
+501824 <second:  4    -76        1      15688 c4e5 d7e6 e3e4 d5f4
+501824 <second:  4    -75        1      17945 h2h4 b7b5 c4e5 d7f5
+501824 <second: # times @ 782359394: real=16 cpu=10
+501824 <second: # promo = 0 (`) GT = 0
+501824 <second: move h2h4
+501825 >first : time 30784
+501825 >first : otim 33439
+book hit = (NULL)
+501825 >first : h2h4
+504072 <first : move g8b8
+Interrupting second
+504072 >second: time 33439
+504072 >second: otim 30760
+book hit = (NULL)
+504072 >second: g8b8
+504185 <second: # times @ 782361712
+504185 <second: # 12+10 pieces, centr = (1,1) R=22
+504185 <second:  1   -140        0          7 g2g4 d7g4
+504185 <second:  1    -65        0          7 g2g3
+504185 <second:  2    -71        0         45 g2g3 d7f5
+504185 <second:  3    -65        0       1724 g2g3 d7f5 e3e4
+504185 <second:  4    -68        0       3742 g2g3 b7b5 c4e5 d7f5
+504186 <second: # times @ 782361718: real=6 cpu=10
+504186 <second: # promo = 0 (`) GT = 0
+504186 <second: move g2g3
+504186 >first : time 30760
+504186 >first : otim 33628
+book hit = (NULL)
+504186 >first : g2g3
+506635 <first : move d7b5
+Interrupting second
+506635 >second: time 33628
+506635 >second: otim 30715
+book hit = (NULL)
+506635 >second: d7b5
+506740 <second: # times @ 782364275
+506740 <second: # 12+10 pieces, centr = (1,1) R=22
+506740 <second:  1    -67        0          3 e3e4
+506740 <second:  2    -66        0        157 e3e4 d5f6
+506740 <second:  3    -62        0        628 e3e4 d5f6 c4e5
+506740 <second:  4    -65        0       1268 e3e4 d5f6 c4e5 e7d6
+506741 <second: # times @ 782364278: real=3 cpu=0
+506741 <second: # promo = 0 (`) GT = 0
+506741 <second: move e3e4
+506741 >first : time 30715
+506741 >first : otim 33817
+book hit = (NULL)
+506741 >first : e3e4
+507206 <first : move d5b6
+Interrupting second
+507206 >second: time 33817
+507206 >second: otim 30868
+book hit = (NULL)
+507206 >second: d5b6
+507311 <second: # times @ 782364847
+507311 <second: # 12+10 pieces, centr = (1,1) R=22
+507311 <second:  1    -71        0          3 c4b6
+507311 <second:  1    -70        0          3 c4e5
+507311 <second:  2    -73        0         25 c4e5 e7d6
+507311 <second:  2    -71        0         69 c4b6 a7b6
+507311 <second:  3    -85        0        608 c4b6 a7b6 f1g2
+507311 <second:  3    -80        0       1329 c4d2 e7d6 h1g1
+507311 <second:  3    -74        0       1969 c4e3 e7d6 e3f5
+507311 <second:  4    -76        0       2534 c4e3 e7d6 e3f5 d6e5
+507312 <second: # times @ 782364853: real=6 cpu=0
+507312 <second: # promo = 0 (`) GT = 0
+507312 <second: move c4e3
+507312 >first : time 30868
+507312 >first : otim 34006
+book hit = (NULL)
+507312 >first : c4e3
+509324 <first : move b5d7
+Interrupting second
+509324 >second: time 34006
+509324 >second: otim 30867
+book hit = (NULL)
+509324 >second: b5d7
+509432 <second: # times @ 782366965
+509432 <second: # 12+10 pieces, centr = (1,1) R=22
+509432 <second:  1    -78        0          3 e4e5
+509432 <second:  1    -76        0          3 d3d4
+509432 <second:  1    -73        0          3 e3f5
+509432 <second:  1    -72        0          3 b2b4
+509432 <second:  1    -71        0          3 f1g2
+509433 <second:  2    -76        0         27 f1g2 d7e6
+509433 <second:  2    -75        0         92 f1h3 e7d6
+509433 <second:  3    -75        0       1096 f1h3 e7d6 h3d7 b6d7
+509433 <second:  3    -74        0       2068 e3f5 e7f6 b2b4
+509433 <second:  4    -78        0       2753 e3f5 e7f6 b2b4 d7e6
+509433 <second:  4    -75        1      10336 f1h3 e7d6 h3d7 b6d7
+509433 <second: # times @ 782366977: real=12 cpu=20
+509433 <second: # promo = 0 (`) GT = 0
+509433 <second: move f1h3
+509433 >first : time 30867
+509433 >first : otim 34195
+book hit = (NULL)
+509433 >first : f1h3
+510241 <first : move e7d6
+Interrupting second
+510241 >second: time 34195
+510241 >second: otim 30986
+book hit = (NULL)
+510241 >second: e7d6
+510324 <second: # times @ 782367881
+510324 <second: # 12+10 pieces, centr = (1,1) R=22
+510324 <second:  1    -75        0          3 h3d7
+510324 <second:  2    -75        0          4 h3d7
+510324 <second:  3   -159        0        309 h3d7 d6g3 e1d2 b6d7
+510324 <second:  3   -158        0        887 h3g4 d6g3 e1d2 g3e5
+510324 <second:  3   -154        0       1312 h3f5 d6g3 e1d2 d7f5
+510324 <second:  3    -90        0       2565 e1f2 d6e5 b2b4
+510324 <second:  3    -86        0       4112 e3f1 d6e5 b2b4
+510324 <second:  4    -88        0       5714 e3f1 d6e5 b2b4 h7h5
+510324 <second: # times @ 782367892: real=11 cpu=10
+510324 <second: # promo = 0 (`) GT = 0
+510324 <second: move e3f1
+510324 >first : time 30986
+510324 >first : otim 34387
+book hit = (NULL)
+510324 >first : e3f1
+510690 <first : move d7h3
+Interrupting second
+510690 >second: time 34387
+510690 >second: otim 31150
+book hit = (NULL)
+510690 >second: d7h3
+510812 <second: # times @ 782368330
+510812 <second: # 11+10 pieces, centr = (1,1) R=20
+510812 <second:  1    -74        0          3 h1h3
+510812 <second:  2    -78        0         25 h1h3 b6d7
+510812 <second:  3    -75        0        618 h1h3 d6e5 b2b4
+510812 <second:  4    -78        0        966 h1h3 d6e5 b2b4 b6d7
+510812 <second: # times @ 782368333: real=3 cpu=0
+510812 <second: # promo = 0 (`) GT = 0
+510812 <second: move h1h3
+510812 >first : time 31150
+510812 >first : otim 34575
+book hit = (NULL)
+510812 >first : h1h3
+514467 <first : move b6a4
+Interrupting second
+514467 >second: time 34575
+514467 >second: otim 30984
+book hit = (NULL)
+514467 >second: b6a4
+514577 <second: # times @ 782372107
+514577 <second: # 11+9 pieces, centr = (1,1) R=18
+514577 <second:  1    -71        0          3 b2b4
+514577 <second:  2    -76        0         29 b2b4 a4b6
+514577 <second:  3    -71        0        837 b2b4 b8c8 c1c8 a8c8
+514577 <second:  4    -73        0       1420 b2b4 d6e5 f1e3 a4c3
+514577 <second: # times @ 782372110: real=3 cpu=10
+514577 <second: # promo = 0 (`) GT = 0
+514577 <second: move b2b4
+514577 >first : time 30984
+514577 >first : otim 34764
+book hit = (NULL)
+514577 >first : b2b4
+520459 <first : move d6e5
+Interrupting second
+520459 >second: time 34764
+520459 >second: otim 30596
+book hit = (NULL)
+520459 >second: d6e5
+520544 <second: # times @ 782378099
+520544 <second: # 11+9 pieces, centr = (1,1) R=18
+520544 <second:  1   -140        0          7 b4b5 a6b5
+520544 <second:  1    -77        0          9 h4h5
+520544 <second:  1    -75        0         11 g3g4
+520544 <second:  1    -74        0         13 h3h2
+520544 <second:  1    -73        0         13 f1e3
+520544 <second:  2    -73        0         14 f1e3
+520544 <second:  3   -113        0        484 f1e3 e5b2 b4b5 a6b5
+520544 <second:  3    -74        0       1503 f1d2 a4c3 d2f3
+520544 <second:  4    -72        0       2183 f1d2 a4c3 d2f3 e5f6
+520544 <second: # times @ 782378102: real=3 cpu=0
+520544 <second: # promo = 0 (`) GT = 0
+520544 <second: move f1d2
+520544 >first : time 30596
+520544 >first : otim 34955
+book hit = (NULL)
+520544 >first : f1d2
+524506 <first : move e5c3
+Interrupting second
+524506 >second: time 34955
+524506 >second: otim 30400
+book hit = (NULL)
+524506 >second: e5c3
+524619 <second: # times @ 782382146
+524619 <second: # 11+9 pieces, centr = (1,1) R=18
+524619 <second:  1   -232        0          3 c1c3
+524619 <second:  1    -74        0          3 c1d1
+524619 <second:  2    -80        0         27 c1d1 c3e5
+524619 <second:  3    -79        0        792 c1d1 a4b6 h3h2
+524619 <second:  3    -77        0       1498 c1c2 b7b5 c2c1
+524619 <second:  3    -75        0       2135 g3g4 c3e5 g4g5
+524619 <second:  4    -80        0       2846 g3g4 c3b2 c1c7 b2e5
+524619 <second:  4    -79        0       3639 h3h2 c3b2 c1c7 b2e5
+524619 <second: # times @ 782382151: real=5 cpu=0
+524619 <second: # promo = 0 (`) GT = 0
+524619 <second: move h3h2
+524620 >first : time 30400
+524620 >first : otim 35144
+book hit = (NULL)
+524620 >first : h3h2
+528673 <first : move b8c8
+Interrupting second
+528673 >second: time 35144
+528673 >second: otim 30194
+book hit = (NULL)
+528673 >second: b8c8
+528757 <second: # times @ 782386313
+528757 <second: # 11+9 pieces, centr = (1,1) R=18
+528757 <second:  1   -232        0          3 c1c3
+528757 <second:  1    -74        0          3 c1d1
+528757 <second:  2    -80        0         27 c1d1 c3e5
+528757 <second:  3    -80        0        795 c1d1 c3e5 h2g2
+528757 <second:  4    -89        0       1589 c1d1 c3e5 h2g2 a4c3
+528757 <second:  4    -82        0       3415 c1b1 b7b5 h2h1 c3e5
+528757 <second:  4    -80        0       4254 c1c2 c3e5 c2c8 a8c8
+528757 <second: # times @ 782386318: real=5 cpu=10
+528757 <second: # promo = 0 (`) GT = 0
+528757 <second: move c1c2
+528757 >first : time 30194
+528757 >first : otim 35336
+book hit = (NULL)
+528757 >first : c1c2
+537372 <first : move a4b2
+Interrupting second
+537372 >second: time 35336
+537372 >second: otim 29533
+book hit = (NULL)
+537372 >second: a4b2
+537486 <second: # times @ 782395012
+537486 <second: # 11+9 pieces, centr = (1,1) R=18
+537486 <second:  1   -222        0          3 c2c3
+537486 <second:  1    -80        0          3 c2c1
+537486 <second:  1    -74        0          3 h2h1
+537486 <second:  2    -80        0         33 h2h1 c3e5
+537486 <second:  3    -80        0       1092 h2h1 c3e5 c2c8 a8c8
+537486 <second:  4    -80        0       1816 h2h1 c3e5 c2c8 a8c8
+537486 <second: # times @ 782395016: real=4 cpu=0
+537486 <second: # promo = 0 (`) GT = 0
+537486 <second: move h2h1
+537486 >first : time 29533
+537486 >first : otim 35524
+book hit = (NULL)
+537486 >first : h2h1
+539261 <first : move c3b4
+Interrupting second
+539261 >second: time 35524
+539261 >second: otim 29555
+book hit = (NULL)
+539261 >second: c3b4
+539351 <second: # times @ 782396901
+539351 <second: # 10+9 pieces, centr = (1,1) R=18
+539351 <second:  1     46        0          3 c2b2
+539351 <second:  2     46        0          7 c2b2 b4a3
+539351 <second:  3   -155        0        833 c2b2 c8c1 e1f2 b4d2
+539351 <second:  3   -127        0       1120 c2c8 b4d2 e1d2 a8c8
+539351 <second:  4   -126        0       1456 c2c8 b4d2 e1d2 a8c8 e2e3
+539351 <second: # times @ 782396904: real=3 cpu=10
+539351 <second: # promo = 0 (`) GT = 0
+539351 <second: move c2c8
+539351 >first : time 29555
+539351 >first : otim 35715
+book hit = (NULL)
+539351 >first : c2c8
+539690 <first : move a8c8
+Interrupting second
+539691 >second: time 35715
+539691 >second: otim 29722
+book hit = (NULL)
+539691 >second: a8c8
+539778 <second: # times @ 782397331
+539778 <second: # 9+8 pieces, centr = (1,1) R=12
+539778 <second:  1    155        0          3 a3b4
+539778 <second:  2    151        0         23 a3b4 b7b5
+539778 <second:  3   -303        0        553 a3b4 c8c1 e1f2 c1h1
+539778 <second:  4   -299        0       4707 a3b4 c8c1 e1f2 c1h1 d2f3
+539778 <second: # times @ 782397336: real=5 cpu=0
+539778 <second: # promo = 0 (`) GT = 0
+539778 <second: move a3b4
+539778 >first : time 29722
+539778 >first : otim 35906
+book hit = (NULL)
+539778 >first : a3b4
+540268 <first : move c8c1
+Interrupting second
+540268 >second: time 35906
+540268 >second: otim 29873
+book hit = (NULL)
+540269 >second: c8c1
+540385 <second: # times @ 782397909
+540385 <second: # 9+7 pieces, centr = (1,1) R=10
+540385 <second:  1   -300        0          3 e1f2
+540385 <second:  2   -300        0          4 e1f2
+540385 <second:  3   -311        0        294 e1f2 c1h1 d2f3 b7b5
+540385 <second:  4   -309        0       1529 e1f2 c1h1 d2f3 b7b5 f3e5
+540385 <second: # times @ 782397910: real=1 cpu=0
+540385 <second: # promo = 0 (`) GT = 0
+540385 <second: move e1f2
+540386 >first : time 29873
+540386 >first : otim 36095
+book hit = (NULL)
+540386 >first : e1f2
+540765 <first : move c1h1
+Interrupting second
+540765 >second: time 36095
+540765 >second: otim 30035
+book hit = (NULL)
+540765 >second: c1h1
+540880 <second: # times @ 782398405
+540880 <second: # 8+7 pieces, centr = (1,1) R=7
+540880 <second:  1   -378        0          7 e2e3 b2d3
+540880 <second:  1   -299        0         13 f2g2
+540880 <second:  2   -299        0         50 f2g2 h1e1
+540881 <second:  3   -296        0        265 f2g2 h1d1 d2f3
+540881 <second:  4   -303        0        530 f2g2 h1d1 d2f3 a6b5
+540881 <second: # times @ 782398407: real=2 cpu=0
+540881 <second: # promo = 0 (`) GT = 0
+540881 <second: move f2g2
+540881 >first : time 30035
+540881 >first : otim 36283
+book hit = (NULL)
+540881 >first : f2g2
+543181 <first : move h1e1
+Interrupting second
+543181 >second: time 36283
+543181 >second: otim 30005
+book hit = (NULL)
+543181 >second: h1e1
+543282 <second: # times @ 782400822
+543282 <second: # 8+7 pieces, centr = (1,1) R=7
+543282 <second:  1   -379        0          3 b4b5
+543282 <second:  1   -370        0          3 e4e5
+543282 <second:  1   -368        0          3 d3d4
+543282 <second:  1   -366        0          3 d2f3
+543282 <second:  1   -296        0          3 g2f2
+543282 <second:  1   -289        0          3 g2f3
+543282 <second:  2   -298        0         25 g2f3 a6b5
+543282 <second:  2   -293        0         94 g2f2 e1d1
+543282 <second:  3   -289        0        294 g2f2 e1d1 f2e3
+543282 <second:  4   -296        0        517 g2f2 e1d1 f2e3 a6b5
+543282 <second: # times @ 782400823: real=1 cpu=10
+543282 <second: # promo = 0 (`) GT = 0
+543282 <second: move g2f2
+543282 >first : time 30005
+543282 >first : otim 36473
+book hit = (NULL)
+543282 >first : g2f2
+544997 <first : move e1c1
+Interrupting second
+544997 >second: time 36473
+544997 >second: otim 30033
+book hit = (NULL)
+544997 >second: e1c1
+545080 <second: # times @ 782402637
+545081 <second: # 8+7 pieces, centr = (1,1) R=7
+545081 <second:  1   -378        0          7 e2e3 b2d3
+545081 <second:  1   -299        0          9 f2g2
+545081 <second:  1   -292        0         15 f2f3
+545081 <second:  1   -291        0         17 f2e3
+545081 <second:  2   -300        0         37 f2e3 a6b5
+545081 <second:  3   -303        0        535 f2e3 a6b5 d2b3
+545081 <second:  3   -299        0       1474 d2b3 b2d1 f2f3
+545081 <second:  4   -301        0       2260 d2b3 c1c2 b3c5 a6b5
+545081 <second: # times @ 782402641: real=4 cpu=0
+545081 <second: # promo = 0 (`) GT = 0
+545081 <second: move d2b3
+545081 >first : time 30033
+545081 >first : otim 36665
+book hit = (NULL)
+545081 >first : d2b3
+550841 <first : move c1c7
+Interrupting second
+550841 >second: time 36665
+550841 >second: otim 29657
+book hit = (NULL)
+550841 >second: c1c7
+550953 <second: # times @ 782408481
+550953 <second: # 8+7 pieces, centr = (1,1) R=7
+550953 <second:  1   -294        0          3 d3d4
+550953 <second:  1   -292        0          3 f2f3
+550953 <second:  1   -291        0          3 f2e3
+550953 <second:  1   -286        0          3 b3d4
+550953 <second:  2   -293        0         26 b3d4 a6b6
+550953 <second:  3   -288        0        427 b3d4 a6b6 f2e3
+550953 <second:  4   -293        0        833 b3d4 a6b6 f2e3 a7a5
+550953 <second: # times @ 782408483: real=2 cpu=0
+550953 <second: # promo = 0 (`) GT = 0
+550953 <second: move b3d4
+550953 >first : time 29657
+550953 >first : otim 36853
+book hit = (NULL)
+550953 >first : b3d4
+558017 <first : move b2d1
+Interrupting second
+558018 >second: time 36853
+558018 >second: otim 29151
+book hit = (NULL)
+558018 >second: b2d1
+558131 <second: # times @ 782415658
+558131 <second: # 8+7 pieces, centr = (1,1) R=7
+558131 <second:  1   -292        0          3 f2g2
+558131 <second:  2   -310        0         18 f2g2 d1e3
+558131 <second:  2   -299        0        104 f2f3 d1c3
+558131 <second:  3   -295        0        360 f2f3 d1c3 e2e3
+558131 <second:  4   -300        0        845 f2f3 c7f7 d4f5 a6b5
+558132 <second: # times @ 782415659: real=1 cpu=0
+558132 <second: # promo = 0 (`) GT = 0
+558132 <second: move f2f3
+558132 >first : time 29151
+558132 >first : otim 37042
+book hit = (NULL)
+558132 >first : f2f3
+562212 <first : move c7f7
+Interrupting second
+562212 >second: time 37042
+562212 >second: otim 28943
+book hit = (NULL)
+562212 >second: c7f7
+562326 <second: # times @ 782419853
+562326 <second: # 8+7 pieces, centr = (1,1) R=7
+562326 <second:  1   -303        0          5 f3g2
+562326 <second:  1   -301        0          5 d4f5
+562326 <second:  2   -301        0          6 d4f5
+562326 <second:  3   -382        0        293 d4f5 g7g6 b4b5 a6b5
+562326 <second:  3   -314        0        438 f3g2 d1e3 g2h3
+562326 <second:  3   -308        0        620 f3g4 d1e3 g4g5
+562326 <second:  4   -314        0        684 f3g4 d1e3 g4g5 a6b6
+562326 <second: # times @ 782419853: real=0 cpu=10
+562326 <second: # promo = 0 (`) GT = 0
+562326 <second: move f3g4
+562327 >first : time 28943
+562327 >first : otim 37231
+book hit = (NULL)
+562327 >first : f3g4
+565474 <first : move d1f2
+Interrupting second
+565474 >second: time 37231
+565474 >second: otim 28828
+book hit = (NULL)
+565474 >second: d1f2
+565576 <second: # times @ 782423114
+565576 <second: # 8+7 pieces, centr = (1,1) R=7
+565576 <second:  1   -296        0          3 g4g5
+565576 <second:  2   -303        0         26 g4g5 a6b6
+565576 <second:  3   -301        0        400 g4g5 a6b6 g3g4
+565576 <second:  4   -306        0        735 g4g5 a6b6 g3g4 a7a5
+565576 <second: # times @ 782423115: real=1 cpu=0
+565576 <second: # promo = 0 (`) GT = 0
+565576 <second: move g4g5
+565576 >first : time 28828
+565576 >first : otim 37420
+book hit = (NULL)
+565576 >first : g4g5
+568123 <first : move f2h3@
+Interrupting second
+568123 >second: time 37420
+568123 >second: otim 28773
+book hit = (NULL)
+568123 >second: f2h3
+568229 <second: # times @ 782425763
+568229 <second: # 8+7 pieces, centr = (1,1) R=7
+568229 <second:  1   -301        0          3 g5h5
+568229 <second:  1   -296        0          3 g5g4
+568229 <second:  2   -296        0         87 g5g4 f7d7
+568229 <second:  3   -293        0        190 g5g4 f7d7 e2e3
+568229 <second:  4   -296        0        899 g5g4 f7d7 e2e3 h3f2
+568229 <second: # times @ 782425764: real=1 cpu=0
+568229 <second: # promo = 0 (`) GT = 0
+568229 <second: move g5g4
+568229 >first : time 28773
+568229 >first : otim 37610
+book hit = (NULL)
+568229 >first : g5g4
+570272 <first : move h3f2
+Interrupting second
+570272 >second: time 37610
+570272 >second: otim 28769
+book hit = (NULL)
+570272 >second: h3f2
+570374 <second: # times @ 782427912
+570374 <second: # 8+7 pieces, centr = (1,1) R=7
+570374 <second:  1     -1        0          3 g4g5
+570374 <second:  2     -1        0          4 g4g5
+570374 <second:  3     -1        0          5 g4g5
+570374 <second:  4     -1        0          6 g4g5
+570374 <second: # times @ 782427912: real=0 cpu=0
+570375 <second: # promo = 0 (`) GT = 0
+570375 <second: move g4g5
+570375 >first : time 28769
+570375 >first : otim 37799
+book hit = (NULL)
+570375 >first : g4g5
+573764 <first : move f2h3@
+Interrupting second
+573764 >second: time 37799
+573764 >second: otim 28630
+book hit = (NULL)
+573764 >second: f2h3
+573876 <second: # times @ 782431404
+573876 <second: # 8+7 pieces, centr = (1,1) R=7
+573876 <second:  1   -301        0          5 g5h5
+573876 <second:  1     -1        0          5 g5g4
+573876 <second:  2     -1        0          6 g5g4
+573876 <second:  3     -1        0          8 g5g4
+573876 <second:  4     -1        0         10 g5g4
+573876 <second: # times @ 782431404: real=0 cpu=0
+573876 <second: # promo = 0 (`) GT = 0
+573876 <second: move g5g4
+573877 >first : time 28630
+573877 >first : otim 37988
+book hit = (NULL)
+573877 >first : g5g4
+574757 <first : move h3f2
+Interrupting second
+574757 >second: time 37988
+574757 >second: otim 28742
+book hit = (NULL)
+574757 >second: h3f2
+574864 <second: 1/2-1/2 {Draw by repetition}
+GameEnds(28, Draw by repetition, 6)
+574864 >first : result 1/2-1/2 {Draw by repetition}
+Interrupting second
+574864 >second: result 1/2-1/2 {Draw by repetition}
+574865 >first : quit
+574866 >second: force
+574866 >second: ping 8
+574869 <second: Error (unknown command): result
+574869 <second: pong 8
+GameEnds(28, Draw by repetition, 2)
+598142 >second: quit

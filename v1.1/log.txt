@@ -1,0 +1,103 @@
+xboard
+TRYING: move e7e5
+xboard
+protover
+TRYING: move d7d5
+2
+TRYING: move a7a5
+new
+TRYING: move b7b5
+new
+random
+TRYING: resign
+level
+TRYING: resign
+40
+TRYING: resign
+5
+TRYING: resign
+0
+TRYING: resign
+post
+TRYING: resign
+hard
+TRYING: resign
+time
+TRYING: resign
+30000
+TRYING: resign
+otim
+TRYING: resign
+30000
+TRYING: resign
+d2d4
+TRYING: resign
+xboard
+TRYING: move e7e5
+xboard
+protover
+TRYING: move d7d5
+2
+TRYING: move a7a5
+new
+TRYING: move b7b5
+new
+random
+TRYING: resign
+level
+TRYING: resign
+40
+TRYING: resign
+5
+TRYING: resign
+0
+TRYING: resign
+post
+TRYING: resign
+hard
+TRYING: resign
+result
+TRYING: resign
+*
+TRYING: resign
+{xboard
+TRYING: resign
+exit}
+TRYING: resign
+force
+TRYING: resign
+force
+xboard
+TRYING: move e7e5
+xboard
+protover
+TRYING: move d7d5
+2
+TRYING: move a7a5
+new
+TRYING: move b7b5
+new
+random
+TRYING: resign
+level
+TRYING: resign
+40
+TRYING: resign
+5
+TRYING: resign
+0
+TRYING: resign
+post
+TRYING: resign
+hard
+TRYING: resign
+time
+TRYING: resign
+30000
+TRYING: resign
+otim
+TRYING: resign
+30000
+TRYING: resign
+e2e4
+TRYING: resign
